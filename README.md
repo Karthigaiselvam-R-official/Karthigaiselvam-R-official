@@ -388,8 +388,9 @@ me.say_hi()
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Karthigaiselvam-R-official/Karthigaiselvam-R-official/blob/output/github-snake-cyberpunk.svg" />
-    <img alt="github-snake" src="https://github.com/Karthigaiselvam-R-official/Karthigaiselvam-R-official/blob/output/github-snake.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Karthigaiselvam-R-official/Karthigaiselvam-R-official/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Karthigaiselvam-R-official/Karthigaiselvam-R-official/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Karthigaiselvam-R-official/Karthigaiselvam-R-official/output/github-contribution-grid-snake.svg" width="100%" />
   </picture>
   <br/><br/>
   <img src="https://img.shields.io/badge/Cyberpunk_Level-2077-d4af37?style=for-the-badge&logo=github&labelColor=000000&color=FEE75C" alt="Level" />
