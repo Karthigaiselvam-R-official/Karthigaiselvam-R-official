@@ -114,7 +114,7 @@ me.say_hi()
 <!-- CORE LANGUAGES -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=CORE+LANGUAGES" alt="Languages"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=CORE+LANGUAGES" alt="Languages"/>
   </a>
 </p>
 <p align="center">
@@ -131,7 +131,7 @@ me.say_hi()
 <!-- FRAMEWORKS & TOOLS -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=1000&color=41CD52&center=true&vCenter=true&width=500&lines=FRAMEWORKS+%26+TOOLS" alt="Frameworks"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=41CD52&center=true&vCenter=true&width=500&lines=FRAMEWORKS+%26+TOOLS" alt="Frameworks"/>
   </a>
 </p>
 <p align="center">
@@ -146,7 +146,7 @@ me.say_hi()
 <!-- CLOUD & DATABASE -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=1000&color=FF9900&center=true&vCenter=true&width=500&lines=CLOUD+%26+DATABASE" alt="Cloud"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=FF9900&center=true&vCenter=true&width=500&lines=CLOUD+%26+DATABASE" alt="Cloud"/>
   </a>
 </p>
 <p align="center">
@@ -161,7 +161,7 @@ me.say_hi()
 <!-- SECURITY ARSENAL -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=SECURITY+ARSENAL" alt="Security"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=SECURITY+ARSENAL" alt="Security"/>
   </a>
 </p>
 <p align="center">
