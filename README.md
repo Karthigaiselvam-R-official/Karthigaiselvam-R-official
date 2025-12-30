@@ -121,23 +121,23 @@ me.say_hi()
   <a href="#"><img width="575" src="https://skillicons.dev/icons?i=cpp,python,js,ts,bash,html&perline=6&theme=dark" alt="Languages Row 1"/></a>
 </p>
 <p align="center">
-  <sub><b>&nbsp;&nbsp;&nbsp;&nbsp;C++&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b></sub>
-  <sub><b>&nbsp;&nbsp;&nbsp;Python&nbsp;&nbsp;&nbsp;</b></sub>
-  <sub><b>&nbsp;JavaScript&nbsp;</b></sub>
-  <sub><b>&nbsp;TypeScript&nbsp;</b></sub>
-  <sub><b>&nbsp;&nbsp;&nbsp;&nbsp;Bash&nbsp;&nbsp;&nbsp;&nbsp;</b></sub>
-  <sub><b>&nbsp;&nbsp;&nbsp;HTML&nbsp;&nbsp;&nbsp;&nbsp;</b></sub>
+  <b>&nbsp;&nbsp;&nbsp;&nbsp;C++&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b>
+  <b>&nbsp;&nbsp;&nbsp;Python&nbsp;&nbsp;&nbsp;</b>
+  <b>&nbsp;JavaScript&nbsp;</b>
+  <b>&nbsp;TypeScript&nbsp;</b>
+  <b>&nbsp;&nbsp;&nbsp;&nbsp;Bash&nbsp;&nbsp;&nbsp;&nbsp;</b>
+  <b>&nbsp;&nbsp;&nbsp;HTML&nbsp;&nbsp;&nbsp;&nbsp;</b>
 </p>
 <p align="center">
   <a href="#"><img width="575" src="https://skillicons.dev/icons?i=css,md,qt,powershell,c,go&perline=6&theme=dark" alt="Languages Row 2"/></a>
 </p>
 <p align="center">
-  <sub><b>&nbsp;&nbsp;&nbsp;&nbsp;CSS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b></sub>
-  <sub><b>&nbsp;&nbsp;Markdown&nbsp;&nbsp;</b></sub>
-  <sub><b>&nbsp;&nbsp;&nbsp;&nbsp;QML&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b></sub>
-  <sub><b>&nbsp;&nbsp;&nbsp;Shell&nbsp;&nbsp;&nbsp;&nbsp;</b></sub>
-  <sub><b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b></sub>
-  <sub><b>&nbsp;&nbsp;&nbsp;&nbsp;Go&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b></sub>
+  <b>&nbsp;&nbsp;&nbsp;&nbsp;CSS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b>
+  <b>&nbsp;&nbsp;Markdown&nbsp;&nbsp;</b>
+  <b>&nbsp;&nbsp;&nbsp;&nbsp;QML&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b>
+  <b>&nbsp;&nbsp;&nbsp;Shell&nbsp;&nbsp;&nbsp;&nbsp;</b>
+  <b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b>
+  <b>&nbsp;&nbsp;&nbsp;&nbsp;Go&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b>
 </p>
 
 <br/>
@@ -152,23 +152,23 @@ me.say_hi()
   <a href="#"><img width="575" src="https://skillicons.dev/icons?i=qt,cmake,react,nodejs,express,docker&perline=6&theme=dark" alt="Frameworks"/></a>
 </p>
 <p align="center">
-  <sub><b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Qt&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b></sub>
-  <sub><b>&nbsp;&nbsp;&nbsp;CMake&nbsp;&nbsp;&nbsp;</b></sub>
-  <sub><b>&nbsp;&nbsp;&nbsp;React&nbsp;&nbsp;&nbsp;&nbsp;</b></sub>
-  <sub><b>&nbsp;&nbsp;Node.js&nbsp;&nbsp;</b></sub>
-  <sub><b>&nbsp;&nbsp;Express&nbsp;&nbsp;</b></sub>
-  <sub><b>&nbsp;&nbsp;&nbsp;Docker&nbsp;&nbsp;&nbsp;</b></sub>
+  <b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Qt&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b>
+  <b>&nbsp;&nbsp;&nbsp;CMake&nbsp;&nbsp;&nbsp;</b>
+  <b>&nbsp;&nbsp;&nbsp;React&nbsp;&nbsp;&nbsp;&nbsp;</b>
+  <b>&nbsp;&nbsp;Node.js&nbsp;&nbsp;</b>
+  <b>&nbsp;&nbsp;Express&nbsp;&nbsp;</b>
+  <b>&nbsp;&nbsp;&nbsp;Docker&nbsp;&nbsp;&nbsp;</b>
 </p>
 <p align="center">
   <a href="#"><img width="575" src="https://skillicons.dev/icons?i=git,github,vscode,vim,linux,ubuntu&perline=6&theme=dark" alt="Tools"/></a>
 </p>
 <p align="center">
-  <sub><b>&nbsp;&nbsp;&nbsp;&nbsp;Git&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b></sub>
-  <sub><b>&nbsp;&nbsp;&nbsp;GitHub&nbsp;&nbsp;&nbsp;</b></sub>
-  <sub><b>&nbsp;&nbsp;VS Code&nbsp;&nbsp;</b></sub>
-  <sub><b>&nbsp;&nbsp;&nbsp;&nbsp;Vim&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b></sub>
-  <sub><b>&nbsp;&nbsp;&nbsp;Linux&nbsp;&nbsp;&nbsp;&nbsp;</b></sub>
-  <sub><b>&nbsp;&nbsp;&nbsp;Ubuntu&nbsp;&nbsp;&nbsp;</b></sub>
+  <b>&nbsp;&nbsp;&nbsp;&nbsp;Git&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b>
+  <b>&nbsp;&nbsp;&nbsp;GitHub&nbsp;&nbsp;&nbsp;</b>
+  <b>&nbsp;&nbsp;VS Code&nbsp;&nbsp;</b>
+  <b>&nbsp;&nbsp;&nbsp;&nbsp;Vim&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b>
+  <b>&nbsp;&nbsp;&nbsp;Linux&nbsp;&nbsp;&nbsp;&nbsp;</b>
+  <b>&nbsp;&nbsp;&nbsp;Ubuntu&nbsp;&nbsp;&nbsp;</b>
 </p>
 
 <br/>
@@ -183,23 +183,23 @@ me.say_hi()
   <a href="#"><img width="575" src="https://skillicons.dev/icons?i=linux,aws,azure,gcp,docker,kubernetes&perline=6&theme=dark" alt="Cloud"/></a>
 </p>
 <p align="center">
-  <sub><b>&nbsp;&nbsp;&nbsp;Linux&nbsp;&nbsp;&nbsp;&nbsp;</b></sub>
-  <sub><b>&nbsp;&nbsp;&nbsp;&nbsp;AWS&nbsp;&nbsp;&nbsp;&nbsp;</b></sub>
-  <sub><b>&nbsp;&nbsp;&nbsp;Azure&nbsp;&nbsp;&nbsp;&nbsp;</b></sub>
-  <sub><b>&nbsp;&nbsp;&nbsp;&nbsp;GCP&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b></sub>
-  <sub><b>&nbsp;&nbsp;&nbsp;Docker&nbsp;&nbsp;&nbsp;</b></sub>
-  <sub><b>&nbsp;&nbsp;&nbsp;&nbsp;K8s&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b></sub>
+  <b>&nbsp;&nbsp;&nbsp;Linux&nbsp;&nbsp;&nbsp;&nbsp;</b>
+  <b>&nbsp;&nbsp;&nbsp;&nbsp;AWS&nbsp;&nbsp;&nbsp;&nbsp;</b>
+  <b>&nbsp;&nbsp;&nbsp;Azure&nbsp;&nbsp;&nbsp;&nbsp;</b>
+  <b>&nbsp;&nbsp;&nbsp;&nbsp;GCP&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b>
+  <b>&nbsp;&nbsp;&nbsp;Docker&nbsp;&nbsp;&nbsp;</b>
+  <b>&nbsp;&nbsp;&nbsp;&nbsp;K8s&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b>
 </p>
 <p align="center">
   <a href="#"><img width="575" src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,firebase,sqlite&perline=6&theme=dark" alt="Database"/></a>
 </p>
 <p align="center">
-  <sub><b>&nbsp;&nbsp;MongoDB&nbsp;&nbsp;</b></sub>
-  <sub><b>&nbsp;&nbsp;&nbsp;MySQL&nbsp;&nbsp;&nbsp;</b></sub>
-  <sub><b>&nbsp;&nbsp;Postgres&nbsp;&nbsp;</b></sub>
-  <sub><b>&nbsp;&nbsp;&nbsp;Redis&nbsp;&nbsp;&nbsp;&nbsp;</b></sub>
-  <sub><b>&nbsp;&nbsp;Firebase&nbsp;&nbsp;</b></sub>
-  <sub><b>&nbsp;&nbsp;&nbsp;SQLite&nbsp;&nbsp;&nbsp;</b></sub>
+  <b>&nbsp;&nbsp;MongoDB&nbsp;&nbsp;</b>
+  <b>&nbsp;&nbsp;&nbsp;MySQL&nbsp;&nbsp;&nbsp;</b>
+  <b>&nbsp;&nbsp;Postgres&nbsp;&nbsp;</b>
+  <b>&nbsp;&nbsp;&nbsp;Redis&nbsp;&nbsp;&nbsp;&nbsp;</b>
+  <b>&nbsp;&nbsp;Firebase&nbsp;&nbsp;</b>
+  <b>&nbsp;&nbsp;&nbsp;SQLite&nbsp;&nbsp;&nbsp;</b>
 </p>
 
 <br/>
