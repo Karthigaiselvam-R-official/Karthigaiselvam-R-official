@@ -330,37 +330,6 @@ me.say_hi()
 
 ---
 
-<!-- GITHUB STATISTICS -->
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Karthigaiselvam-R-official&theme=github_dark" alt="Profile Details"/>
-</p>
-
-<div align="center">
-<table width="100%">
-<tr>
-<td width="33%" align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Karthigaiselvam-R-official&theme=github_dark" alt="Stats"/>
-</td>
-<td width="33%" align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Karthigaiselvam-R-official&theme=github_dark&utcOffset=5.5" alt="Productive Time"/>
-</td>
-<td width="33%" align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Karthigaiselvam-R-official&theme=github_dark" alt="Repos per Language"/>
-</td>
-</tr>
-</table>
-</div>
-
----
-
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
----
-
 <!-- GITHUB ANALYTICS DASHBOARD -->
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -370,6 +339,12 @@ me.say_hi()
 
 <div align="center">
 <table border="0" width="100%">
+  <!-- ROW 1: PROFILE DETAILS (Wide) - Tokyo Night Theme -->
+  <tr>
+    <td colspan="3" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Karthigaiselvam-R-official&theme=tokyonight" alt="Profile Details" width="100%" />
+    </td>
+  </tr>
   <!-- ROW 2: DETAILED STATS (3 Columns) - Tokyo Night Theme -->
   <tr>
     <td width="33%" align="center">
