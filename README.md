@@ -391,57 +391,96 @@ me.say_hi()
 </p>
 
 <!-- COMPLEX TERMINAL FRAME WRAPPER -->
-<!-- HACKER CONSOLE :: MATRIX MODE -->
+<!--
+ADVANCED GITHUB PROFILE - SNAKE ANIMATION SECTION
+This is a sophisticated layout that uses HTML tables for alignment
+and <picture> tags for theme detection.
+-->
+
 <div align="center">
-<table border="0" cellspacing="0" cellpadding="0" width="100%">
-<tr>
-<td align="center" bgcolor="#0d1117" style="border: 2px solid #39ff14; border-radius: 4px; box-shadow: 0 0 10px #39ff14;">
 
-<!-- HACKER HEADER -->
-<table border="0" width="100%" cellspacing="0" cellpadding="5" bgcolor="#000000">
-<tr>
-<td width="20%" align="left">
-<img src="https://img.shields.io/badge/ACCESS-GRANTED-39ff14?style=flat-square&labelColor=000000&color=39ff14"/>
-</td>
-<td width="60%" align="center">
-<b style="color: #39ff14; font-family: monospace;">root@system:~# ./inject_snake.sh --force</b>
-</td>
-<td width="20%" align="right">
-<img src="https://img.shields.io/badge/GRID-ONLINE-39ff14?style=flat-square&labelColor=000000&color=39ff14"/>
-</td>
-</tr>
-</table>
+<!-- WORKFLOW STATUS BADGE -->
 
-<!-- MAIN GRID DISPLAY (MAXIMIZED) -->
-<table border="0" width="100%" cellspacing="0" cellpadding="20">
-<tr>
-<td width="100%" align="center" valign="middle">
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=12&pause=1000&color=39ff14&center=true&width=500&lines=INITIALIZING_MATRIX_CONTRIBUTION_GRID...;TARGET_LOCKED:_COMMIT_HISTORY;" alt="Status" /><br/>
-<br/>
-<!-- SNAKE ANIMATION SECTION -->
+<!-- This links to your Actions tab so you can see if the snake update ran successfully -->
+
+<a href="https://github.com/Karthigaiselvam-R-official/Karthigaiselvam-R-official/actions/workflows/snake.yml">
+<img src="https://github.com/Karthigaiselvam-R-official/Karthigaiselvam-R-official/actions/workflows/snake.yml/badge.svg" alt="Generate Snake" />
+</a>
+
+<br />
+<br />
+
+<!-- MAIN ANIMATION STAGE -->
+
+<!--
+Responsive Logic:
+- Detects Dark Mode -> Loads snake-dark.svg
+- Detects Light Mode -> Loads snake.svg
+-->
+
+<a href="https://github.com/Karthigaiselvam-R-official/Karthigaiselvam-R-official/actions/workflows/snake.yml">
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Karthigaiselvam-R-official/Karthigaiselvam-R-official/output/github-contribution-grid-snake-dark.svg?v=5">
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Karthigaiselvam-R-official/Karthigaiselvam-R-official/output/github-contribution-grid-snake.svg?v=5">
-<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Karthigaiselvam-R-official/Karthigaiselvam-R-official/output/github-contribution-grid-snake.svg?v=5" width="100%">
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Karthigaiselvam-R-official/Karthigaiselvam-R-official/output/github-contribution-grid-snake-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Karthigaiselvam-R-official/Karthigaiselvam-R-official/output/github-contribution-grid-snake.svg">
+<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Karthigaiselvam-R-official/Karthigaiselvam-R-official/output/github-contribution-grid-snake.svg" width="100%">
 </picture>
-<!-- OCEAN THEME VARIANT (Disabled by default, uncomment to use) -->
-<!-- <img src="https://raw.githubusercontent.com/Karthigaiselvam-R-official/Karthigaiselvam-R-official/output/ocean.svg?v=5" alt="Ocean Theme Snake" /> -->
-</td>
-</tr>
-</table>
+</a>
 
-<!-- HACKER FOOTER -->
-<table border="0" width="100%" cellspacing="0" cellpadding="5" bgcolor="#000000">
+</div>
+
+<br />
+
+<!--
+THEME SHOWCASE GALLERY
+Using a table to display the custom "Ocean" variant alongside the standard ones.
+This adds visual richness to the profile.
+-->
+
+<table align="center" width="100%" style="border: none;">
 <tr>
-<td align="center">
-<samp style="color: #39ff14; font-family: monospace;">[Process Completed. System Integrity: 100%]</samp>
+<td align="center" width="50%">
+<b>🌊 Ocean Edition</b>
+<br/>
+<sub>Custom Palette Variant</sub>
+<br/>
+<img src="https://raw.githubusercontent.com/Karthigaiselvam-R-official/Karthigaiselvam-R-official/output/ocean.svg" alt="Ocean Theme" width="100%"/>
+</td>
+<td align="center" width="50%">
+<b>⚡ Dark/Light Smart Switch</b>
+<br/>
+<sub>System Adaptive Variant</sub>
+<br/>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Karthigaiselvam-R-official/Karthigaiselvam-R-official/output/github-contribution-grid-snake-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Karthigaiselvam-R-official/Karthigaiselvam-R-official/output/github-contribution-grid-snake.svg">
+<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Karthigaiselvam-R-official/Karthigaiselvam-R-official/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
 </td>
 </tr>
 </table>
 
-</td>
-</tr>
-</table>
+<br />
+
+<!--
+EXPANDABLE TECH SPECS
+Use <details> to keep technical info hidden but accessible.
+Great for showing others how you did it without cluttering the main view.
+-->
+
+<div align="center">
+<details>
+<summary>🤖 <b>How this works (Click to Expand)</b></summary>
+<br />
+This section is auto-generated by a GitHub Action workflow!
+<br /><br />
+<ul>
+<li><b>Engine:</b> <a href="https://github.com/Platane/snk">Platane/snk v3</a></li>
+<li><b>Frequency:</b> Updates every 24 hours (UTC midnight)</li>
+<li><b>Storage:</b> SVG assets are pushed to the orphaned <code>output</code> branch</li>
+<li><b>Tech:</b> Responsive SVG using HTML <code>picture</code> tags</li>
+</ul>
+<p><i>Give the snake a star! ⭐</i></p>
+</details>
 </div>
 
 <!-- FOOTER CONSOLE LOG -->
