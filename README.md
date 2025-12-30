@@ -111,19 +111,18 @@ me.say_hi()
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=2&section=header"/>
 </p>
 
-<!-- CORE LANGUAGES - What I Actually Use -->
+<!-- CORE LANGUAGES -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&width=350&lines=CORE+LANGUAGES" alt="Languages"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=CORE+LANGUAGES" alt="Languages"/>
   </a>
 </p>
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=cpp,python,js,bash&perline=4&theme=dark" alt="Core Languages"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=cpp,python,js,ts,bash,html&perline=6&theme=dark" alt="Languages Row 1"/></a>
 </p>
 <p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=css,md&perline=6&theme=dark" alt="Languages Row 2"/></a>
   <img src="https://img.shields.io/badge/QML-41CD52?style=for-the-badge&logo=qt&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
 </p>
 
@@ -132,14 +131,14 @@ me.say_hi()
 <!-- FRAMEWORKS & TOOLS -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=1000&color=41CD52&center=true&vCenter=true&width=350&lines=FRAMEWORKS+%26+TOOLS" alt="Frameworks"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=1000&color=41CD52&center=true&vCenter=true&width=500&lines=FRAMEWORKS+%26+TOOLS" alt="Frameworks"/>
   </a>
 </p>
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=qt,cmake,docker,git&perline=4&theme=dark" alt="Frameworks"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=qt,cmake,react,nodejs,express,docker&perline=6&theme=dark" alt="Frameworks"/></a>
 </p>
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=react,nodejs,vscode,linux&perline=4&theme=dark" alt="Tools"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=git,github,vscode,vim,linux,ubuntu&perline=6&theme=dark" alt="Tools"/></a>
 </p>
 
 <br/>
@@ -147,14 +146,14 @@ me.say_hi()
 <!-- CLOUD & DATABASE -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=1000&color=FF9900&center=true&vCenter=true&width=350&lines=CLOUD+%26+DATABASE" alt="Cloud"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=1000&color=FF9900&center=true&vCenter=true&width=500&lines=CLOUD+%26+DATABASE" alt="Cloud"/>
   </a>
 </p>
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=aws,azure,gcp,mongodb&perline=4&theme=dark" alt="Cloud"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=linux,aws,azure,gcp,docker,kubernetes&perline=6&theme=dark" alt="Cloud"/></a>
 </p>
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=mysql,postgres,redis,firebase&perline=4&theme=dark" alt="Database"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,firebase,sqlite&perline=6&theme=dark" alt="Database"/></a>
 </p>
 
 <br/>
@@ -162,7 +161,7 @@ me.say_hi()
 <!-- SECURITY ARSENAL -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=1000&color=FF0000&center=true&vCenter=true&width=350&lines=SECURITY+ARSENAL" alt="Security"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=SECURITY+ARSENAL" alt="Security"/>
   </a>
 </p>
 <p align="center">
@@ -172,11 +171,13 @@ me.say_hi()
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
   <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white"/>
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white"/>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white"/>
   <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hashcat-3E3E3E?style=for-the-badge&logo=hackaday&logoColor=white"/>
   <img src="https://img.shields.io/badge/John_The_Ripper-2F2F2F?style=for-the-badge&logo=hackaday&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nikto-CC0000?style=for-the-badge&logo=hackaday&logoColor=white"/>
 </p>
 
 <!-- Animated Bottom Border -->
