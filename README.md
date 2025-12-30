@@ -242,61 +242,29 @@ me.say_hi()
 ## 🔥 Featured Projects
 
 <div align="center">
-<table width="100%">
+<table border="0">
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🖥️ ASUS TUF Fan Controller</h3>
-      <p align="center">
-        <a href="https://github.com/Karthigaiselvam-R-official/AsusTufFanControl_Linux">
-          <img src="https://img.shields.io/badge/🔗_View_Project-00d4ff?style=for-the-badge"/>
-        </a>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Qt6-41CD52?style=for-the-badge&logo=qt&logoColor=white"/>
-        <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-      </p>
-      <p align="center"><em>Expert-level system control for ASUS TUF/ROG laptops on Linux</em></p>
+    <td width="50%" align="center">
+      <a href="https://github.com/Karthigaiselvam-R-official/AsusTufFanControl_Linux">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Karthigaiselvam-R-official&repo=AsusTufFanControl_Linux&theme=tokyonight&show_owner=false" alt="AsusTufFanControl_Linux" />
+      </a>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🔍 Vulnerability Scanner</h3>
-      <p align="center">
-        <a href="https://github.com/Karthigaiselvam-R-official/Vulnerability_Scanner">
-          <img src="https://img.shields.io/badge/🔗_View_Project-00d4ff?style=for-the-badge"/>
-        </a>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Security-FF0000?style=for-the-badge&logo=hackaday&logoColor=white"/>
-      </p>
-      <p align="center"><em>Automated security scanning for web applications</em></p>
+    <td width="50%" align="center">
+      <a href="https://github.com/Karthigaiselvam-R-official/Vulnerability_Scanner">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Karthigaiselvam-R-official&repo=Vulnerability_Scanner&theme=tokyonight&show_owner=false" alt="Vulnerability_Scanner" />
+      </a>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🚫 403 Bypass Tool</h3>
-      <p align="center">
-        <a href="https://github.com/Karthigaiselvam-R-official/403-bypass3r">
-          <img src="https://img.shields.io/badge/🔗_View_Project-00d4ff?style=for-the-badge"/>
-        </a>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Pentest-000000?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-      </p>
-      <p align="center"><em>Bypass 403 forbidden during penetration testing</em></p>
+    <td width="50%" align="center">
+      <a href="https://github.com/Karthigaiselvam-R-official/403-bypass3r">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Karthigaiselvam-R-official&repo=403-bypass3r&theme=tokyonight&show_owner=false" alt="403-bypass3r" />
+      </a>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">📋 Smart Attendance</h3>
-      <p align="center">
-        <a href="https://github.com/Karthigaiselvam-R-official/Smart_Attendance">
-          <img src="https://img.shields.io/badge/🔗_View_Project-00d4ff?style=for-the-badge"/>
-        </a>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-      </p>
-      <p align="center"><em>Face recognition based attendance system</em></p>
+    <td width="50%" align="center">
+      <a href="https://github.com/Karthigaiselvam-R-official/Smart_Attendance">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Karthigaiselvam-R-official&repo=Smart_Attendance&theme=tokyonight&show_owner=false" alt="Smart_Attendance" />
+      </a>
     </td>
   </tr>
 </table>
