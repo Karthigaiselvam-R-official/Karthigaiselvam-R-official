@@ -165,19 +165,19 @@ me.say_hi()
   </a>
 </p>
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=kali&perline=1&theme=dark" alt="Kali"/></a>
+  <a href="#"><img width="150" src="https://skillicons.dev/icons?i=kali&perline=1&theme=dark" alt="Kali"/></a>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white"/>
+  <img height="40" src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+  <img height="40" src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white"/>
+  <img height="40" src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+  <img height="40" src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white"/>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hashcat-3E3E3E?style=for-the-badge&logo=hackaday&logoColor=white"/>
-  <img src="https://img.shields.io/badge/John_The_Ripper-2F2F2F?style=for-the-badge&logo=hackaday&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nikto-CC0000?style=for-the-badge&logo=hackaday&logoColor=white"/>
+  <img height="40" src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
+  <img height="40" src="https://img.shields.io/badge/Hashcat-3E3E3E?style=for-the-badge&logo=hackaday&logoColor=white"/>
+  <img height="40" src="https://img.shields.io/badge/John_The_Ripper-2F2F2F?style=for-the-badge&logo=hackaday&logoColor=white"/>
+  <img height="40" src="https://img.shields.io/badge/Nikto-CC0000?style=for-the-badge&logo=hackaday&logoColor=white"/>
 </p>
 
 <!-- Animated Bottom Border -->
