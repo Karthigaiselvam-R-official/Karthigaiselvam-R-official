@@ -14,9 +14,13 @@
 
 <!-- SOCIAL BADGES ROW -->
 <p align="center">
-  <img src="https://img.shields.io/github/followers/Karthigaiselvam-R-official?style=for-the-badge&logo=github&color=0d1117&labelColor=0d1117" alt="Followers"/>
+  <a href="https://github.com/Karthigaiselvam-R-official?tab=followers">
+    <img src="https://img.shields.io/github/followers/Karthigaiselvam-R-official?style=for-the-badge&logo=github&color=00d4ff&labelColor=0d1117" alt="Followers"/>
+  </a>
   &nbsp;
-  <img src="https://img.shields.io/github/stars/Karthigaiselvam-R-official?style=for-the-badge&logo=github&color=0d1117&labelColor=0d1117" alt="Stars"/>
+  <a href="https://github.com/Karthigaiselvam-R-official?tab=stars">
+    <img src="https://img.shields.io/github/stars/Karthigaiselvam-R-official?style=for-the-badge&logo=github&color=00d4ff&labelColor=0d1117" alt="Stars"/>
+  </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/karthigaiselvam-r-7b9197258/">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -28,6 +32,9 @@
 </p>
 
 <br/>
+
+<!-- Animated Wave Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
 
@@ -90,35 +97,60 @@ me.say_hi()
 </tr>
 </table>
 
-<!-- Animated Wave GIF Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
 
-<!-- TECH STACK WITH SKILL ICONS -->
+<!-- TECH STACK WITH SKILL ICONS AND CATEGORY HEADERS -->
 ## ⚡ Tech Arsenal
 
+<table width="100%">
+<tr>
+<td align="center" width="33%">
+
+### 💻 Languages
+<br/>
+<a href="#"><img src="https://skillicons.dev/icons?i=python,cpp,js&theme=dark" alt="Languages"/></a>
+<br/><br/>
+<a href="#"><img src="https://skillicons.dev/icons?i=ts,bash,html,css&theme=dark" alt="More Languages"/></a>
+
+</td>
+<td align="center" width="33%">
+
+### 🛠️ Frameworks & Tools
+<br/>
+<a href="#"><img src="https://skillicons.dev/icons?i=qt,react,nodejs&theme=dark" alt="Frameworks"/></a>
+<br/><br/>
+<a href="#"><img src="https://skillicons.dev/icons?i=express,docker,git&theme=dark" alt="Tools"/></a>
+
+</td>
+<td align="center" width="33%">
+
+### ☁️ Cloud & Database
+<br/>
+<a href="#"><img src="https://skillicons.dev/icons?i=linux,aws,azure&theme=dark" alt="Cloud"/></a>
+<br/><br/>
+<a href="#"><img src="https://skillicons.dev/icons?i=mongodb,mysql,redis&theme=dark" alt="Database"/></a>
+
+</td>
+</tr>
+</table>
+
+<!-- Security Tools with styled badges -->
+<h3 align="center">🔒 Security Arsenal</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,bash,html,css&theme=dark" alt="Languages"/>
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=qt,react,nodejs,express,docker,linux,git&theme=dark" alt="Frameworks"/>
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=kali,aws,azure,mongodb,mysql,postgres,redis&theme=dark" alt="Cloud & DB"/>
+  <a href="#"><img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/></a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logo=nmap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white"/>
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
 
-<!-- FEATURED PROJECTS WITH CREATIVE CARDS -->
+<!-- FEATURED PROJECTS -->
 ## 🔥 Featured Projects
 
 <table>
@@ -127,28 +159,27 @@ me.say_hi()
       <h3 align="center">🖥️ ASUS TUF Fan Controller</h3>
       <p align="center">
         <a href="https://github.com/Karthigaiselvam-R-official/AsusTufFanControl_Linux">
-          <img src="https://img.shields.io/badge/View_Project-00d4ff?style=for-the-badge&logo=github&logoColor=white"/>
+          <img src="https://img.shields.io/badge/🔗_View_Project-00d4ff?style=for-the-badge"/>
         </a>
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Qt6-41CD52?style=flat-square&logo=qt&logoColor=white"/>
-        <img src="https://img.shields.io/badge/QML-00599C?style=flat-square&logo=qt&logoColor=white"/>
-        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Qt6-41CD52?style=for-the-badge&logo=qt&logoColor=white"/>
+        <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
       </p>
-      <p align="center"><em>Expert-level system control for ASUS TUF/ROG laptops on Linux. Fan control, battery management, Aura Sync RGB.</em></p>
+      <p align="center"><em>Expert-level system control for ASUS TUF/ROG laptops on Linux</em></p>
     </td>
     <td width="50%">
       <h3 align="center">🔍 Vulnerability Scanner</h3>
       <p align="center">
         <a href="https://github.com/Karthigaiselvam-R-official/Vulnerability_Scanner">
-          <img src="https://img.shields.io/badge/View_Project-00d4ff?style=for-the-badge&logo=github&logoColor=white"/>
+          <img src="https://img.shields.io/badge/🔗_View_Project-00d4ff?style=for-the-badge"/>
         </a>
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Security-FF0000?style=flat-square&logo=hackaday&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Security-FF0000?style=for-the-badge&logo=hackaday&logoColor=white"/>
       </p>
-      <p align="center"><em>Automated security scanning tool for identifying vulnerabilities in web applications.</em></p>
+      <p align="center"><em>Automated security scanning for web applications</em></p>
     </td>
   </tr>
   <tr>
@@ -156,30 +187,32 @@ me.say_hi()
       <h3 align="center">🚫 403 Bypass Tool</h3>
       <p align="center">
         <a href="https://github.com/Karthigaiselvam-R-official/403-bypass3r">
-          <img src="https://img.shields.io/badge/View_Project-00d4ff?style=for-the-badge&logo=github&logoColor=white"/>
+          <img src="https://img.shields.io/badge/🔗_View_Project-00d4ff?style=for-the-badge"/>
         </a>
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Pentest-000000?style=flat-square&logo=kalilinux&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Pentest-000000?style=for-the-badge&logo=kalilinux&logoColor=white"/>
       </p>
-      <p align="center"><em>Security tool to bypass 403 forbidden errors during penetration testing.</em></p>
+      <p align="center"><em>Bypass 403 forbidden during penetration testing</em></p>
     </td>
     <td width="50%">
       <h3 align="center">📋 Smart Attendance</h3>
       <p align="center">
         <a href="https://github.com/Karthigaiselvam-R-official/Smart_Attendance">
-          <img src="https://img.shields.io/badge/View_Project-00d4ff?style=for-the-badge&logo=github&logoColor=white"/>
+          <img src="https://img.shields.io/badge/🔗_View_Project-00d4ff?style=for-the-badge"/>
         </a>
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
       </p>
-      <p align="center"><em>Face recognition based attendance system using Python and OpenCV.</em></p>
+      <p align="center"><em>Face recognition based attendance system</em></p>
     </td>
   </tr>
 </table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
 
@@ -190,58 +223,68 @@ me.say_hi()
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Karthigaiselvam-R-official&theme=github_dark" alt="Profile Details"/>
 </p>
 
-<p align="center">
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Karthigaiselvam-R-official&theme=github_dark" alt="Stats"/>
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Karthigaiselvam-R-official&theme=github_dark&utcOffset=5.5" alt="Productive Time"/>
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Karthigaiselvam-R-official&theme=github_dark" alt="Repos per Language"/>
-</p>
+<table width="100%">
+<tr>
+<td width="33%" align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Karthigaiselvam-R-official&theme=github_dark" alt="Stats"/>
+</td>
+<td width="33%" align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Karthigaiselvam-R-official&theme=github_dark&utcOffset=5.5" alt="Productive Time"/>
+</td>
+<td width="33%" align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Karthigaiselvam-R-official&theme=github_dark" alt="Repos per Language"/>
+</td>
+</tr>
+</table>
 
 ---
 
-<!-- ACHIEVEMENTS TROPHIES - FIXED WITH DIFFERENT HOST -->
+<!-- TROPHIES -->
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-trophies.vercel.app/?username=Karthigaiselvam-R-official&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=6" alt="Trophies"/>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Karthigaiselvam-R-official&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=6" alt="GitHub Trophies"/>
+  </a>
 </p>
 
-<!-- Alternative if above doesn't work -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Karthigaiselvam-R-official&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=6" alt="GitHub Trophies"/>
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
 
-<!-- DETAILED CONTRIBUTION VISUALIZATION -->
-## 📈 Contribution Activity & Timeline
+<!-- CONTRIBUTION ACTIVITY - CLEANED UP -->
+## 📈 Contribution Activity
 
-<!-- 3D Contribution Calendar -->
+<table width="100%">
+<tr>
+<td width="50%" align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Karthigaiselvam-R-official&theme=github_dark" alt="Most Commit Language"/>
+</td>
+<td width="50%" align="center">
+<img src="https://streak-stats.demolab.com?user=Karthigaiselvam-R-official&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=00d4ff&ring=00d4ff&fire=ff6b35&currStreakLabel=00d4ff&sideLabels=c9d1d9&dates=6e7681" alt="Streak"/>
+</td>
+</tr>
+</table>
+
+<!-- Activity Graph - Full Width Timeline -->
 <p align="center">
-  <img src="https://ghchart.rshah.org/00d4ff/Karthigaiselvam-R-official" alt="GitHub Contribution Chart"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Karthigaiselvam-R-official&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area_color=00d4ff&area=true&hide_border=true" alt="Activity Graph"/>
 </p>
 
-<!-- Most Commit Language + Streak -->
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Karthigaiselvam-R-official&theme=github_dark" alt="Most Commit Language"/>
-  <img width="49%" src="https://streak-stats.demolab.com?user=Karthigaiselvam-R-official&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=00d4ff&ring=00d4ff&fire=ff6b35&currStreakLabel=00d4ff&sideLabels=c9d1d9&dates=6e7681" alt="Streak"/>
-</p>
-
-<!-- Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Karthigaiselvam-R-official&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area_color=00d4ff&area=true&hide_border=true&custom_title=📅%20Daily%20Contribution%20Timeline" alt="Activity Graph"/>
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
 
-<!-- MERGED SECTION: CONTRIBUTION SNAKE + DETAILED STATS -->
-## 🐍 Contribution Journey
+<!-- CONTRIBUTION SNAKE WITH DETAILED INFO -->
+## 🐍 Contribution Snake Game
 
-<p align="center">
-  <em>Watch the snake eat my contributions! 🎮</em>
-</p>
+<table width="100%">
+<tr>
+<td align="center">
 
-<!-- Snake Animation -->
-<p align="center">
+### 🎮 Watch My Contributions Get Eaten!
+
+<p>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Karthigaiselvam-R-official/Karthigaiselvam-R-official/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Karthigaiselvam-R-official/Karthigaiselvam-R-official/output/github-snake.svg" />
@@ -249,12 +292,27 @@ me.say_hi()
   </picture>
 </p>
 
+</td>
+</tr>
+<tr>
+<td align="center">
+
 <!-- Contribution Stats Summary -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Total%20Contributions-187+-00d4ff?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Public%20Repos-6+-00d4ff?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Active%20Since-2023-00d4ff?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
+<br/>
+<a href="https://github.com/Karthigaiselvam-R-official"><img src="https://img.shields.io/badge/🌟_Total_Contributions-187+-00d4ff?style=for-the-badge"/></a>
+<a href="https://github.com/Karthigaiselvam-R-official?tab=repositories"><img src="https://img.shields.io/badge/📦_Public_Repos-6-00d4ff?style=for-the-badge"/></a>
+<a href="https://github.com/Karthigaiselvam-R-official"><img src="https://img.shields.io/badge/📅_Active_Since-2023-00d4ff?style=for-the-badge"/></a>
+<a href="https://github.com/Karthigaiselvam-R-official"><img src="https://img.shields.io/badge/🔥_Current_Streak-Active-ff6b35?style=for-the-badge"/></a>
+<br/><br/>
+
+*The snake moves across my contribution graph, eating the green squares (commits)!*  
+*Each green square represents a day with contributions. The more commits, the darker the green.*
+
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
 
