@@ -111,64 +111,72 @@ me.say_hi()
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=2&section=header"/>
 </p>
 
-<!-- 3-Column Layout for Tech Stack -->
-<div align="center">
-<table width="100%">
-<tr>
-<td align="center" width="33%" valign="top">
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2000&pause=1000&color=00D4FF&center=true&vCenter=true&width=150&lines=LANGUAGES" alt="Languages"/>
-</a>
-<br/><br/>
-<a href="#"><img src="https://skillicons.dev/icons?i=python,cpp,js&theme=dark" alt="Languages"/></a>
-<br/><br/>
-<a href="#"><img src="https://skillicons.dev/icons?i=ts,bash,html&theme=dark" alt="More Languages"/></a>
-
-</td>
-<td align="center" width="33%" valign="top">
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2000&pause=1000&color=41CD52&center=true&vCenter=true&width=200&lines=FRAMEWORKS" alt="Frameworks"/>
-</a>
-<br/><br/>
-<a href="#"><img src="https://skillicons.dev/icons?i=qt,react,nodejs&theme=dark" alt="Frameworks"/></a>
-<br/><br/>
-<a href="#"><img src="https://skillicons.dev/icons?i=express,docker,git&theme=dark" alt="Tools"/></a>
-
-</td>
-<td align="center" width="33%" valign="top">
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2000&pause=1000&color=FF9900&center=true&vCenter=true&width=150&lines=CLOUD+%26+DB" alt="Cloud"/>
-</a>
-<br/><br/>
-<a href="#"><img src="https://skillicons.dev/icons?i=linux,aws,azure&theme=dark" alt="Cloud"/></a>
-<br/><br/>
-<a href="#"><img src="https://skillicons.dev/icons?i=mongodb,mysql,redis&theme=dark" alt="Database"/></a>
-
-</td>
-</tr>
-</table>
-</div>
-
-<br/>
-
-<!-- Security Arsenal Section -->
+<!-- CORE LANGUAGES - What I Actually Use -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2000&pause=1000&color=FF0000&center=true&vCenter=true&width=250&lines=SECURITY+ARSENAL" alt="Security"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&width=350&lines=CORE+LANGUAGES" alt="Languages"/>
   </a>
 </p>
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=kali&theme=dark" alt="Kali"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=cpp,python,js,bash&perline=4&theme=dark" alt="Core Languages"/></a>
 </p>
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/QML-41CD52?style=for-the-badge&logo=qt&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+</p>
+
+<br/>
+
+<!-- FRAMEWORKS & TOOLS -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=1000&color=41CD52&center=true&vCenter=true&width=350&lines=FRAMEWORKS+%26+TOOLS" alt="Frameworks"/>
+  </a>
+</p>
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=qt,cmake,docker,git&perline=4&theme=dark" alt="Frameworks"/></a>
+</p>
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=react,nodejs,vscode,linux&perline=4&theme=dark" alt="Tools"/></a>
+</p>
+
+<br/>
+
+<!-- CLOUD & DATABASE -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=1000&color=FF9900&center=true&vCenter=true&width=350&lines=CLOUD+%26+DATABASE" alt="Cloud"/>
+  </a>
+</p>
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=aws,azure,gcp,mongodb&perline=4&theme=dark" alt="Cloud"/></a>
+</p>
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=mysql,postgres,redis,firebase&perline=4&theme=dark" alt="Database"/></a>
+</p>
+
+<br/>
+
+<!-- SECURITY ARSENAL -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=1000&color=FF0000&center=true&vCenter=true&width=350&lines=SECURITY+ARSENAL" alt="Security"/>
+  </a>
+</p>
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=kali&perline=1&theme=dark" alt="Kali"/></a>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/John_The_Ripper-2F2F2F?style=for-the-badge&logo=hackaday&logoColor=white"/>
 </p>
 
 <!-- Animated Bottom Border -->
