@@ -107,7 +107,7 @@ me.say_hi()
 <!-- TECH ARSENAL -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=28&duration=4000&pause=1000&color=FF3333&center=true&vCenter=true&width=500&lines=Tech+Arsenal;Languages+%26+Tools" alt="Tech Arsenal" />
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=28&duration=4000&pause=1000&color=3399FF&center=true&vCenter=true&width=500&lines=Tech+Arsenal;Languages+%26+Tools" alt="Tech Arsenal" />
   </a>
 </p>
 
@@ -386,7 +386,7 @@ me.say_hi()
 <!-- SECTION HEADER: CONTRIBUTION PROTOCOL -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=30&duration=3000&pause=1000&color=00ffff&center=true&vCenter=true&width=600&lines=Contribution+Protocol;Executing+Sequence..." alt="Contribution Protocol" />
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=30&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Contribution+Protocol;Executing+Sequence..." alt="Contribution Protocol" />
   </a>
 </p>
 
