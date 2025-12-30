@@ -117,20 +117,24 @@ me.say_hi()
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=CORE+LANGUAGES" alt="Languages"/>
   </a>
 </p>
-<p align="center">
-  <a href="#"><img width="575" src="https://skillicons.dev/icons?i=cpp,python,js,ts,bash,html&perline=6&theme=dark" alt="Languages Row 1"/></a>
-</p>
-<p align="center">
-  <code>C++</code> • <code>Python</code> • <code>JavaScript</code> • <code>TypeScript</code> • <code>Bash</code> • <code>HTML</code>
-</p>
-<p align="center">
-  <a href="#"><img width="200" src="https://skillicons.dev/icons?i=css,md&perline=2&theme=dark" alt="Languages Row 2"/></a>
-  <img src="https://img.shields.io/badge/QML-41CD52?style=for-the-badge&logo=qt&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
-</p>
-<p align="center">
-  <code>CSS</code> • <code>Markdown</code> • <code>QML</code> • <code>Shell</code>
-</p>
+<div align="center">
+<table>
+<tr>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="65"/><br/><sub><b>C++</b></sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=python&theme=dark" width="65"/><br/><sub><b>Python</b></sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="65"/><br/><sub><b>JavaScript</b></sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=ts&theme=dark" width="65"/><br/><sub><b>TypeScript</b></sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=bash&theme=dark" width="65"/><br/><sub><b>Bash</b></sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="65"/><br/><sub><b>HTML</b></sub></td>
+</tr>
+<tr>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="65"/><br/><sub><b>CSS</b></sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=md&theme=dark" width="65"/><br/><sub><b>Markdown</b></sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=qt&theme=dark" width="65"/><br/><sub><b>QML</b></sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=bash&theme=dark" width="65"/><br/><sub><b>Shell</b></sub></td>
+</tr>
+</table>
+</div>
 
 <br/>
 
@@ -140,18 +144,26 @@ me.say_hi()
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=1000&color=41CD52&center=true&vCenter=true&width=500&lines=FRAMEWORKS+%26+TOOLS" alt="Frameworks"/>
   </a>
 </p>
-<p align="center">
-  <a href="#"><img width="575" src="https://skillicons.dev/icons?i=qt,cmake,react,nodejs,express,docker&perline=6&theme=dark" alt="Frameworks"/></a>
-</p>
-<p align="center">
-  <code>Qt</code> • <code>CMake</code> • <code>React</code> • <code>Node.js</code> • <code>Express</code> • <code>Docker</code>
-</p>
-<p align="center">
-  <a href="#"><img width="575" src="https://skillicons.dev/icons?i=git,github,vscode,vim,linux,ubuntu&perline=6&theme=dark" alt="Tools"/></a>
-</p>
-<p align="center">
-  <code>Git</code> • <code>GitHub</code> • <code>VS Code</code> • <code>Vim</code> • <code>Linux</code> • <code>Ubuntu</code>
-</p>
+<div align="center">
+<table>
+<tr>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=qt&theme=dark" width="65"/><br/><sub><b>Qt</b></sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=cmake&theme=dark" width="65"/><br/><sub><b>CMake</b></sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="65"/><br/><sub><b>React</b></sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="65"/><br/><sub><b>Node.js</b></sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=express&theme=dark" width="65"/><br/><sub><b>Express</b></sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=docker&theme=dark" width="65"/><br/><sub><b>Docker</b></sub></td>
+</tr>
+<tr>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="65"/><br/><sub><b>Git</b></sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="65"/><br/><sub><b>GitHub</b></sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="65"/><br/><sub><b>VS Code</b></sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=vim&theme=dark" width="65"/><br/><sub><b>Vim</b></sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=linux&theme=dark" width="65"/><br/><sub><b>Linux</b></sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=ubuntu&theme=dark" width="65"/><br/><sub><b>Ubuntu</b></sub></td>
+</tr>
+</table>
+</div>
 
 <br/>
 
@@ -161,18 +173,26 @@ me.say_hi()
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=1000&color=FF9900&center=true&vCenter=true&width=500&lines=CLOUD+%26+DATABASE" alt="Cloud"/>
   </a>
 </p>
-<p align="center">
-  <a href="#"><img width="575" src="https://skillicons.dev/icons?i=linux,aws,azure,gcp,docker,kubernetes&perline=6&theme=dark" alt="Cloud"/></a>
-</p>
-<p align="center">
-  <code>Linux</code> • <code>AWS</code> • <code>Azure</code> • <code>GCP</code> • <code>Docker</code> • <code>Kubernetes</code>
-</p>
-<p align="center">
-  <a href="#"><img width="575" src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,firebase,sqlite&perline=6&theme=dark" alt="Database"/></a>
-</p>
-<p align="center">
-  <code>MongoDB</code> • <code>MySQL</code> • <code>PostgreSQL</code> • <code>Redis</code> • <code>Firebase</code> • <code>SQLite</code>
-</p>
+<div align="center">
+<table>
+<tr>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=linux&theme=dark" width="65"/><br/><sub><b>Linux</b></sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=aws&theme=dark" width="65"/><br/><sub><b>AWS</b></sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=azure&theme=dark" width="65"/><br/><sub><b>Azure</b></sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=gcp&theme=dark" width="65"/><br/><sub><b>GCP</b></sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=docker&theme=dark" width="65"/><br/><sub><b>Docker</b></sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" width="65"/><br/><sub><b>Kubernetes</b></sub></td>
+</tr>
+<tr>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="65"/><br/><sub><b>MongoDB</b></sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="65"/><br/><sub><b>MySQL</b></sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="65"/><br/><sub><b>PostgreSQL</b></sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=redis&theme=dark" width="65"/><br/><sub><b>Redis</b></sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="65"/><br/><sub><b>Firebase</b></sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=sqlite&theme=dark" width="65"/><br/><sub><b>SQLite</b></sub></td>
+</tr>
+</table>
+</div>
 
 <br/>
 
