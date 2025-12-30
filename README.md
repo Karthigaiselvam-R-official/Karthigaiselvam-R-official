@@ -124,12 +124,10 @@ me.say_hi()
   <code>C++</code> • <code>Python</code> • <code>JavaScript</code> • <code>TypeScript</code> • <code>Bash</code> • <code>HTML</code>
 </p>
 <p align="center">
-  <a href="#"><img width="200" src="https://skillicons.dev/icons?i=css,md&perline=2&theme=dark" alt="Languages Row 2"/></a>
-  <img src="https://img.shields.io/badge/QML-41CD52?style=for-the-badge&logo=qt&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+  <a href="#"><img width="575" src="https://skillicons.dev/icons?i=css,md,qt,powershell,c,go&perline=6&theme=dark" alt="Languages Row 2"/></a>
 </p>
 <p align="center">
-  <code>CSS</code> • <code>Markdown</code> • <code>QML</code> • <code>Shell</code>
+  <code>CSS</code> • <code>Markdown</code> • <code>QML</code> • <code>Shell</code> • <code>C</code> • <code>Go</code>
 </p>
 
 <br/>
