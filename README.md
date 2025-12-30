@@ -404,9 +404,9 @@ MODULE: CONTRIBUTION TRACKING
 
 <a href="https://github.com/Karthigaiselvam-R-official/Karthigaiselvam-R-official/actions/workflows/snake.yml">
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Karthigaiselvam-R-official/Karthigaiselvam-R-official/output/github-contribution-grid-snake-dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Karthigaiselvam-R-official/Karthigaiselvam-R-official/output/github-contribution-grid-snake.svg">
-<img alt="System Activity Graph" src="https://raw.githubusercontent.com/Karthigaiselvam-R-official/Karthigaiselvam-R-official/output/github-contribution-grid-snake.svg" width="100%">
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Karthigaiselvam-R-official/Karthigaiselvam-R-official/output/github-contribution-grid-snake-dark.svg?v=6">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Karthigaiselvam-R-official/Karthigaiselvam-R-official/output/github-contribution-grid-snake.svg?v=6">
+<img alt="System Activity Graph" src="https://raw.githubusercontent.com/Karthigaiselvam-R-official/Karthigaiselvam-R-official/output/github-contribution-grid-snake.svg?v=6" width="100%">
 </picture>
 </a>
 
@@ -419,7 +419,7 @@ MODULE: CONTRIBUTION TRACKING
 <h3 align="center"><code>[FLUX_CAPACITOR_MODE]</code></h3>
 
 <a href="https://github.com/Karthigaiselvam-R-official/Karthigaiselvam-R-official/actions/workflows/snake.yml">
-<img src="https://raw.githubusercontent.com/Karthigaiselvam-R-official/Karthigaiselvam-R-official/output/ocean.svg" alt="Ocean Flux Theme" width="100%" />
+<img src="https://raw.githubusercontent.com/Karthigaiselvam-R-official/Karthigaiselvam-R-official/output/ocean.svg?v=6" alt="Ocean Flux Theme" width="100%" />
 </a>
 
 </div>
