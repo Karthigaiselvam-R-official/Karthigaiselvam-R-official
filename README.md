@@ -418,11 +418,14 @@ me.say_hi()
 <td width="100%" align="center" valign="middle">
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=12&pause=1000&color=39ff14&center=true&width=500&lines=INITIALIZING_MATRIX_CONTRIBUTION_GRID...;TARGET_LOCKED:_COMMIT_HISTORY;" alt="Status" /><br/>
 <br/>
+<!-- SNAKE ANIMATION SECTION -->
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Karthigaiselvam-R-official/Karthigaiselvam-R-official/output/github-contribution-grid-snake-dark.svg?v=5" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Karthigaiselvam-R-official/Karthigaiselvam-R-official/output/github-contribution-grid-snake.svg?v=5" />
-<img alt="github-snake" src="https://raw.githubusercontent.com/Karthigaiselvam-R-official/Karthigaiselvam-R-official/output/github-contribution-grid-snake.svg?v=5" width="100%" />
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Karthigaiselvam-R-official/Karthigaiselvam-R-official/output/github-contribution-grid-snake-dark.svg?v=5">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Karthigaiselvam-R-official/Karthigaiselvam-R-official/output/github-contribution-grid-snake.svg?v=5">
+<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Karthigaiselvam-R-official/Karthigaiselvam-R-official/output/github-contribution-grid-snake.svg?v=5" width="100%">
 </picture>
+<!-- OCEAN THEME VARIANT (Disabled by default, uncomment to use) -->
+<!-- <img src="https://raw.githubusercontent.com/Karthigaiselvam-R-official/Karthigaiselvam-R-official/output/ocean.svg?v=5" alt="Ocean Theme Snake" /> -->
 </td>
 </tr>
 </table>

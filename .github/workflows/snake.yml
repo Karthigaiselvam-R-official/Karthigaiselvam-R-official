@@ -23,18 +23,25 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      - name: Generate Snake Animation (Dark Mode)
-        uses: Platane/snk/svg-only@v3
+      - name: Generate the snake files
+        uses: Platane/snk@v3
+        id: snake-gif
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg?palette=github-light&color_snake=#39ff14
             dist/github-contribution-grid-snake-dark.svg?palette=#0d1117,#161b22,#0e4429,#006d32,#26a641,#39d353&color_snake=#39ff14&color_dots=#161b22
-
-      - name: Push to Output Branch
-        uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
+            dist/ocean.svg?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Show build status
+        run: git status
+
+      - name: Push to GitHub
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
+          commit_message: "Update snake animations [skip ci]"
