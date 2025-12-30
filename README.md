@@ -242,28 +242,84 @@ me.say_hi()
 ## 🔥 Featured Projects
 
 <div align="center">
-<table border="0">
+<table border="0" width="100%">
   <tr>
-    <td width="50%" align="center">
+    <td width="50%" valign="top" align="center">
       <a href="https://github.com/Karthigaiselvam-R-official/AsusTufFanControl_Linux">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Karthigaiselvam-R-official&repo=AsusTufFanControl_Linux&theme=tokyonight&show_owner=false" alt="AsusTufFanControl_Linux" />
+        <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=3000&pause=1000&color=00d4ff&center=true&vCenter=true&width=400&lines=ASUS+TUF+Fan+Controller" alt="AsusTufFanControl_Linux" />
+      </a>
+      <br/><br/>
+      <img src="https://img.shields.io/github/stars/Karthigaiselvam-R-official/AsusTufFanControl_Linux?style=for-the-badge&logo=github&color=0D1117"/>
+      <img src="https://img.shields.io/github/forks/Karthigaiselvam-R-official/AsusTufFanControl_Linux?style=for-the-badge&logo=github&color=0D1117"/>
+      <br/><br/>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Qt6-41CD52?style=flat-square&logo=qt&logoColor=white"/>
+        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+      </p>
+      <p align="center"><em>Expert-level system control for ASUS TUF/ROG laptops on Linux. Optimized for performance and cooling efficiency.</em></p>
+      <br/>
+      <a href="https://github.com/Karthigaiselvam-R-official/AsusTufFanControl_Linux">
+        <img src="https://img.shields.io/badge/View_Project_➜-00d4ff?style=flat-square&logoColor=white"/>
       </a>
     </td>
-    <td width="50%" align="center">
+    <td width="50%" valign="top" align="center">
       <a href="https://github.com/Karthigaiselvam-R-official/Vulnerability_Scanner">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Karthigaiselvam-R-official&repo=Vulnerability_Scanner&theme=tokyonight&show_owner=false" alt="Vulnerability_Scanner" />
+        <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=400&lines=Vulnerability+Scanner" alt="Vulnerability_Scanner" />
+      </a>
+      <br/><br/>
+      <img src="https://img.shields.io/github/stars/Karthigaiselvam-R-official/Vulnerability_Scanner?style=for-the-badge&logo=github&color=0D1117"/>
+      <img src="https://img.shields.io/github/forks/Karthigaiselvam-R-official/Vulnerability_Scanner?style=for-the-badge&logo=github&color=0D1117"/>
+      <br/><br/>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Security-FF0000?style=flat-square&logo=hackaday&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Automation-orange?style=flat-square"/>
+      </p>
+      <p align="center"><em>Automated security scanning tool for modern web applications. Detects common vulnerabilities with high accuracy.</em></p>
+      <br/>
+      <a href="https://github.com/Karthigaiselvam-R-official/Vulnerability_Scanner">
+        <img src="https://img.shields.io/badge/View_Project_➜-FF0000?style=flat-square&logoColor=white"/>
       </a>
     </td>
   </tr>
   <tr>
-    <td width="50%" align="center">
+    <td width="50%" valign="top" align="center">
       <a href="https://github.com/Karthigaiselvam-R-official/403-bypass3r">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Karthigaiselvam-R-official&repo=403-bypass3r&theme=tokyonight&show_owner=false" alt="403-bypass3r" />
+        <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=3000&pause=1000&color=4EAA25&center=true&vCenter=true&width=400&lines=403+Bypass+Tool" alt="403-bypass3r" />
+      </a>
+      <br/><br/>
+      <img src="https://img.shields.io/github/stars/Karthigaiselvam-R-official/403-bypass3r?style=for-the-badge&logo=github&color=0D1117"/>
+      <img src="https://img.shields.io/github/forks/Karthigaiselvam-R-official/403-bypass3r?style=for-the-badge&logo=github&color=0D1117"/>
+      <br/><br/>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Pentest-000000?style=flat-square&logo=kalilinux&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Network-blue?style=flat-square"/>
+      </p>
+      <p align="center"><em>Advanced script to bypass 403 Forbidden errors during penetration testing and bug bounty hunting.</em></p>
+      <br/>
+      <a href="https://github.com/Karthigaiselvam-R-official/403-bypass3r">
+        <img src="https://img.shields.io/badge/View_Project_➜-4EAA25?style=flat-square&logoColor=white"/>
       </a>
     </td>
-    <td width="50%" align="center">
+    <td width="50%" valign="top" align="center">
       <a href="https://github.com/Karthigaiselvam-R-official/Smart_Attendance">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Karthigaiselvam-R-official&repo=Smart_Attendance&theme=tokyonight&show_owner=false" alt="Smart_Attendance" />
+        <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=3000&pause=1000&color=5C3EE8&center=true&vCenter=true&width=400&lines=Smart+Attendance" alt="Smart_Attendance" />
+      </a>
+      <br/><br/>
+      <img src="https://img.shields.io/github/stars/Karthigaiselvam-R-official/Smart_Attendance?style=for-the-badge&logo=github&color=0D1117"/>
+      <img src="https://img.shields.io/github/forks/Karthigaiselvam-R-official/Smart_Attendance?style=for-the-badge&logo=github&color=0D1117"/>
+      <br/><br/>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+        <img src="https://img.shields.io/badge/AI-ff69b4?style=flat-square"/>
+      </p>
+      <p align="center"><em>Next-gen face recognition based attendance system. Efficient, accurate, and automated for classrooms/offices.</em></p>
+      <br/>
+      <a href="https://github.com/Karthigaiselvam-R-official/Smart_Attendance">
+        <img src="https://img.shields.io/badge/View_Project_➜-5C3EE8?style=flat-square&logoColor=white"/>
       </a>
     </td>
   </tr>
