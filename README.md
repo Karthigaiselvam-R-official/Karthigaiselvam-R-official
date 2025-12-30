@@ -247,7 +247,7 @@ me.say_hi()
 <!-- FEATURED PROJECTS -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=28&duration=4000&pause=1000&color=800080&center=true&vCenter=true&width=500&lines=Featured+Projects;My+Best+Work" alt="Featured Projects" />
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=28&duration=4000&pause=1000&color=DC143C&center=true&vCenter=true&width=500&lines=Featured+Projects;My+Best+Work" alt="Featured Projects" />
   </a>
 </p>
 
