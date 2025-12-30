@@ -104,7 +104,12 @@ me.say_hi()
 ---
 
 <!-- TECH STACK WITH ANIMATIONS -->
-## ⚡ Tech Arsenal
+<!-- TECH ARSENAL -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=28&duration=4000&pause=1000&color=FEE75C&center=true&vCenter=true&width=500&lines=Tech+Arsenal;Languages+%26+Tools" alt="Tech Arsenal" />
+  </a>
+</p>
 
 <!-- Animated Section Header -->
 <p align="center">
@@ -239,7 +244,12 @@ me.say_hi()
 ---
 
 <!-- FEATURED PROJECTS -->
-## 🔥 Featured Projects
+<!-- FEATURED PROJECTS -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=28&duration=4000&pause=1000&color=FEE75C&center=true&vCenter=true&width=500&lines=Featured+Projects;My+Best+Work" alt="Featured Projects" />
+  </a>
+</p>
 
 <div align="center">
 <table border="0" width="100%">
@@ -370,7 +380,12 @@ me.say_hi()
 ---
 
 <!-- CONTRIBUTION SNAKE WITH DETAILED INFO -->
-## 🐍 Contribution Snake Game
+<!-- CONTRIBUTION SNAKE WITH DETAILED INFO -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=28&duration=4000&pause=1000&color=FEE75C&center=true&vCenter=true&width=500&lines=Contribution+Snake;Eating+Commit+History" alt="Contribution Snake" />
+  </a>
+</p>
 
 <div align="center">
 <table width="100%">
@@ -413,7 +428,12 @@ me.say_hi()
 ---
 
 <!-- RANDOM DEV QUOTE -->
-## 💭 Dev Quote
+<!-- DEV QUOTE -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=28&duration=4000&pause=1000&color=FEE75C&center=true&vCenter=true&width=500&lines=Dev+Quote;Inspiration" alt="Dev Quote" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote"/>
@@ -425,10 +445,12 @@ me.say_hi()
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:00d4ff&height=120&section=footer"/>
 
 <!-- CONNECT SECTION -->
-<h3 align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> 
-  <em>Let's connect and build something amazing together!</em>
-</h3>
+<!-- CONNECT SECTION -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=28&duration=4000&pause=1000&color=FEE75C&center=true&vCenter=true&width=500&lines=Let's+Connect;Let's+Build+Something+Amazing!" alt="Let's Connect" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/karthigaiselvam-r-7b9197258/">
