@@ -107,7 +107,7 @@ me.say_hi()
 <!-- TECH ARSENAL -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=28&duration=4000&pause=1000&color=FEE75C&center=true&vCenter=true&width=500&lines=Tech+Arsenal;Languages+%26+Tools" alt="Tech Arsenal" />
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=28&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Tech+Arsenal;Languages+%26+Tools" alt="Tech Arsenal" />
   </a>
 </p>
 
@@ -247,7 +247,7 @@ me.say_hi()
 <!-- FEATURED PROJECTS -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=28&duration=4000&pause=1000&color=FEE75C&center=true&vCenter=true&width=500&lines=Featured+Projects;My+Best+Work" alt="Featured Projects" />
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=28&duration=4000&pause=1000&color=FF0055&center=true&vCenter=true&width=500&lines=Featured+Projects;My+Best+Work" alt="Featured Projects" />
   </a>
 </p>
 
@@ -343,7 +343,7 @@ me.say_hi()
 <!-- GITHUB ANALYTICS DASHBOARD -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=28&duration=4000&pause=1000&color=FEE75C&center=true&vCenter=true&width=500&lines=GitHub+Analytics+Dashboard;Live+Performance+Metrics" alt="GitHub Analytics" />
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=28&duration=4000&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=GitHub+Analytics+Dashboard;Live+Performance+Metrics" alt="GitHub Analytics" />
   </a>
 </p>
 
@@ -442,7 +442,7 @@ MODULE: CONTRIBUTION TRACKING
 <!-- DEV QUOTE -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=28&duration=4000&pause=1000&color=FEE75C&center=true&vCenter=true&width=500&lines=Dev+Quote;Inspiration" alt="Dev Quote" />
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=28&duration=4000&pause=1000&color=BC13FE&center=true&vCenter=true&width=500&lines=Dev+Quote;Inspiration" alt="Dev Quote" />
   </a>
 </p>
 
@@ -459,7 +459,7 @@ MODULE: CONTRIBUTION TRACKING
 <!-- CONNECT SECTION -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=28&duration=4000&pause=1000&color=FEE75C&center=true&vCenter=true&width=500&lines=Let's+Connect;Let's+Build+Something+Amazing!" alt="Let's Connect" />
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=28&duration=4000&pause=1000&color=FF9900&center=true&vCenter=true&width=500&lines=Let's+Connect;Let's+Build+Something+Amazing!" alt="Let's Connect" />
   </a>
 </p>
 
