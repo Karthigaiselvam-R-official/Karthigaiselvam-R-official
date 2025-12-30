@@ -380,7 +380,6 @@ me.say_hi()
 ---
 
 <!-- CONTRIBUTION SNAKE WITH DETAILED INFO -->
-<!-- CONTRIBUTION SNAKE WITH DETAILED INFO -->
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=28&duration=4000&pause=1000&color=FEE75C&center=true&vCenter=true&width=500&lines=Contribution+Snake;Eating+Commit+History" alt="Contribution Snake" />
@@ -388,46 +387,27 @@ me.say_hi()
 </p>
 
 <div align="center">
-<table width="100%">
-<tr>
-<td align="center">
-
-### 🎮 Watch My Contributions Get Eaten!
-
-<p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Karthigaiselvam-R-official/Karthigaiselvam-R-official/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Karthigaiselvam-R-official/Karthigaiselvam-R-official/output/github-snake.svg" />
-    <img alt="Snake eating contributions" src="https://raw.githubusercontent.com/Karthigaiselvam-R-official/Karthigaiselvam-R-official/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Karthigaiselvam-R-official/Karthigaiselvam-R-official/blob/output/github-snake-cyberpunk.svg" />
+    <img alt="github-snake" src="https://github.com/Karthigaiselvam-R-official/Karthigaiselvam-R-official/blob/output/github-snake.svg" width="100%" />
   </picture>
-</p>
-
-</td>
-</tr>
-<tr>
-<td align="center">
-
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Cyberpunk_Level-2077-d4af37?style=for-the-badge&logo=github&labelColor=000000&color=FEE75C" alt="Level" />
+</div>
 <!-- Contribution Stats Summary -->
 <br/>
-<a href="https://github.com/Karthigaiselvam-R-official"><img src="https://img.shields.io/badge/🌟_Total_Contributions-187+-00d4ff?style=for-the-badge"/></a>
-<a href="https://github.com/Karthigaiselvam-R-official?tab=repositories"><img src="https://img.shields.io/badge/📦_Public_Repos-6-00d4ff?style=for-the-badge"/></a>
-<a href="https://github.com/Karthigaiselvam-R-official"><img src="https://img.shields.io/badge/📅_Active_Since-2023-00d4ff?style=for-the-badge"/></a>
-<a href="https://github.com/Karthigaiselvam-R-official"><img src="https://img.shields.io/badge/🔥_Current_Streak-Active-ff6b35?style=for-the-badge"/></a>
-<br/><br/>
+<p align="center">
+  <a href="https://github.com/Karthigaiselvam-R-official"><img src="https://img.shields.io/badge/🌟_Total_Contributions-Run_Snake!-FEE75C?style=for-the-badge&labelColor=000000"/></a>
+  <a href="https://github.com/Karthigaiselvam-R-official?tab=repositories"><img src="https://img.shields.io/badge/📦_Public_Repos-Active-00ffff?style=for-the-badge&labelColor=000000"/></a>
+</p>
 
-*The snake moves across my contribution graph, eating the green squares (commits)!*  
-*Each green square represents a day with contributions. The more commits, the darker the green.*
 
-</td>
-</tr>
-</table>
-</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
 
-<!-- RANDOM DEV QUOTE -->
+
 <!-- DEV QUOTE -->
 <p align="center">
   <a href="https://git.io/typing-svg">
