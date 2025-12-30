@@ -400,7 +400,9 @@ MODULE: CONTRIBUTION TRACKING
 
 <!-- HERO SECTION: ADAPTIVE SYSTEM -->
 
-<h3 align="center"><code>[SYSTEM_ACTIVITY_MONITOR]</code></h3>
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2DD4BF&center=true&vCenter=true&width=435&lines=%5B+SYSTEM_ACTIVITY_MONITOR+%5D" alt="System Activity Monitor" />
+</h3>
 
 <a href="https://github.com/Karthigaiselvam-R-official/Karthigaiselvam-R-official/actions/workflows/snake.yml">
 <picture>
