@@ -35,13 +35,6 @@ jobs:
             --username ${{ github.repository_owner }} \
             --palette github-dark
 
-          # 3. Ocean Flux Mode (Custom Palette with Dark BG for Visibility)
-          # We use shell quotes to safely pass the hex codes, bypassing YAML parsing issues
-          npx snk@latest dist/ocean.svg \
-            --username ${{ github.repository_owner }} \
-            --color_snake orange \
-            --palette '#0d1117,#161b22,#bfd6f6,#64a1f4,#4b91f1,#3c7dd9'
-
       - name: Push to GitHub
         uses: peaceiris/actions-gh-pages@v3
         with:

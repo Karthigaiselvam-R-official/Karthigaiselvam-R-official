@@ -414,13 +414,7 @@ MODULE: CONTRIBUTION TRACKING
 
 
 
-<!-- SECONDARY SECTION: ADVANCED PALETTE -->
-
-<h3 align="center"><code>[FLUX_CAPACITOR_MODE]</code></h3>
-
-<a href="https://github.com/Karthigaiselvam-R-official/Karthigaiselvam-R-official/actions/workflows/snake.yml">
-<img src="https://raw.githubusercontent.com/Karthigaiselvam-R-official/Karthigaiselvam-R-official/output/ocean.svg?v=6" alt="Ocean Flux Theme" width="100%" />
-</a>
+<!-- SECONDARY SECTION REMOVED AS PER USER REQUEST -->
 
 </div>
 
