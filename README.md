@@ -267,7 +267,7 @@ me.say_hi()
 <table width="100%">
 <tr>
 <td width="50%" align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Karthigaiselvam-R-official&theme=github_dark" alt="Most Commit Language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Karthigaiselvam-R-official&theme=transparent" alt="Most Commit Language"/>
 </td>
 <td width="50%" align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Karthigaiselvam-R-official&theme=dark&hide_border=true&background=0D1117" alt="Streak"/>
