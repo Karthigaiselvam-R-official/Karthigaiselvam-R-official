@@ -114,7 +114,7 @@ me.say_hi()
 <!-- Languages with Animated Typing Header -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2000&pause=1000&color=00D4FF&center=true&vCenter=true&width=200&lines=💻+Languages" alt="Languages"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2000&pause=1000&color=00D4FF&center=true&vCenter=true&width=200&lines=LANGUAGES" alt="Languages"/>
   </a>
 </p>
 <p align="center">
@@ -129,7 +129,7 @@ me.say_hi()
 <!-- Frameworks with Animated Typing Header -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2000&pause=1000&color=41CD52&center=true&vCenter=true&width=250&lines=🛠️+Frameworks+%26+Tools" alt="Frameworks"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2000&pause=1000&color=41CD52&center=true&vCenter=true&width=280&lines=FRAMEWORKS+%26+TOOLS" alt="Frameworks"/>
   </a>
 </p>
 <p align="center">
@@ -144,7 +144,7 @@ me.say_hi()
 <!-- Cloud & Database with Animated Typing Header -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2000&pause=1000&color=FF9900&center=true&vCenter=true&width=250&lines=☁️+Cloud+%26+Database" alt="Cloud"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2000&pause=1000&color=FF9900&center=true&vCenter=true&width=280&lines=CLOUD+%26+DATABASE" alt="Cloud"/>
   </a>
 </p>
 <p align="center">
@@ -159,7 +159,7 @@ me.say_hi()
 <!-- Security Arsenal with Animated Typing Header -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2000&pause=1000&color=FF0000&center=true&vCenter=true&width=250&lines=🔒+Security+Arsenal" alt="Security"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2000&pause=1000&color=FF0000&center=true&vCenter=true&width=280&lines=SECURITY+ARSENAL" alt="Security"/>
   </a>
 </p>
 <p align="center">
