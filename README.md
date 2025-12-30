@@ -121,9 +121,15 @@ me.say_hi()
   <a href="#"><img width="575" src="https://skillicons.dev/icons?i=cpp,python,js,ts,bash,html&perline=6&theme=dark" alt="Languages Row 1"/></a>
 </p>
 <p align="center">
+  <code>C++</code> • <code>Python</code> • <code>JavaScript</code> • <code>TypeScript</code> • <code>Bash</code> • <code>HTML</code>
+</p>
+<p align="center">
   <a href="#"><img width="200" src="https://skillicons.dev/icons?i=css,md&perline=2&theme=dark" alt="Languages Row 2"/></a>
   <img src="https://img.shields.io/badge/QML-41CD52?style=for-the-badge&logo=qt&logoColor=white"/>
   <img src="https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+</p>
+<p align="center">
+  <code>CSS</code> • <code>Markdown</code> • <code>QML</code> • <code>Shell</code>
 </p>
 
 <br/>
@@ -138,7 +144,13 @@ me.say_hi()
   <a href="#"><img width="575" src="https://skillicons.dev/icons?i=qt,cmake,react,nodejs,express,docker&perline=6&theme=dark" alt="Frameworks"/></a>
 </p>
 <p align="center">
+  <code>Qt</code> • <code>CMake</code> • <code>React</code> • <code>Node.js</code> • <code>Express</code> • <code>Docker</code>
+</p>
+<p align="center">
   <a href="#"><img width="575" src="https://skillicons.dev/icons?i=git,github,vscode,vim,linux,ubuntu&perline=6&theme=dark" alt="Tools"/></a>
+</p>
+<p align="center">
+  <code>Git</code> • <code>GitHub</code> • <code>VS Code</code> • <code>Vim</code> • <code>Linux</code> • <code>Ubuntu</code>
 </p>
 
 <br/>
@@ -153,7 +165,13 @@ me.say_hi()
   <a href="#"><img width="575" src="https://skillicons.dev/icons?i=linux,aws,azure,gcp,docker,kubernetes&perline=6&theme=dark" alt="Cloud"/></a>
 </p>
 <p align="center">
+  <code>Linux</code> • <code>AWS</code> • <code>Azure</code> • <code>GCP</code> • <code>Docker</code> • <code>Kubernetes</code>
+</p>
+<p align="center">
   <a href="#"><img width="575" src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,firebase,sqlite&perline=6&theme=dark" alt="Database"/></a>
+</p>
+<p align="center">
+  <code>MongoDB</code> • <code>MySQL</code> • <code>PostgreSQL</code> • <code>Redis</code> • <code>Firebase</code> • <code>SQLite</code>
 </p>
 
 <br/>
