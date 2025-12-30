@@ -401,7 +401,7 @@ SYSTEM STATUS: ONLINE MODULE: CONTRIBUTION TRACKING
 
 <!-- HERO SECTION: ADAPTIVE SYSTEM -->
 
-<h3 align="center"><code>[SYSTEM_ACTIVITY_MONITOR]</code></h3>
+<h3 align="center"><code>[SYSTEM_ACTIVITY_MONITOR :: 2024 - 2025]</code></h3>
 
 <a href="https://github.com/Karthigaiselvam-R-official/Karthigaiselvam-R-official/actions/workflows/snake.yml">
 <picture>
@@ -413,7 +413,7 @@ SYSTEM STATUS: ONLINE MODULE: CONTRIBUTION TRACKING
 
 <!-- SECONDARY SECTION: ADVANCED PALETTE -->
 
-<h3 align="center"><code>[FLUX_CAPACITOR_MODE]</code></h3>
+<h3 align="center"><code>[FLUX_CAPACITOR_MODE :: 2024 - 2025]</code></h3>
 
 <a href="https://github.com/Karthigaiselvam-R-official/Karthigaiselvam-R-official/actions/workflows/snake.yml">
 <img src="https://raw.githubusercontent.com/Karthigaiselvam-R-official/Karthigaiselvam-R-official/output/ocean.svg" alt="Ocean Flux Theme" width="100%" />
