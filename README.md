@@ -107,7 +107,7 @@ me.say_hi()
 <!-- TECH ARSENAL -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=28&duration=4000&pause=1000&color=3399FF&center=true&vCenter=true&width=500&lines=Tech+Arsenal;Languages+%26+Tools" alt="Tech Arsenal" />
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=28&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Tech+Arsenal;Languages+%26+Tools" alt="Tech Arsenal" />
   </a>
 </p>
 
