@@ -361,25 +361,39 @@ me.say_hi()
 
 ---
 
-<!-- CONTRIBUTION ACTIVITY - CLEANED UP -->
-## 📈 Contribution Activity
+<!-- GITHUB ANALYTICS DASHBOARD -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=28&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=GitHub+Analytics+Dashboard;Live+Performance+Metrics" alt="GitHub Analytics" />
+  </a>
+</p>
 
 <div align="center">
-<table width="100%">
-<tr>
-<td width="50%" align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Karthigaiselvam-R-official&theme=transparent" alt="Most Commit Language"/>
-</td>
-<td width="50%" align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Karthigaiselvam-R-official&theme=dark&hide_border=true&background=0D1117" alt="Streak"/>
-</td>
-</tr>
+<table border="0" width="100%">
+  <!-- ROW 1: PROFILE DETAILS (Wide) -->
+  <tr>
+    <td colspan="3" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Karthigaiselvam-R-official&theme=tokyonight" alt="Profile Details" width="100%" />
+    </td>
+  </tr>
+  <!-- ROW 2: DETAILED STATS (3 Columns) -->
+  <tr>
+    <td width="33%" align="center">
+       <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Karthigaiselvam-R-official&theme=tokyonight" alt="GitHub Stats" />
+    </td>
+    <td width="33%" align="center">
+       <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Karthigaiselvam-R-official&theme=tokyonight&utcOffset=5.5" alt="Commits per Hour" />
+    </td>
+    <td width="33%" align="center">
+       <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Karthigaiselvam-R-official&theme=tokyonight" alt="Top Languages" />
+    </td>
+  </tr>
 </table>
 </div>
 
-<!-- Activity Graph - Full Width Timeline -->
+<!-- Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Karthigaiselvam-R-official&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area_color=00d4ff&area=true&hide_border=true" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Karthigaiselvam-R-official&bg_color=1a1b27&color=7aa2f7&line=7aa2f7&point=c0caf5&area_color=7aa2f7&area=true&hide_border=true" alt="Activity Graph"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
