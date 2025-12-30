@@ -1,158 +1,175 @@
-<!-- ANIMATED CYBERSECURITY BANNER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Karthigaiselvam%20R&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Cybersecurity%20Researcher%20%7C%20Ethical%20Hacker%20%7C%20Security%20Tool%20Developer&descAlignY=52&descSize=18"/>
-</p>
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════ -->
+<!-- ██╗  ██╗ █████╗ ██████╗ ████████╗██╗  ██╗██╗ ██████╗  █████╗ ██╗███████╗███████╗██╗    ██╗   ██╗ █████╗ ███╗   ███╗ -->
+<!-- ██║ ██╔╝██╔══██╗██╔══██╗╚══██╔══╝██║  ██║██║██╔════╝ ██╔══██╗██║██╔════╝██╔════╝██║    ██║   ██║██╔══██╗████╗ ████║ -->
+<!-- █████╔╝ ███████║██████╔╝   ██║   ███████║██║██║  ███╗███████║██║███████╗█████╗  ██║    ██║   ██║███████║██╔████╔██║ -->
+<!-- ██╔═██╗ ██╔══██║██╔══██╗   ██║   ██╔══██║██║██║   ██║██╔══██║██║╚════██║██╔══╝  ██║    ╚██╗ ██╔╝██╔══██║██║╚██╔╝██║ -->
+<!-- ██║  ██╗██║  ██║██║  ██║   ██║   ██║  ██║██║╚██████╔╝██║  ██║██║███████║███████╗███████╗╚████╔╝ ██║  ██║██║ ╚═╝ ██║ -->
+<!-- ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝╚══════╝╚══════╝╚══════╝ ╚═══╝  ╚═╝  ╚═╝╚═╝     ╚═╝ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════ -->
 
-<!-- ANIMATED TYPING SVG -->
+<!-- HERO SECTION - Animated Wave Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:00d4ff&height=200&section=header&text=Karthigaiselvam%20R&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Security%20Researcher%20•%20Full%20Stack%20Developer%20•%20Open%20Source%20Contributor&descSize=16&descAlignY=55&descAlign=50"/>
+
+<!-- ANIMATED TYPING INTRODUCTION -->
 <p align="center">
-  <a href="https://github.com/Karthigaiselvam-R-official">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=%F0%9F%94%90+Penetration+Tester+%7C+Red+Team+Operator;%F0%9F%9B%A1%EF%B8%8F+Application+Security+%7C+Cloud+Security;%F0%9F%92%BB+Building+Security+Tools+in+Python+%26+C%2B%2B" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=%F0%9F%94%90+Ethical+Hacker+%7C+Penetration+Tester;%F0%9F%92%BB+Full+Stack+Developer+%7C+Qt%2FQML+Specialist;%F0%9F%9B%A1%EF%B8%8F+Building+Security+Tools+%26+Applications;%E2%9A%A1+Turning+Ideas+into+Secure+Code" alt="Typing SVG" />
   </a>
 </p>
 
-<!-- PROFILE VIEWS & SOCIAL BADGES -->
+<!-- SOCIAL BADGES ROW -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Karthigaiselvam-R-official&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  <a href="https://www.linkedin.com/in/karthigaiselvam-r-7b9197258/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:karthigaiselvamr.cs2022@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=Karthigaiselvam-R-official&label=Profile%20Views&color=0&icon=5&pretty=true" alt="Profile Views"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/karthigaiselvam-r-7b9197258/">
+    <img src="https://img.shields.io/badge/-Karthigaiselvam_R-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:karthigaiselvamr.cs2022@gmail.com">
+    <img src="https://img.shields.io/badge/-Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
----
+<br/>
 
-## 🎯 About Me
+<!-- ABOUT SECTION WITH TERMINAL STYLE -->
+<img align="right" width="300" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" alt="Coding GIF"/>
 
-```yaml
-name: Karthigaiselvam R
-located_in: India
-current_focus: Security Research & Red Team Operations
+## 💫 About Me
 
-expertise:
-  - Ethical Hacking & Penetration Testing
-  - Network Security & Application Security
-  - Digital Forensics & Incident Response
-  - Threat Intelligence & Cloud Security
-  - Security Tool Development
-
-currently_learning:
-  - Advanced Exploit Development
-  - Malware Analysis & Reverse Engineering
-  - Red Team Infrastructure
-
-open_to_collaborate_on:
-  - Security Research & Threat Intelligence
-  - Open Source Security Tools
-  - CTF Challenges & Bug Bounty
+```javascript
+const karthigaiselvam = {
+    location: "India 🇮🇳",
+    roles: [
+        "Security Researcher",
+        "Full Stack Developer",
+        "Open Source Contributor"
+    ],
+    expertise: {
+        security: ["Penetration Testing", "Web App Security",
+                   "Network Security", "Digital Forensics"],
+        development: ["Qt/QML", "Python", "C++", "JavaScript",
+                      "React", "Node.js"],
+        tools: ["Burp Suite", "Metasploit", "Wireshark",
+                "Nmap", "Docker", "Git"]
+    },
+    currentFocus: "Building security tools & desktop applications",
+    funFact: "I turn coffee into secure code ☕→💻"
+};
 ```
 
----
-
-## ⚡ Tech Stack & Skills
-
-<p align="center">
-  <!-- Security Tools -->
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white"/>
-</p>
-<p align="center">
-  <!-- Programming Languages -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
-<p align="center">
-  <!-- Cloud & DevOps -->
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
+<br clear="both"/>
 
 ---
 
-## 📊 GitHub Statistics
+<!-- TECH STACK WITH SKILL ICONS -->
+## ⚡ Tech Arsenal
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Karthigaiselvam-R-official&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Karthigaiselvam-R-official&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF" alt="GitHub Streak"/>
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,bash,html,css&theme=dark" alt="Languages"/>
+</p>
+<p align="center">
+  <!-- Frameworks & Tools -->
+  <img src="https://skillicons.dev/icons?i=qt,react,nodejs,express,docker,linux,git&theme=dark" alt="Frameworks"/>
+</p>
+<p align="center">
+  <!-- Security & Cloud -->
+  <img src="https://skillicons.dev/icons?i=kali,aws,azure,mongodb,mysql,postgres,redis&theme=dark" alt="Cloud & DB"/>
 </p>
 
+<!-- Security Tools Badges -->
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthigaiselvam-R-official&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logo=nmap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white"/>
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+<!-- GITHUB STATISTICS SECTION -->
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Karthigaiselvam-R-official&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Karthigaiselvam-R-official&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&ring_color=00d4ff&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img width="49%" src="https://streak-stats.demolab.com?user=Karthigaiselvam-R-official&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=00d4ff&ring=00d4ff&fire=ff6b35&currStreakLabel=00d4ff&sideLabels=c9d1d9&dates=6e7681" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthigaiselvam-R-official&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&langs_count=10" alt="Top Languages"/>
 </p>
 
 ---
 
-## 📈 Contribution Graph
+<!-- CONTRIBUTION ACTIVITY GRAPH -->
+## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Karthigaiselvam-R-official&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF&hide_border=true" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Karthigaiselvam-R-official&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area_color=00d4ff&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Graph"/>
 </p>
 
 ---
 
+<!-- ACHIEVEMENTS TROPHIES -->
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Karthigaiselvam-R-official&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=6" alt="Trophies"/>
+</p>
+
+---
+
+<!-- SNAKE ANIMATION -->
 ## 🐍 Contribution Snake
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Karthigaiselvam-R-official/Karthigaiselvam-R-official/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Karthigaiselvam-R-official/Karthigaiselvam-R-official/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Karthigaiselvam-R-official/Karthigaiselvam-R-official/output/github-snake.svg" />
+    <img alt="Snake eating contributions" src="https://raw.githubusercontent.com/Karthigaiselvam-R-official/Karthigaiselvam-R-official/output/github-snake-dark.svg" />
   </picture>
 </p>
 
 ---
 
-## 🔥 Featured Security Projects
-
+<!-- SPOTIFY CURRENTLY PLAYING (OPTIONAL) -->
+<!--
+## 🎧 Currently Vibing To
 <p align="center">
-  <a href="https://github.com/Karthigaiselvam-R-official/AsusTufFanControl_Linux">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Karthigaiselvam-R-official&repo=AsusTufFanControl_Linux&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="AsusTufFanControl_Linux"/>
-  </a>
-  <a href="https://github.com/Karthigaiselvam-R-official/Vulnerability_Scanner">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Karthigaiselvam-R-official&repo=Vulnerability_Scanner&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="Vulnerability_Scanner"/>
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&redirect=true">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&bar_color=00d4ff&bar_color_cover=false" alt="Spotify"/>
   </a>
 </p>
+-->
+
+<!-- RANDOM DEV QUOTE -->
+## 💭 Dev Quote
+
 <p align="center">
-  <a href="https://github.com/Karthigaiselvam-R-official/403-bypass3r">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Karthigaiselvam-R-official&repo=403-bypass3r&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="403-bypass3r"/>
-  </a>
-  <a href="https://github.com/Karthigaiselvam-R-official/Smart_Attendance">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Karthigaiselvam-R-official&repo=Smart_Attendance&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="Smart_Attendance"/>
-  </a>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20best%20way%20to%20learn%20security%20is%20to%20break%20things%20and%20then%20fix%20them.&author=Security%20Proverb" alt="Quote"/>
 </p>
 
 ---
 
-## 📫 Connect With Me
+<!-- FOOTER WAVE -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:00d4ff&height=120&section=footer"/>
+
+<!-- CONNECT SECTION -->
+<h3 align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> 
+  <em>Let's connect and build something amazing together!</em>
+</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/karthigaiselvam-r-7b9197258/">
-    <img src="https://img.shields.io/badge/Let's_Connect!-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
----
-
-<!-- ANIMATED FOOTER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
-</p>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</p>
-
-<!-- SECRET: Thanks for checking out my profile! 🔐 -->
+<!-- HIDDEN CREDIT -->
+<!-- Profile crafted with ❤️ using advanced GitHub README techniques -->
+<!-- Last updated: December 2025 -->
