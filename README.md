@@ -118,10 +118,10 @@ me.say_hi()
   </a>
 </p>
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=cpp,python,js,ts,bash,html&perline=6&theme=dark" alt="Languages Row 1"/></a>
+  <a href="#"><img width="600" src="https://skillicons.dev/icons?i=cpp,python,js,ts,bash,html&perline=6&theme=dark" alt="Languages Row 1"/></a>
 </p>
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=css,md&perline=6&theme=dark" alt="Languages Row 2"/></a>
+  <a href="#"><img width="200" src="https://skillicons.dev/icons?i=css,md&perline=2&theme=dark" alt="Languages Row 2"/></a>
   <img src="https://img.shields.io/badge/QML-41CD52?style=for-the-badge&logo=qt&logoColor=white"/>
   <img src="https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
 </p>
@@ -135,10 +135,10 @@ me.say_hi()
   </a>
 </p>
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=qt,cmake,react,nodejs,express,docker&perline=6&theme=dark" alt="Frameworks"/></a>
+  <a href="#"><img width="600" src="https://skillicons.dev/icons?i=qt,cmake,react,nodejs,express,docker&perline=6&theme=dark" alt="Frameworks"/></a>
 </p>
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=git,github,vscode,vim,linux,ubuntu&perline=6&theme=dark" alt="Tools"/></a>
+  <a href="#"><img width="600" src="https://skillicons.dev/icons?i=git,github,vscode,vim,linux,ubuntu&perline=6&theme=dark" alt="Tools"/></a>
 </p>
 
 <br/>
@@ -150,10 +150,10 @@ me.say_hi()
   </a>
 </p>
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=linux,aws,azure,gcp,docker,kubernetes&perline=6&theme=dark" alt="Cloud"/></a>
+  <a href="#"><img width="600" src="https://skillicons.dev/icons?i=linux,aws,azure,gcp,docker,kubernetes&perline=6&theme=dark" alt="Cloud"/></a>
 </p>
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,firebase,sqlite&perline=6&theme=dark" alt="Database"/></a>
+  <a href="#"><img width="600" src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,firebase,sqlite&perline=6&theme=dark" alt="Database"/></a>
 </p>
 
 <br/>
