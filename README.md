@@ -270,7 +270,7 @@ me.say_hi()
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Karthigaiselvam-R-official&theme=github_dark" alt="Most Commit Language"/>
 </td>
 <td width="50%" align="center">
-<img src="https://streak-stats.demolab.com?user=Karthigaiselvam-R-official&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=00d4ff&ring=00d4ff&fire=ff6b35&currStreakLabel=00d4ff&sideLabels=c9d1d9&dates=6e7681" alt="Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Karthigaiselvam-R-official&theme=dark&hide_border=true&background=0D1117" alt="Streak"/>
 </td>
 </tr>
 </table>
