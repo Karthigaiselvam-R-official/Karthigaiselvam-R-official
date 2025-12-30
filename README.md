@@ -41,9 +41,10 @@
 <!-- ANIMATED ABOUT ME SECTION -->
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me
 
+<div align="center">
 <table>
 <tr>
-<td width="55%">
+<td width="55%" valign="top">
 
 ### 🚀 Who Am I?
 
@@ -62,7 +63,7 @@ Hey there! I'm a passionate **Security Researcher** and **Software Developer** f
 > *"Security is not a product, but a process."* - Bruce Schneier
 
 </td>
-<td width="45%">
+<td width="45%" valign="top">
 
 ```python
 class SecurityResearcher:
@@ -96,6 +97,7 @@ me.say_hi()
 </td>
 </tr>
 </table>
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -104,6 +106,7 @@ me.say_hi()
 <!-- TECH STACK WITH SKILL ICONS AND CATEGORY HEADERS -->
 ## ⚡ Tech Arsenal
 
+<div align="center">
 <table width="100%">
 <tr>
 <td align="center" width="33%">
@@ -135,6 +138,7 @@ me.say_hi()
 </td>
 </tr>
 </table>
+</div>
 
 <!-- Security Tools with styled badges -->
 <h3 align="center">🔒 Security Arsenal</h3>
@@ -153,9 +157,10 @@ me.say_hi()
 <!-- FEATURED PROJECTS -->
 ## 🔥 Featured Projects
 
-<table>
+<div align="center">
+<table width="100%">
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3 align="center">🖥️ ASUS TUF Fan Controller</h3>
       <p align="center">
         <a href="https://github.com/Karthigaiselvam-R-official/AsusTufFanControl_Linux">
@@ -168,7 +173,7 @@ me.say_hi()
       </p>
       <p align="center"><em>Expert-level system control for ASUS TUF/ROG laptops on Linux</em></p>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3 align="center">🔍 Vulnerability Scanner</h3>
       <p align="center">
         <a href="https://github.com/Karthigaiselvam-R-official/Vulnerability_Scanner">
@@ -183,7 +188,7 @@ me.say_hi()
     </td>
   </tr>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3 align="center">🚫 403 Bypass Tool</h3>
       <p align="center">
         <a href="https://github.com/Karthigaiselvam-R-official/403-bypass3r">
@@ -196,7 +201,7 @@ me.say_hi()
       </p>
       <p align="center"><em>Bypass 403 forbidden during penetration testing</em></p>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3 align="center">📋 Smart Attendance</h3>
       <p align="center">
         <a href="https://github.com/Karthigaiselvam-R-official/Smart_Attendance">
@@ -211,6 +216,7 @@ me.say_hi()
     </td>
   </tr>
 </table>
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -223,6 +229,7 @@ me.say_hi()
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Karthigaiselvam-R-official&theme=github_dark" alt="Profile Details"/>
 </p>
 
+<div align="center">
 <table width="100%">
 <tr>
 <td width="33%" align="center">
@@ -236,6 +243,7 @@ me.say_hi()
 </td>
 </tr>
 </table>
+</div>
 
 ---
 
@@ -255,6 +263,7 @@ me.say_hi()
 <!-- CONTRIBUTION ACTIVITY - CLEANED UP -->
 ## 📈 Contribution Activity
 
+<div align="center">
 <table width="100%">
 <tr>
 <td width="50%" align="center">
@@ -265,6 +274,7 @@ me.say_hi()
 </td>
 </tr>
 </table>
+</div>
 
 <!-- Activity Graph - Full Width Timeline -->
 <p align="center">
@@ -278,6 +288,7 @@ me.say_hi()
 <!-- CONTRIBUTION SNAKE WITH DETAILED INFO -->
 ## 🐍 Contribution Snake Game
 
+<div align="center">
 <table width="100%">
 <tr>
 <td align="center">
@@ -311,6 +322,7 @@ me.say_hi()
 </td>
 </tr>
 </table>
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
