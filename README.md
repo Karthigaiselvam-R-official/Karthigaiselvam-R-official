@@ -391,81 +391,47 @@ me.say_hi()
 </p>
 
 <!-- COMPLEX TERMINAL FRAME WRAPPER -->
-<!-- COMPLEX HOLOGRAPHIC COMMAND DECK -->
+<!-- HACKER CONSOLE :: MATRIX MODE -->
 <div align="center">
 <table border="0" cellspacing="0" cellpadding="0" width="100%">
 <tr>
-<td align="center" bgcolor="#0b0f19" style="border: 2px solid #00ffff; border-radius: 6px;">
+<td align="center" bgcolor="#0d1117" style="border: 2px solid #39ff14; border-radius: 4px; box-shadow: 0 0 10px #39ff14;">
 
-<!-- HEADER BAR -->
-<table border="0" width="100%" cellspacing="0" cellpadding="5" bgcolor="#001a1a">
+<!-- HACKER HEADER -->
+<table border="0" width="100%" cellspacing="0" cellpadding="5" bgcolor="#000000">
 <tr>
-<td width="30%" align="left">
-<img src="https://img.shields.io/badge/PROTOCOL-OVERRIDE-ff006e?style=flat-square&labelColor=000000"/>
+<td width="20%" align="left">
+<img src="https://img.shields.io/badge/ACCESS-GRANTED-39ff14?style=flat-square&labelColor=000000&color=39ff14"/>
 </td>
-<td width="40%" align="center">
-<b style="color: #00ffff; font-family: monospace;">❄️ NEURAL_NET_V4 :: CONTRIBUTION_Core ❄️</b>
+<td width="60%" align="center">
+<b style="color: #39ff14; font-family: monospace;">root@system:~# ./inject_snake.sh --force</b>
 </td>
-<td width="30%" align="right">
-<img src="https://img.shields.io/badge/SERVER-KOLKATA_01-00ffff?style=flat-square&labelColor=000000"/>
+<td width="20%" align="right">
+<img src="https://img.shields.io/badge/GRID-ONLINE-39ff14?style=flat-square&labelColor=000000&color=39ff14"/>
 </td>
 </tr>
 </table>
 
-<!-- MAIN DASHBOARD CONTENT -->
-<table border="0" width="100%" cellspacing="0" cellpadding="0">
+<!-- MAIN GRID DISPLAY (MAXIMIZED) -->
+<table border="0" width="100%" cellspacing="0" cellpadding="20">
 <tr>
-<!-- LEFT MONITORING PANEL -->
-<td width="20%" valign="top" bgcolor="#081018" style="border-right: 1px solid #1e3a8a; padding: 10px;">
-<div align="center">
-<b style="color: #3b82f6; font-size: 10px;">SYS_DIAG</b><br/><br/>
-<img src="https://img.shields.io/badge/CPU-24%25-1e3a8a?style=flat&labelColor=000000"/><br/>
-<img src="https://img.shields.io/badge/RAM-12GB-1e3a8a?style=flat&labelColor=000000"/><br/>
-<img src="https://img.shields.io/badge/NET-1Gbps-1e3a8a?style=flat&labelColor=000000"/><br/>
+<td width="100%" align="center" valign="middle">
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=12&pause=1000&color=39ff14&center=true&width=500&lines=INITIALIZING_MATRIX_CONTRIBUTION_GRID...;TARGET_LOCKED:_COMMIT_HISTORY;" alt="Status" /><br/>
 <br/>
-<b style="color: #3b82f6; font-size: 10px;">TASKS</b><br/>
-<samp style="color: #60a5fa; font-size: 9px;">
-> INIT.sh<br/>
-> SNAKE.py<br/>
-> RENDER<br/>
-</samp>
-</div>
-</td>
-
-<!-- CENTER ANIMATION STAGE -->
-<td width="60%" align="center" valign="middle" style="padding: 10px;">
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=10&pause=1000&color=00ffff&center=true&width=300&lines=SCANNING_CONTRIBUTIONS...;PLEASE_WAIT;" alt="Status" /><br/>
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Karthigaiselvam-R-official/Karthigaiselvam-R-official/output/github-contribution-grid-snake-dark.svg?v=4" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Karthigaiselvam-R-official/Karthigaiselvam-R-official/output/github-contribution-grid-snake.svg?v=4" />
-<img alt="github-snake" src="https://raw.githubusercontent.com/Karthigaiselvam-R-official/Karthigaiselvam-R-official/output/github-contribution-grid-snake.svg?v=4" width="100%" />
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Karthigaiselvam-R-official/Karthigaiselvam-R-official/output/github-contribution-grid-snake-dark.svg?v=5" />
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Karthigaiselvam-R-official/Karthigaiselvam-R-official/output/github-contribution-grid-snake.svg?v=5" />
+<img alt="github-snake" src="https://raw.githubusercontent.com/Karthigaiselvam-R-official/Karthigaiselvam-R-official/output/github-contribution-grid-snake.svg?v=5" width="100%" />
 </picture>
 </td>
-
-<!-- RIGHT LOG PANEL -->
-<td width="20%" valign="top" bgcolor="#081018" style="border-left: 1px solid #1e3a8a; padding: 10px;">
-<div align="center">
-<b style="color: #3b82f6; font-size: 10px;">EVENT_LOG</b><br/><br/>
-<samp style="color: #00ffff; font-size: 9px; text-align: left;">
-[09:00] Data OK<br/>
-[12:30] Commit+<br/>
-[14:45] Push<br/>
-[18:20] Merge<br/>
-<br/>
-Processing...<br/>
-|||||| 80%
-</samp>
-</div>
-</td>
 </tr>
 </table>
 
-<!-- FOOTER STATUS BAR -->
-<table border="0" width="100%" cellspacing="0" cellpadding="5" bgcolor="#001a1a">
+<!-- HACKER FOOTER -->
+<table border="0" width="100%" cellspacing="0" cellpadding="5" bgcolor="#000000">
 <tr>
 <td align="center">
-<img src="https://img.shields.io/badge/STATUS-OPERATIONAL-00ffff?style=for-the-badge&labelColor=000000"/>
-<img src="https://img.shields.io/badge/THEME-NEON_CYBER-ff006e?style=for-the-badge&labelColor=000000"/>
+<samp style="color: #39ff14; font-family: monospace;">[Process Completed. System Integrity: 100%]</samp>
 </td>
 </tr>
 </table>
