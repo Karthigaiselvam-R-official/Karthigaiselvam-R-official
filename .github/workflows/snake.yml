@@ -1,0 +1,40 @@
+# GitHub Action to generate Snake animation for your contribution graph
+# File: .github/workflows/snake.yml
+# Place this in your profile repository (Karthigaiselvam-R-official/Karthigaiselvam-R-official)
+
+name: Generate Snake Animation
+
+on:
+  # Runs at midnight UTC every day
+  schedule:
+    - cron: "0 0 * * *"
+  # Allows manual trigger from Actions tab
+  workflow_dispatch:
+  # Runs on push to main branch
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Generate Snake Animation (Dark Mode)
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+      - name: Push to Output Branch
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
