@@ -103,51 +103,82 @@ me.say_hi()
 
 ---
 
-<!-- TECH STACK WITH SKILL ICONS AND CATEGORY HEADERS -->
+<!-- TECH STACK WITH ANIMATIONS -->
 ## ⚡ Tech Arsenal
 
-<div align="center">
-<table width="100%">
-<tr>
-<td align="center" width="33%">
+<!-- Animated Section Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=2&section=header"/>
+</p>
 
-### 💻 Languages
+<!-- Languages with Animated Typing Header -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2000&pause=1000&color=00D4FF&center=true&vCenter=true&width=200&lines=💻+Languages" alt="Languages"/>
+  </a>
+</p>
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=python,cpp,js,ts&perline=4&theme=dark" alt="Languages"/></a>
+</p>
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=bash,html,css,md&perline=4&theme=dark" alt="More Languages"/></a>
+</p>
+
 <br/>
-<a href="#"><img src="https://skillicons.dev/icons?i=python,cpp,js&theme=dark" alt="Languages"/></a>
-<br/><br/>
-<a href="#"><img src="https://skillicons.dev/icons?i=ts,bash,html,css&theme=dark" alt="More Languages"/></a>
 
-</td>
-<td align="center" width="33%">
+<!-- Frameworks with Animated Typing Header -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2000&pause=1000&color=41CD52&center=true&vCenter=true&width=250&lines=🛠️+Frameworks+%26+Tools" alt="Frameworks"/>
+  </a>
+</p>
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=qt,react,nodejs,express&perline=4&theme=dark" alt="Frameworks"/></a>
+</p>
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=docker,git,vscode,vim&perline=4&theme=dark" alt="Tools"/></a>
+</p>
 
-### 🛠️ Frameworks & Tools
 <br/>
-<a href="#"><img src="https://skillicons.dev/icons?i=qt,react,nodejs&theme=dark" alt="Frameworks"/></a>
-<br/><br/>
-<a href="#"><img src="https://skillicons.dev/icons?i=express,docker,git&theme=dark" alt="Tools"/></a>
 
-</td>
-<td align="center" width="33%">
+<!-- Cloud & Database with Animated Typing Header -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2000&pause=1000&color=FF9900&center=true&vCenter=true&width=250&lines=☁️+Cloud+%26+Database" alt="Cloud"/>
+  </a>
+</p>
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=linux,aws,azure,gcp&perline=4&theme=dark" alt="Cloud"/></a>
+</p>
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis&perline=4&theme=dark" alt="Database"/></a>
+</p>
 
-### ☁️ Cloud & Database
 <br/>
-<a href="#"><img src="https://skillicons.dev/icons?i=linux,aws,azure&theme=dark" alt="Cloud"/></a>
-<br/><br/>
-<a href="#"><img src="https://skillicons.dev/icons?i=mongodb,mysql,redis&theme=dark" alt="Database"/></a>
 
-</td>
-</tr>
-</table>
-</div>
-
-<!-- Security Tools with styled badges -->
-<h3 align="center">🔒 Security Arsenal</h3>
+<!-- Security Arsenal with Animated Typing Header -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2000&pause=1000&color=FF0000&center=true&vCenter=true&width=250&lines=🔒+Security+Arsenal" alt="Security"/>
+  </a>
+</p>
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=kali&theme=dark" alt="Kali"/></a>
+</p>
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/></a>
+</p>
+<p align="center">
   <a href="#"><img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Hashcat-3E3E3E?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
+</p>
+
+<!-- Animated Bottom Border -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=2&section=footer"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
