@@ -121,23 +121,23 @@ me.say_hi()
   <a href="#"><img width="575" src="https://skillicons.dev/icons?i=cpp,python,js,ts,bash,html&perline=6&theme=dark" alt="Languages Row 1"/></a>
 </p>
 <p align="center">
-  <b>&nbsp;&nbsp;&nbsp;&nbsp;C++&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b>
-  <b>&nbsp;&nbsp;&nbsp;Python&nbsp;&nbsp;&nbsp;</b>
-  <b>&nbsp;JavaScript&nbsp;</b>
-  <b>&nbsp;TypeScript&nbsp;</b>
-  <b>&nbsp;&nbsp;&nbsp;&nbsp;Bash&nbsp;&nbsp;&nbsp;&nbsp;</b>
-  <b>&nbsp;&nbsp;&nbsp;HTML&nbsp;&nbsp;&nbsp;&nbsp;</b>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logoColor=white"/>
 </p>
 <p align="center">
   <a href="#"><img width="575" src="https://skillicons.dev/icons?i=css,md,qt,powershell,c,go&perline=6&theme=dark" alt="Languages Row 2"/></a>
 </p>
 <p align="center">
-  <b>&nbsp;&nbsp;&nbsp;&nbsp;CSS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b>
-  <b>&nbsp;&nbsp;Markdown&nbsp;&nbsp;</b>
-  <b>&nbsp;&nbsp;&nbsp;&nbsp;QML&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b>
-  <b>&nbsp;&nbsp;&nbsp;Shell&nbsp;&nbsp;&nbsp;&nbsp;</b>
-  <b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b>
-  <b>&nbsp;&nbsp;&nbsp;&nbsp;Go&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/QML-41CD52?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logoColor=white"/>
 </p>
 
 <br/>
@@ -152,23 +152,23 @@ me.say_hi()
   <a href="#"><img width="575" src="https://skillicons.dev/icons?i=qt,cmake,react,nodejs,express,docker&perline=6&theme=dark" alt="Frameworks"/></a>
 </p>
 <p align="center">
-  <b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Qt&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b>
-  <b>&nbsp;&nbsp;&nbsp;CMake&nbsp;&nbsp;&nbsp;</b>
-  <b>&nbsp;&nbsp;&nbsp;React&nbsp;&nbsp;&nbsp;&nbsp;</b>
-  <b>&nbsp;&nbsp;Node.js&nbsp;&nbsp;</b>
-  <b>&nbsp;&nbsp;Express&nbsp;&nbsp;</b>
-  <b>&nbsp;&nbsp;&nbsp;Docker&nbsp;&nbsp;&nbsp;</b>
+  <img src="https://img.shields.io/badge/Qt-41CD52?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CMake-064F8C?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logoColor=white"/>
 </p>
 <p align="center">
   <a href="#"><img width="575" src="https://skillicons.dev/icons?i=git,github,vscode,vim,linux,ubuntu&perline=6&theme=dark" alt="Tools"/></a>
 </p>
 <p align="center">
-  <b>&nbsp;&nbsp;&nbsp;&nbsp;Git&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b>
-  <b>&nbsp;&nbsp;&nbsp;GitHub&nbsp;&nbsp;&nbsp;</b>
-  <b>&nbsp;&nbsp;VS Code&nbsp;&nbsp;</b>
-  <b>&nbsp;&nbsp;&nbsp;&nbsp;Vim&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b>
-  <b>&nbsp;&nbsp;&nbsp;Linux&nbsp;&nbsp;&nbsp;&nbsp;</b>
-  <b>&nbsp;&nbsp;&nbsp;Ubuntu&nbsp;&nbsp;&nbsp;</b>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logoColor=white"/>
 </p>
 
 <br/>
@@ -183,23 +183,23 @@ me.say_hi()
   <a href="#"><img width="575" src="https://skillicons.dev/icons?i=linux,aws,azure,gcp,docker,kubernetes&perline=6&theme=dark" alt="Cloud"/></a>
 </p>
 <p align="center">
-  <b>&nbsp;&nbsp;&nbsp;Linux&nbsp;&nbsp;&nbsp;&nbsp;</b>
-  <b>&nbsp;&nbsp;&nbsp;&nbsp;AWS&nbsp;&nbsp;&nbsp;&nbsp;</b>
-  <b>&nbsp;&nbsp;&nbsp;Azure&nbsp;&nbsp;&nbsp;&nbsp;</b>
-  <b>&nbsp;&nbsp;&nbsp;&nbsp;GCP&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b>
-  <b>&nbsp;&nbsp;&nbsp;Docker&nbsp;&nbsp;&nbsp;</b>
-  <b>&nbsp;&nbsp;&nbsp;&nbsp;K8s&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logoColor=black"/>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/K8s-326CE5?style=flat-square&logoColor=white"/>
 </p>
 <p align="center">
   <a href="#"><img width="575" src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,firebase,sqlite&perline=6&theme=dark" alt="Database"/></a>
 </p>
 <p align="center">
-  <b>&nbsp;&nbsp;MongoDB&nbsp;&nbsp;</b>
-  <b>&nbsp;&nbsp;&nbsp;MySQL&nbsp;&nbsp;&nbsp;</b>
-  <b>&nbsp;&nbsp;Postgres&nbsp;&nbsp;</b>
-  <b>&nbsp;&nbsp;&nbsp;Redis&nbsp;&nbsp;&nbsp;&nbsp;</b>
-  <b>&nbsp;&nbsp;Firebase&nbsp;&nbsp;</b>
-  <b>&nbsp;&nbsp;&nbsp;SQLite&nbsp;&nbsp;&nbsp;</b>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logoColor=white"/>
 </p>
 
 <br/>
@@ -214,7 +214,7 @@ me.say_hi()
   <a href="#"><img width="150" src="https://skillicons.dev/icons?i=kali&perline=1&theme=dark" alt="Kali"/></a>
 </p>
 <p align="center">
-  <code>Kali Linux</code>
+  <img height="50" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
 </p>
 <p align="center">
   <img height="40" src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
