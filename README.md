@@ -383,48 +383,35 @@ me.say_hi()
 <!--                                      CYBERPUNK COMMAND CENTER                                         -->
 <!-- ===================================================================================================== -->
 
-<!-- SECTION HEADER: SYSTEM ONLINE -->
+<!-- SECTION HEADER: CONTRIBUTION ACTIVITY -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=30&duration=3000&pause=1000&color=FEE75C&center=true&vCenter=true&width=600&lines=NetRunner+V2.0+Initialized;Accessing+Contribution+Database...;Target:+Commit+History" alt="System Online" />
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=30&duration=3000&pause=1000&color=FEE75C&center=true&vCenter=true&width=600&lines=Contribution+Activity;Commit+History+Trace" alt="Contribution Activity" />
   </a>
 </p>
 
 <!-- MAIN CONSOLE INTERFACE -->
 <div align="center">
-<table border="0" width="100%">
-<tr>
-<!-- LEFT SIDEBAR: TECH DECORATION -->
-<td width="15%" align="center" valign="middle">
-<img src="https://i.pinimg.com/originals/1c/12/36/1c1236fb6eb9236ba6c44933a39e0839.gif" width="100%" alt="Cyber HUD Left"/>
-</td>
-<!-- CENTER SCREEN: THE SNAKE GAME -->
-<td width="70%" align="center">
 <!-- SCREEN BEZEL TOP -->
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=12&pause=1000&color=00fffa&center=true&width=400&lines=STATUS:+CONTRIBUTION+GRID+ACTIVE;MODE:+SNAKE_EATER_EXEC" alt="Screen Status" /><br/>
+
 <!-- THE SNAKE ANIMATION (Responsive) -->
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Karthigaiselvam-R-official/Karthigaiselvam-R-official/output/github-contribution-grid-snake-dark.svg" />
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Karthigaiselvam-R-official/Karthigaiselvam-R-official/output/github-contribution-grid-snake.svg" />
 <img alt="github-snake" src="https://raw.githubusercontent.com/Karthigaiselvam-R-official/Karthigaiselvam-R-official/output/github-contribution-grid-snake.svg" width="100%" />
 </picture>
+
 <!-- SCREEN BEZEL BOTTOM -->
 <br/>
 <img src="https://img.shields.io/badge/System_Load-OPTIMAL-00fffa?style=for-the-badge&labelColor=000000"/>
 <img src="https://img.shields.io/badge/Uptime-99.9%25-FEE75C?style=for-the-badge&labelColor=000000"/>
 <img src="https://img.shields.io/badge/Security-ENCRYPTED-d946ef?style=for-the-badge&labelColor=000000"/>
-</td>
-<!-- RIGHT SIDEBAR: TECH DECORATION -->
-<td width="15%" align="center" valign="middle">
-<img src="https://i.pinimg.com/originals/c9/2b/5e/c92b5e2a22026d365df8b71d60064560.gif" width="100%" alt="Cyber HUD Right"/>
-</td>
-</tr>
-</table>
 </div>
 
 <!-- FOOTER CONSOLE LOG -->
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&pause=1000&color=39ff14&center=true&width=500&lines=console.log('Contributions_Loaded');>>+User_Level:+LEGENDARY;>>+Next_Task:+Code_The_Future..." alt="Console Log" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&pause=1000&color=39ff14&center=true&width=500&lines=console.log('Stats_Loaded');>>+Data_Visualization:+COMPLETE" alt="Console Log" />
 </p>
 <!-- ===================================================================================================== -->
 <!-- Contribution Stats Summary -->
