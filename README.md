@@ -333,36 +333,36 @@ me.say_hi()
 <!-- GITHUB ANALYTICS DASHBOARD -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=28&duration=4000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=GitHub+Analytics+Dashboard;Live+Performance+Metrics" alt="GitHub Analytics" />
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=28&duration=4000&pause=1000&color=FEE75C&center=true&vCenter=true&width=500&lines=GitHub+Analytics+Dashboard;Live+Performance+Metrics" alt="GitHub Analytics" />
   </a>
 </p>
 
 <div align="center">
 <table border="0" width="100%">
-  <!-- ROW 1: PROFILE DETAILS (Wide) - Tokyo Night Theme -->
+  <!-- ROW 1: PROFILE DETAILS (Wide) - 2077 Theme -->
   <tr>
     <td colspan="3" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Karthigaiselvam-R-official&theme=tokyonight" alt="Profile Details" width="100%" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Karthigaiselvam-R-official&theme=2077" alt="Profile Details" width="100%" />
     </td>
   </tr>
-  <!-- ROW 2: DETAILED STATS (3 Columns) - Tokyo Night Theme -->
+  <!-- ROW 2: DETAILED STATS (3 Columns) - 2077 Theme -->
   <tr>
     <td width="33%" align="center">
-       <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Karthigaiselvam-R-official&theme=tokyonight" alt="GitHub Stats" />
+       <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Karthigaiselvam-R-official&theme=2077" alt="GitHub Stats" />
     </td>
     <td width="33%" align="center">
-       <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Karthigaiselvam-R-official&theme=tokyonight&utcOffset=5.5" alt="Commits per Hour" />
+       <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Karthigaiselvam-R-official&theme=2077&utcOffset=5.5" alt="Commits per Hour" />
     </td>
     <td width="33%" align="center">
-       <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Karthigaiselvam-R-official&theme=tokyonight" alt="Top Languages" />
+       <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Karthigaiselvam-R-official&theme=2077" alt="Top Languages" />
     </td>
   </tr>
 </table>
 </div>
 
-<!-- Activity Graph - Tokyo Night Colors -->
+<!-- Activity Graph - 2077 Cyberpunk Colors (Yellow/Cyan) -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Karthigaiselvam-R-official&bg_color=1a1b27&color=7aa2f7&line=7aa2f7&point=c0caf5&area_color=7aa2f7&area=true&hide_border=true" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Karthigaiselvam-R-official&bg_color=000000&color=FEE75C&line=00fffa&point=FEE75C&area_color=00fffa&area=true&hide_border=true" alt="Activity Graph"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
