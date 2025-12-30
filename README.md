@@ -186,6 +186,9 @@ me.say_hi()
   <a href="#"><img width="150" src="https://skillicons.dev/icons?i=kali&perline=1&theme=dark" alt="Kali"/></a>
 </p>
 <p align="center">
+  <code>Kali Linux</code>
+</p>
+<p align="center">
   <img height="40" src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
   <img height="40" src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white"/>
   <img height="40" src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
