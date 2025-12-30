@@ -391,66 +391,87 @@ me.say_hi()
 </p>
 
 <!-- COMPLEX TERMINAL FRAME WRAPPER -->
+<!-- COMPLEX HOLOGRAPHIC COMMAND DECK -->
 <div align="center">
 <table border="0" cellspacing="0" cellpadding="0" width="100%">
-  <!-- TERMINAL WINDOW BORDER -->
-  <tr>
-    <td align="center" bgcolor="#0b0f19" style="border: 1px solid #30363d; border-radius: 10px;">
-      
-      <!-- TERMINAL HEADER BAR -->
-      <table border="0" width="100%" cellspacing="0" cellpadding="10" bgcolor="#161b22">
-        <tr>
-          <td width="20%" align="left">
-             <!-- TRAFFIC LIGHT WINDOW CONTROLS -->
-             <img src="https://img.shields.io/badge/●-ff5f56?style=flat&labelColor=161b22"/> 
-             <img src="https://img.shields.io/badge/●-ffbd2e?style=flat&labelColor=161b22"/> 
-             <img src="https://img.shields.io/badge/●-27c93f?style=flat&labelColor=161b22"/>
-          </td>
-          <td width="60%" align="center">
-             <samp style="color: #8b949e; font-family: monospace;"><b>root@karthigaiselvam:~# run_snake_animation.sh</b></samp>
-          </td>
-          <td width="20%" align="right">
-             <img src="https://img.shields.io/badge/v2.1.0-INIT-30363d?style=flat-square&labelColor=161b22&color=39ff14"/>
-          </td>
-        </tr>
-      </table>
+<tr>
+<td align="center" bgcolor="#0b0f19" style="border: 2px solid #00ffff; border-radius: 6px;">
 
-      <!-- TERMINAL CONTENT AREA -->
-      <table border="0" width="100%" cellspacing="0" cellpadding="0">
-        <tr>
-          <!-- SIDE GUTTER with LINE NUMBERS -->
-          <td width="5%" valign="top" align="right" style="padding-top: 20px; color: #484f58; font-family: monospace;">
-             1<br/>2<br/>3<br/>4<br/>5
-          </td>
-          
-          <!-- MAIN DISPLAY -->
-          <td width="95%" align="center" style="padding: 10px;">
-             <!-- STATUS TEXT TYPEWRITER -->
-             <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=12&pause=1000&color=3b82f6&center=true&width=400&lines=SYSTEM_STATUS:+ONLINE;GRID_SCAN:+IN_PROGRESS;RENDERING:+CYBER_SNAKE_V4" alt="Screen Status" /><br/>
-             
-             <!-- THE SNAKE ANIMATION -->
-             <picture>
-               <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Karthigaiselvam-R-official/Karthigaiselvam-R-official/output/github-contribution-grid-snake-dark.svg" />
-               <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Karthigaiselvam-R-official/Karthigaiselvam-R-official/output/github-contribution-grid-snake.svg" />
-               <img alt="github-snake" src="https://raw.githubusercontent.com/Karthigaiselvam-R-official/Karthigaiselvam-R-official/output/github-contribution-grid-snake.svg" width="100%" />
-             </picture>
-          </td>
-        </tr>
-      </table>
+<!-- HEADER BAR -->
+<table border="0" width="100%" cellspacing="0" cellpadding="5" bgcolor="#001a1a">
+<tr>
+<td width="30%" align="left">
+<img src="https://img.shields.io/badge/PROTOCOL-OVERRIDE-ff006e?style=flat-square&labelColor=000000"/>
+</td>
+<td width="40%" align="center">
+<b style="color: #00ffff; font-family: monospace;">❄️ NEURAL_NET_V4 :: CONTRIBUTION_Core ❄️</b>
+</td>
+<td width="30%" align="right">
+<img src="https://img.shields.io/badge/SERVER-KOLKATA_01-00ffff?style=flat-square&labelColor=000000"/>
+</td>
+</tr>
+</table>
 
-      <!-- TERMINAL FOOTER BAR -->
-      <table border="0" width="100%" cellspacing="0" cellpadding="5" bgcolor="#161b22">
-        <tr>
-          <td align="center">
-            <img src="https://img.shields.io/badge/System_Load-NOMINAL-00ffff?style=for-the-badge&labelColor=0d1117"/>
-            <img src="https://img.shields.io/badge/Uptime-100%25-3b82f6?style=for-the-badge&labelColor=0d1117"/>
-            <img src="https://img.shields.io/badge/Security-LOCKED-1e3a8a?style=for-the-badge&labelColor=0d1117"/>
-          </td>
-        </tr>
-      </table>
+<!-- MAIN DASHBOARD CONTENT -->
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+<tr>
+<!-- LEFT MONITORING PANEL -->
+<td width="20%" valign="top" bgcolor="#081018" style="border-right: 1px solid #1e3a8a; padding: 10px;">
+<div align="center">
+<b style="color: #3b82f6; font-size: 10px;">SYS_DIAG</b><br/><br/>
+<img src="https://img.shields.io/badge/CPU-24%25-1e3a8a?style=flat&labelColor=000000"/><br/>
+<img src="https://img.shields.io/badge/RAM-12GB-1e3a8a?style=flat&labelColor=000000"/><br/>
+<img src="https://img.shields.io/badge/NET-1Gbps-1e3a8a?style=flat&labelColor=000000"/><br/>
+<br/>
+<b style="color: #3b82f6; font-size: 10px;">TASKS</b><br/>
+<samp style="color: #60a5fa; font-size: 9px;">
+> INIT.sh<br/>
+> SNAKE.py<br/>
+> RENDER<br/>
+</samp>
+</div>
+</td>
 
-    </td>
-  </tr>
+<!-- CENTER ANIMATION STAGE -->
+<td width="60%" align="center" valign="middle" style="padding: 10px;">
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=10&pause=1000&color=00ffff&center=true&width=300&lines=SCANNING_CONTRIBUTIONS...;PLEASE_WAIT;" alt="Status" /><br/>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Karthigaiselvam-R-official/Karthigaiselvam-R-official/output/github-contribution-grid-snake-dark.svg" />
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Karthigaiselvam-R-official/Karthigaiselvam-R-official/output/github-contribution-grid-snake.svg" />
+<img alt="github-snake" src="https://raw.githubusercontent.com/Karthigaiselvam-R-official/Karthigaiselvam-R-official/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+</td>
+
+<!-- RIGHT LOG PANEL -->
+<td width="20%" valign="top" bgcolor="#081018" style="border-left: 1px solid #1e3a8a; padding: 10px;">
+<div align="center">
+<b style="color: #3b82f6; font-size: 10px;">EVENT_LOG</b><br/><br/>
+<samp style="color: #00ffff; font-size: 9px; text-align: left;">
+[09:00] Data OK<br/>
+[12:30] Commit+<br/>
+[14:45] Push<br/>
+[18:20] Merge<br/>
+<br/>
+Processing...<br/>
+|||||| 80%
+</samp>
+</div>
+</td>
+</tr>
+</table>
+
+<!-- FOOTER STATUS BAR -->
+<table border="0" width="100%" cellspacing="0" cellpadding="5" bgcolor="#001a1a">
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/STATUS-OPERATIONAL-00ffff?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/THEME-NEON_CYBER-ff006e?style=for-the-badge&labelColor=000000"/>
+</td>
+</tr>
+</table>
+
+</td>
+</tr>
 </table>
 </div>
 
