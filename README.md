@@ -449,7 +449,7 @@ MODULE: CONTRIBUTION TRACKING
   </a>
   &nbsp;
   <a href="https://github.com/Karthigaiselvam-R-official?tab=repositories&type=source">
-     <img src="https://img.shields.io/github/search/Karthigaiselvam-R-official/user%3AKarthigaiselvam-R-official%20fork%3Afalse?label=Author%20Built%20from%20scratch%20works&style=for-the-badge&color=00ffff&labelColor=0d1117&logo=github" alt="Author Built from scratch works"/>
+     <img src="https://img.shields.io/github/search/Karthigaiselvam-R-official/fork:false?label=Author%27s%20Scratch%20Works&style=for-the-badge&color=00ffff&labelColor=0d1117&logo=github" alt="Author's Scratch Works"/>
   </a>
 </p>
 
