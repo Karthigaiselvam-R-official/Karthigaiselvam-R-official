@@ -28,8 +28,6 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/snake-2025.svg?palette=github-dark&year=2025
-            dist/snake-2026.svg?palette=github-dark&year=2026
   
       - name: Push to Output Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
