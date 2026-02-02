@@ -364,26 +364,7 @@ me.say_hi()
   <!-- ROW 1: PROFILE DETAILS (Wide) - 2077 Theme -->
   <tr>
     <td colspan="3" align="center">
-      <!-- CUSTOM ANALYTICS DASHBOARD (Replaces Profile Details Card) -->
-      <br/>
-      <!-- Badge 1: Real-time Contributions -->
-      <a href="https://github.com/Karthigaiselvam-R-official">
-        <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-contributions-api.jogruber.de%2Fv4%2FKarthigaiselvam-R-official&query=%24.total.2026&label=Contributions%202026&style=for-the-badge&color=FEE75C&labelColor=0d1117&logo=github" alt="Contributions"/>
-      </a>
-      <br/><br/>
-      <!-- Badge 2: Source Repositories (Fork: False) -->
-      <a href="https://github.com/Karthigaiselvam-R-official?tab=repositories&type=source">
-        <img src="https://img.shields.io/github/search/Karthigaiselvam-R-official/user%3AKarthigaiselvam-R-official%20fork%3Afalse?label=Author%20Built%20from%20scratch%20works&style=for-the-badge&color=00d4ff&labelColor=0d1117&logo=github" alt="Author Works"/>
-      </a>
-      <br/><br/>
-      <!-- Badge 3: Joined Date & Email -->
-      <img src="https://img.shields.io/badge/Joined_GitHub-2024-purple?style=for-the-badge&labelColor=0d1117&logo=github" alt="Joined"/>
-      &nbsp;
-      <a href="mailto:karthigaiselvamr.cs2022@gmail.com">
-        <img src="https://img.shields.io/badge/Email-Me-EA4335?style=for-the-badge&logo=gmail&labelColor=0d1117&logoColor=white" alt="Email"/>
-      </a>
-      <br/><br/>
-      <!-- End Custom Dashboard -->
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Karthigaiselvam-R-official&theme=2077" alt="Profile Details" width="100%" />
     </td>
   </tr>
   <!-- ROW 2: DETAILED STATS (3 Columns) - 2077 Theme -->
