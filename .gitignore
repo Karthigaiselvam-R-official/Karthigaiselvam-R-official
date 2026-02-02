@@ -1,0 +1,5 @@
+.vscode/
+Karthigaiselvam-dev/
+node_modules/
+dist/
+.env
