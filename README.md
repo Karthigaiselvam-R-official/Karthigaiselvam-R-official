@@ -439,8 +439,19 @@ MODULE: CONTRIBUTION TRACKING
 <!-- ===================================================================================================== -->
 <!-- Contribution Stats Summary -->
 <br/>
-
-
+<p align="center">
+  <a href="https://github.com/Karthigaiselvam-R-official/Karthigaiselvam-R-official/actions/workflows/snake.yml">
+    <img src="https://img.shields.io/badge/Run_Snake!-Action-2088FF?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="Run Snake"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/Karthigaiselvam-R-official">
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-contributions-api.jogruber.de%2Fv4%2FKarthigaiselvam-R-official&query=%24.total.2026&label=Contributions%202026&style=for-the-badge&color=FEE75C&labelColor=000000&logo=github" alt="Total Contributions"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/Karthigaiselvam-R-official?tab=repositories">
+     <img src="https://img.shields.io/badge/📦_Public_Repos-Active-00ffff?style=for-the-badge&labelColor=000000" alt="Public Repos"/>
+  </a>
+</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
