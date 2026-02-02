@@ -15,19 +15,19 @@
 <!-- SOCIAL BADGES ROW -->
 <p align="center">
   <a href="https://github.com/Karthigaiselvam-R-official/Karthigaiselvam-R-official/actions/workflows/snake.yml">
-    <img src="https://img.shields.io/badge/Run_Snake!-Action-2088FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Run Snake"/>
+    <img src="https://img.shields.io/badge/Run_Snake!-Action-2088FF?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22" alt="Run Snake"/>
   </a>
   &nbsp;
   <a href="https://github.com/Karthigaiselvam-R-official">
-    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-contributions-api.jogruber.de%2Fv4%2FKarthigaiselvam-R-official&query=%24.total.2026&label=Contributions%202026&style=for-the-badge&color=FEE75C&labelColor=0d1117&logo=github" alt="Total Contributions"/>
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-contributions-api.jogruber.de%2Fv4%2FKarthigaiselvam-R-official&query=%24.total.2026&label=Contributions%202026&style=for-the-badge&color=FEE75C&labelColor=161b22&logo=github" alt="Total Contributions"/>
   </a>
   &nbsp;
   <a href="https://github.com/Karthigaiselvam-R-official?tab=followers">
-    <img src="https://img.shields.io/github/followers/Karthigaiselvam-R-official?style=for-the-badge&logo=github&color=00d4ff&labelColor=0d1117" alt="Followers"/>
+    <img src="https://img.shields.io/github/followers/Karthigaiselvam-R-official?style=for-the-badge&logo=github&color=9B59B6&labelColor=161b22" alt="Followers"/>
   </a>
   &nbsp;
   <a href="https://github.com/Karthigaiselvam-R-official?tab=stars">
-    <img src="https://img.shields.io/github/stars/Karthigaiselvam-R-official?style=for-the-badge&logo=github&color=00d4ff&labelColor=0d1117" alt="Stars"/>
+    <img src="https://img.shields.io/github/stars/Karthigaiselvam-R-official?style=for-the-badge&logo=github&color=FF9900&labelColor=161b22" alt="Stars"/>
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/karthigaiselvam-r-7b9197258/">
@@ -39,7 +39,7 @@
   </a>
   &nbsp;
   <a href="https://github.com/Karthigaiselvam-R-official?tab=repositories">
-     <img src="https://img.shields.io/badge/📦_Public_Repos-Active-00ffff?style=for-the-badge&labelColor=0d1117" alt="Public Repos"/>
+     <img src="https://img.shields.io/badge/📦_Public_Repos-Active-39FF14?style=for-the-badge&labelColor=161b22" alt="Public Repos"/>
   </a>
 </p>
 
@@ -441,15 +441,15 @@ MODULE: CONTRIBUTION TRACKING
 <br/>
 <p align="center">
   <a href="https://github.com/Karthigaiselvam-R-official/Karthigaiselvam-R-official/actions/workflows/snake.yml">
-    <img src="https://img.shields.io/badge/Run_Snake!-Action-2088FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Run Snake"/>
+    <img src="https://img.shields.io/badge/Run_Snake!-Action-FF69B4?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22" alt="Run Snake"/>
   </a>
   &nbsp;
   <a href="https://github.com/Karthigaiselvam-R-official">
-    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-contributions-api.jogruber.de%2Fv4%2FKarthigaiselvam-R-official&query=%24.total.2026&label=Contributions%202026&style=for-the-badge&color=FEE75C&labelColor=0d1117&logo=github" alt="Total Contributions"/>
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-contributions-api.jogruber.de%2Fv4%2FKarthigaiselvam-R-official&query=%24.total.2026&label=Contributions%202026&style=for-the-badge&color=22C55E&labelColor=161b22&logo=github" alt="Total Contributions"/>
   </a>
   &nbsp;
   <a href="https://github.com/Karthigaiselvam-R-official?tab=repositories&type=source">
-     <img src="https://img.shields.io/badge/Author's_Scratch_Works-14-00ffff?style=for-the-badge&labelColor=0d1117&logo=github" alt="Author's Scratch Works"/>
+     <img src="https://img.shields.io/badge/Author's_Scratch_Works-14-8B5CF6?style=for-the-badge&labelColor=161b22&logo=github" alt="Author's Scratch Works"/>
   </a>
 </p>
 
