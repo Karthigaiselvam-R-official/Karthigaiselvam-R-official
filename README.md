@@ -405,18 +405,18 @@ MODULE: CONTRIBUTION TRACKING
 </h3>
 
 <a href="https://github.com/Karthigaiselvam-R-official/Karthigaiselvam-R-official/actions/workflows/snake.yml">
-  <!-- 2026 Graph (Present) -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Karthigaiselvam-R-official/Karthigaiselvam-R-official/output/snake-2026.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Karthigaiselvam-R-official/Karthigaiselvam-R-official/output/snake-2026.svg">
-    <img alt="2026 Contribution Graph" src="https://raw.githubusercontent.com/Karthigaiselvam-R-official/Karthigaiselvam-R-official/output/snake-2026.svg" width="100%">
-  </picture>
-  <br/>
-  <!-- 2025 Graph (History) -->
+  <!-- 2025 (History) -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Karthigaiselvam-R-official/Karthigaiselvam-R-official/output/snake-2025.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Karthigaiselvam-R-official/Karthigaiselvam-R-official/output/snake-2025.svg">
     <img alt="2025 Contribution Graph" src="https://raw.githubusercontent.com/Karthigaiselvam-R-official/Karthigaiselvam-R-official/output/snake-2025.svg" width="100%">
+  </picture>
+  <br/>
+  <!-- 2026 (Present) -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Karthigaiselvam-R-official/Karthigaiselvam-R-official/output/snake-2026.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Karthigaiselvam-R-official/Karthigaiselvam-R-official/output/snake-2026.svg">
+    <img alt="2026 Contribution Graph" src="https://raw.githubusercontent.com/Karthigaiselvam-R-official/Karthigaiselvam-R-official/output/snake-2026.svg" width="100%">
   </picture>
 </a>
 
