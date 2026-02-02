@@ -39,7 +39,7 @@
   </a>
   &nbsp;
   <a href="https://github.com/Karthigaiselvam-R-official?tab=repositories">
-     <img src="https://img.shields.io/badge/📦_Public_Repos-Active-00ffff?style=for-the-badge&labelColor=000000" alt="Public Repos"/>
+     <img src="https://img.shields.io/badge/📦_Author_Built_from_scratch_works-Active-00ffff?style=for-the-badge&labelColor=000000" alt="Public Repos"/>
   </a>
 </p>
 
@@ -449,7 +449,7 @@ MODULE: CONTRIBUTION TRACKING
   </a>
   &nbsp;
   <a href="https://github.com/Karthigaiselvam-R-official?tab=repositories">
-     <img src="https://img.shields.io/badge/📦_Public_Repos-Active-00ffff?style=for-the-badge&labelColor=000000" alt="Public Repos"/>
+     <img src="https://img.shields.io/badge/📦_Author_Built_from_scratch_works-Active-00ffff?style=for-the-badge&labelColor=000000" alt="Public Repos"/>
   </a>
 </p>
 
