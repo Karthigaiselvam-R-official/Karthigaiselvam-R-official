@@ -267,7 +267,7 @@ me.say_hi()
   <tr>
     <td width="50%" valign="top" align="center">
       <a href="https://github.com/Karthigaiselvam-R-official/AsusTufFanControl_Linux">
-        <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=3000&pause=1000&color=00d4ff&center=true&vCenter=true&width=400&lines=ASUS+TUF+Fan+Controller" alt="AsusTufFanControl_Linux" />
+        <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=3000&pause=1000&color=00d4ff&center=true&vCenter=true&width=400&lines=ASUS+TUF+Fan+Controller+Linux" alt="AsusTufFanControl_Linux" />
       </a>
       <br/><br/>
       <img src="https://img.shields.io/github/stars/Karthigaiselvam-R-official/AsusTufFanControl_Linux?style=for-the-badge&logo=github&color=0D1117"/>
