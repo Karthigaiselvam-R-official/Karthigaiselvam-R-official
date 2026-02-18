@@ -285,42 +285,42 @@ me.say_hi()
       </a>
     </td>
     <td width="50%" valign="top" align="center">
-      <a href="https://github.com/Karthigaiselvam-R-official/Vulnerability_Scanner">
-        <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=400&lines=Vulnerability+Scanner" alt="Vulnerability_Scanner" />
+      <a href="https://github.com/Karthigaiselvam-R-official/AsusTufController_Windows">
+        <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=400&lines=ASUS+TUF+Controller+Windows" alt="AsusTufController_Windows" />
       </a>
       <br/><br/>
-      <img src="https://img.shields.io/github/stars/Karthigaiselvam-R-official/Vulnerability_Scanner?style=for-the-badge&logo=github&color=0D1117"/>
-      <img src="https://img.shields.io/github/forks/Karthigaiselvam-R-official/Vulnerability_Scanner?style=for-the-badge&logo=github&color=0D1117"/>
+      <img src="https://img.shields.io/github/stars/Karthigaiselvam-R-official/AsusTufController_Windows?style=for-the-badge&logo=github&color=0D1117"/>
+      <img src="https://img.shields.io/github/forks/Karthigaiselvam-R-official/AsusTufController_Windows?style=for-the-badge&logo=github&color=0D1117"/>
       <br/><br/>
       <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Security-FF0000?style=flat-square&logo=hackaday&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Automation-orange?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Qt6-41CD52?style=flat-square&logo=qt&logoColor=white"/>
+        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white"/>
       </p>
-      <p align="center"><em>Automated security scanning tool for modern web applications. Detects common vulnerabilities with high accuracy.</em></p>
+      <p align="center"><em>Native, lightweight system control center for ASUS TUF Gaming Laptops. Fan control, battery limiting, and Aura Sync RGB.</em></p>
       <br/>
-      <a href="https://github.com/Karthigaiselvam-R-official/Vulnerability_Scanner">
+      <a href="https://github.com/Karthigaiselvam-R-official/AsusTufController_Windows">
         <img src="https://img.shields.io/badge/View_Project_➜-FF0000?style=flat-square&logoColor=white"/>
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top" align="center">
-      <a href="https://github.com/Karthigaiselvam-R-official/403-bypass3r">
-        <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=3000&pause=1000&color=4EAA25&center=true&vCenter=true&width=400&lines=403+Bypass+Tool" alt="403-bypass3r" />
+      <a href="https://github.com/Karthigaiselvam-R-official/InfinityLoader">
+        <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=3000&pause=1000&color=4EAA25&center=true&vCenter=true&width=400&lines=Infinity+Loader" alt="InfinityLoader" />
       </a>
       <br/><br/>
-      <img src="https://img.shields.io/github/stars/Karthigaiselvam-R-official/403-bypass3r?style=for-the-badge&logo=github&color=0D1117"/>
-      <img src="https://img.shields.io/github/forks/Karthigaiselvam-R-official/403-bypass3r?style=for-the-badge&logo=github&color=0D1117"/>
+      <img src="https://img.shields.io/github/stars/Karthigaiselvam-R-official/InfinityLoader?style=for-the-badge&logo=github&color=0D1117"/>
+      <img src="https://img.shields.io/github/forks/Karthigaiselvam-R-official/InfinityLoader?style=for-the-badge&logo=github&color=0D1117"/>
       <br/><br/>
       <p align="center">
-        <img src="https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Pentest-000000?style=flat-square&logo=kalilinux&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Network-blue?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+        <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/>
       </p>
-      <p align="center"><em>Advanced script to bypass 403 Forbidden errors during penetration testing and bug bounty hunting.</em></p>
+      <p align="center"><em>YouTube downloads reimagined with artistic flair — 8K HDR, crystal-clear audio, and a futuristic Aurora Glass UI.</em></p>
       <br/>
-      <a href="https://github.com/Karthigaiselvam-R-official/403-bypass3r">
+      <a href="https://github.com/Karthigaiselvam-R-official/InfinityLoader">
         <img src="https://img.shields.io/badge/View_Project_➜-4EAA25?style=flat-square&logoColor=white"/>
       </a>
     </td>
