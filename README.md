@@ -40,6 +40,13 @@
 </p>
 
 <br/>
+<!-- 🔥🔥🔥 NEW STREAK STATS CARD (Added Here) 🔥🔥🔥 -->
+
+<p align="center">
+<a href="https://www.google.com/search?q=https://git.io/streak-stats">
+<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DKarthigaiselvam-R-official%26theme%3Dhighcontrast%26hide_border%3Dtrue" alt="GitHub Streak" />
+</a>
+</p>
 
 <!-- Animated Wave Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
