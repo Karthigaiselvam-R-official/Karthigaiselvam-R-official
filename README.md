@@ -286,7 +286,7 @@ me.say_hi()
     </td>
     <td width="50%" valign="top" align="center">
       <a href="https://github.com/Karthigaiselvam-R-official/AsusTufController_Windows">
-        <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=400&lines=ASUS+Fan+Controller+Windows" alt="AsusTufController_Windows" />
+        <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=400&lines=ASUS+TUF+Controller+Windows" alt="AsusTufController_Windows" />
       </a>
       <br/><br/>
       <img src="https://img.shields.io/github/stars/Karthigaiselvam-R-official/AsusTufController_Windows?style=for-the-badge&logo=github&color=0D1117"/>
