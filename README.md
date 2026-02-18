@@ -43,7 +43,19 @@
 <!-- 🔥🔥🔥 NEW STREAK STATS CARD (Added Here) 🔥🔥🔥 -->
 
 <!-- 🔥🔥🔥 CYBERPUNK STREAK STATS 🔥🔥🔥 -->
-<div align="center"><img height="160" src="images/wings/Left.svg" alt="Left Wing" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Karthigaiselvam-R-official&theme=radical&hide_border=true&background=000000&ring=9B59B6&currStreakLabel=00d4ff&timezone=Asia/Kolkata" alt="Streak Stats" /><img height="160" src="images/wings/Right.svg" alt="Right Wing" /></div>
+<table border="0" align="center" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="right" valign="middle" style="padding:0; margin:0;">
+      <img height="150" src="images/wings/Left.svg" alt="Left Wing">
+    </td>
+    <td align="center" valign="middle" style="padding:0; margin:0;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Karthigaiselvam-R-official&theme=radical&hide_border=true&background=000000&ring=9B59B6&currStreakLabel=00d4ff&timezone=Asia/Kolkata" alt="Streak Stats">
+    </td>
+    <td align="left" valign="middle" style="padding:0; margin:0;">
+      <img height="150" src="images/wings/Right.svg" alt="Right Wing">
+    </td>
+  </tr>
+</table>
 
 <!-- Animated Wave Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
