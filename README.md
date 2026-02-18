@@ -43,7 +43,7 @@
 <!-- 🔥🔥🔥 NEW STREAK STATS CARD (Added Here) 🔥🔥🔥 -->
 
 <!-- 🔥🔥🔥 CYBERPUNK STREAK STATS 🔥🔥🔥 -->
-<div align="center"><img height="160" src="images/wings/Left.svg" alt="Left Wing" /><img align="top" src="https://streak-stats.demolab.com/?user=Karthigaiselvam-R-official&theme=radical&hide_border=true&background=000000&ring=9B59B6&currStreakLabel=00d4ff&timezone=Asia%2FKolkata" alt="Streak Stats" /><img height="160" src="images/wings/Right.svg" alt="Right Wing" /></div>
+<div align="center"><img height="160" src="images/wings/Left.svg" alt="Left Wing" /><img align="top" src="https://github-readme-streak-stats-eight.vercel.app/?user=Karthigaiselvam-R-official&theme=radical&hide_border=true&background=000000&ring=9B59B6&currStreakLabel=00d4ff" alt="Streak Stats" /><img height="160" src="images/wings/Right.svg" alt="Right Wing" /></div>
 
 <br/>
 <!-- Animated Wave Divider -->
