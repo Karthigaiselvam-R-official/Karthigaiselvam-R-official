@@ -37,10 +37,6 @@
   <a href="https://github.com/Karthigaiselvam-R-official?tab=repositories">
      <img src="https://img.shields.io/badge/📦_Public_Repos-Active-39FF14?style=for-the-badge&labelColor=161b22" alt="Public Repos"/>
   </a>
-  &nbsp;
-  <a href="https://github.com/Karthigaiselvam-R-official">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3DKarthigaiselvam-R-official%26format%3Djson&query=%24.longestStreak&label=Longest%20Streak&style=for-the-badge&color=FEE75C&labelColor=161b22&logo=github" alt="Longest Streak"/>
-</a>
 </p>
 
 <br/>
