@@ -42,11 +42,12 @@
 <br/>
 <!-- 🔥🔥🔥 NEW STREAK STATS CARD (Added Here) 🔥🔥🔥 -->
 
-<p align="center">
-<a href="https://www.google.com/search?q=https://git.io/streak-stats">
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DKarthigaiselvam-R-official%26theme%3Dhighcontrast%26hide_border%3Dtrue" alt="GitHub Streak" />
-</a>
-</p>
+<!-- 🔥🔥🔥 CYBERPUNK STREAK STATS 🔥🔥🔥 -->
+<div align="center">
+    <img height="150" src="images/wings/Left.svg" alt="Left Wing" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Karthigaiselvam-R-official&theme=radical&hide_border=true&background=0D1117&ring=9B59B6&currStreakLabel=00d4ff" alt="Streak Stats" />
+    <img height="150" src="images/wings/Right.svg" alt="Right Wing" />
+</div>
 
 <!-- Animated Wave Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
