@@ -45,7 +45,7 @@
 <!-- 🔥🔥🔥 CYBERPUNK STREAK STATS 🔥🔥🔥 -->
 <div align="center">
     <img height="150" src="images/wings/Left.svg" alt="Left Wing" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Karthigaiselvam-R-official&theme=radical&hide_border=true&background=0D1117&ring=9B59B6&currStreakLabel=00d4ff" alt="Streak Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Karthigaiselvam-R-official&theme=radical&hide_border=true&background=000000&ring=9B59B6&currStreakLabel=00d4ff&timezone=Asia/Kolkata" alt="Streak Stats" />
     <img height="150" src="images/wings/Right.svg" alt="Right Wing" />
 </div>
 
