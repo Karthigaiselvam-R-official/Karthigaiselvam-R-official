@@ -390,15 +390,15 @@ me.say_hi()
       </a>
       &nbsp;
       <a href="https://github.com/Karthigaiselvam-R-official?tab=stars">
-        <img src="https://img.shields.io/github/stars/Karthigaiselvam-R-official?style=for-the-badge&logo=github&color=FF9900&labelColor=0d0221&label=Stars" alt="Stars"/>
+        <img src="https://img.shields.io/github/stars/Karthigaiselvam-R-official/Karthigaiselvam-R-official?style=for-the-badge&logo=github&color=FF9900&labelColor=0d0221&label=Stars" alt="Stars"/>
       </a>
       <br/>
       <!-- Contributions 2026 (live JSON badge) -->
-      <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-contributions-api.jogruber.de%2Fv4%2FKarthigaiselvam-R-official&query=%24.total.2026&label=Contributions+2026&style=for-the-badge&color=39FF14&labelColor=0d0221&logo=github" alt="Contributions 2026"/>
+      <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-contributions-api.jogruber.de%2Fv4%2FKarthigaiselvam-R-official&query=%24.total.2026&label=Contributions+2026&style=for-the-badge&color=39FF14&labelColor=0d0221&logo=github" alt="Contributions 2026"/> 
       <br/>
       <!-- Public repos count (live GitHub API badge) -->
       <a href="https://github.com/Karthigaiselvam-R-official?tab=repositories">
-        <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FKarthigaiselvam-R-official&query=%24.public_repos&label=Public+Repos&style=for-the-badge&color=00fffa&labelColor=0d0221&logo=github" alt="Public Repos"/>
+        <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FKarthigaiselvam-R-official&query=%24.public_repos&label=Public+Repos&style=for-the-badge&color=00fffa&labelColor=0d0221&logo=github" alt="Public Repos"/> 
       </a>
       <br/><br/>
       <!-- Contact / Social -->
@@ -415,7 +415,7 @@ me.say_hi()
       </a>
       <br/><br/>
       <!-- Mini Trophy Row (4 trophies) -->
-      <img src="https://github-profile-trophy.vercel.app/?username=Karthigaiselvam-R-official&theme=radical&no-frame=true&no-bg=true&row=1&column=4" alt="GitHub Trophies"/>
+      <img src="https://github-profile-trophy.vercel.app/?username=Karthigaiselvam-R-official&theme=radical&no-frame=true&no-bg=true&row=1&column=4" alt="GitHub Trophies"/> 
     </td>
   </tr>
    <!-- ══════════════════════════════════════════════════════════════════ -->
@@ -435,7 +435,7 @@ me.say_hi()
   <!-- ══════════════════════════════════════════════════════════════════ -->
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-profile-trophy.vercel.app/?username=Karthigaiselvam-R-official&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophy Showcase"/>
+      <img src="https://github-profile-trophy.vercel.app/?username=Karthigaiselvam-R-official&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophy Showcase"/> 
     </td>
   </tr>
 </table>
