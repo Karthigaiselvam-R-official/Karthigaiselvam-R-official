@@ -366,44 +366,43 @@ me.say_hi()
 
 <div align="center">
 <table border="0" width="100%">
-    <!-- ══════════════════════════════════════════════════════════════════ -->
-  <!-- ROW 1 : GitHub Stats (left)  +  Rich Live Profile Panel (right)  -->
-  <!-- ══════════════════════════════════════════════════════════════════ -->
+
+  <!-- ROW 1 : GitHub Stats (left)  +  Rich Live Profile Panel (right) -->
   <tr>
     <!-- LEFT: Full GitHub stats card -->
     <td width="50%" align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=Karthigaiselvam-R-official&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d0221&title_color=00fffa&text_color=FEE75C&icon_color=FF2079&rank_icon=github" alt="GitHub Stats" />
+      <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=Karthigaiselvam-R-official&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d0221&title_color=00fffa&text_color=FEE75C&icon_color=FF2079&rank_icon=github&card_width=450&show=reviews,prs_merged,discussions_started,discussions_answered" alt="GitHub Stats" />
+      </p>
     </td>
     <!-- RIGHT: Rich Live Profile Analytics Panel -->
     <td width="50%" align="center" valign="top">
       <!-- Animated cycling header -->
-      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2500&pause=600&color=FF2079&center=true&vCenter=true&width=380&lines=⚡+Live+Profile+Analytics;🔥+Real-Time+GitHub+Stats;📊+Performance+Metrics;💡+Connect+With+Me!" alt="Live Stats Header" />
+      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2500&pause=600&color=FF2079&center=true&vCenter=true&width=380&lines=Live+Profile+Analytics;Real-Time+GitHub+Stats;Performance+Metrics;Connect+With+Me!" alt="Live Stats Header" />
       <br/><br/>
-      <!-- 👁️ DYNAMIC VISITOR COUNTER (Today | All-Time) -->
+      <!-- Profile View Counter — komarev.com (reliable) -->
       <a href="https://github.com/Karthigaiselvam-R-official">
-        <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKarthigaiselvam-R-official&count_bg=%23FF2079&title_bg=%230d0221&icon=eye.svg&icon_color=%2300fffa&title=Visitors+Today+%7C+All+Time&edge_flat=false" alt="Live Visitor Counter"/>
+        <img src="https://komarev.com/ghpvc/?username=Karthigaiselvam-R-official&style=for-the-badge&color=FF2079&labelColor=0d0221&label=Profile+Views" alt="Profile Views"/>
       </a>
       <br/><br/>
-      <!-- Dynamic GitHub stat badges -->
+      <!-- Followers + Total Stars across all repos -->
       <a href="https://github.com/Karthigaiselvam-R-official?tab=followers">
         <img src="https://img.shields.io/github/followers/Karthigaiselvam-R-official?style=for-the-badge&logo=github&color=9B59B6&labelColor=0d0221&label=Followers" alt="Followers"/>
       </a>
       &nbsp;
-      <a href="https://github.com/Karthigaiselvam-R-official?tab=stars">
-        <img src="https://img.shields.io/github/stars/Karthigaiselvam-R-official/Karthigaiselvam-R-official?style=for-the-badge&logo=github&color=FF9900&labelColor=0d0221&label=Stars" alt="Stars"/>
-      </a>
+      <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2FKarthigaiselvam-R-official&query=%24.stars&label=Total+Stars&style=for-the-badge&color=FF9900&labelColor=0d0221&logo=github" alt="Total Stars"/>
       <br/>
-      <!-- Contributions 2026 (live JSON badge) -->
-      <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-contributions-api.jogruber.de%2Fv4%2FKarthigaiselvam-R-official&query=%24.total.2026&label=Contributions+2026&style=for-the-badge&color=39FF14&labelColor=0d0221&logo=github" alt="Contributions 2026"/> 
+      <!-- Contributions 2026 -->
+      <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-contributions-api.jogruber.de%2Fv4%2FKarthigaiselvam-R-official&query=%24.total.2026&label=Contributions+2026&style=for-the-badge&color=39FF14&labelColor=0d0221&logo=github" alt="Contributions 2026"/>
       <br/>
-      <!-- Public repos count (live GitHub API badge) -->
+      <!-- Public repos count -->
       <a href="https://github.com/Karthigaiselvam-R-official?tab=repositories">
-        <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FKarthigaiselvam-R-official&query=%24.public_repos&label=Public+Repos&style=for-the-badge&color=00fffa&labelColor=0d0221&logo=github" alt="Public Repos"/> 
+        <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FKarthigaiselvam-R-official&query=%24.public_repos&label=Public+Repos&style=for-the-badge&color=00fffa&labelColor=0d0221&logo=github" alt="Public Repos"/>
       </a>
       <br/><br/>
       <!-- Contact / Social -->
       <a href="mailto:karthigaiselvamr.cs2022@gmail.com">
-        <img src="https://img.shields.io/badge/📧+karthigaiselvamr.cs2022%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=0d0221" alt="Email"/>
+        <img src="https://img.shields.io/badge/Email-karthigaiselvamr.cs2022%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=0d0221" alt="Email"/>
       </a>
       <br/>
       <a href="https://www.linkedin.com/in/karthigaiselvam-r-7b9197258/">
@@ -414,13 +413,14 @@ me.say_hi()
         <img src="https://img.shields.io/badge/GitHub-Karthigaiselvam--R--official-161b22?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
       </a>
       <br/><br/>
-      <!-- Mini Trophy Row (4 trophies) -->
-      <img src="https://github-profile-trophy.vercel.app/?username=Karthigaiselvam-R-official&theme=radical&no-frame=true&no-bg=true&row=1&column=4" alt="GitHub Trophies"/> 
+      <!-- Mini Trophy Row -->
+      <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=Karthigaiselvam-R-official&theme=radical&no-frame=true&no-bg=true&row=1&column=4" alt="GitHub Trophies"/>
+      </a>
     </td>
   </tr>
-   <!-- ══════════════════════════════════════════════════════════════════ -->
-  <!-- ROW 2 : Streak (left)  +  Top Languages (right)                  -->
-  <!-- ══════════════════════════════════════════════════════════════════ -->
+
+  <!-- ROW 2 : Streak (left)  +  Top Languages (right) -->
   <tr>
     <td width="50%" align="center">
       <img src="https://streak-stats.demolab.com/?user=Karthigaiselvam-R-official&hide_border=true&background=0d0221&ring=00fffa&fire=FF2079&currStreakNum=FEE75C&sideNums=FEE75C&currStreakLabel=00fffa&sideLabels=00fffa&dates=FEE75C" alt="GitHub Streak"/>
@@ -430,14 +430,15 @@ me.say_hi()
     </td>
   </tr>
 
-  <!-- ══════════════════════════════════════════════════════════════════ -->
-  <!-- ROW 3 : Full GitHub Trophy Showcase                               -->
-  <!-- ══════════════════════════════════════════════════════════════════ -->
+  <!-- ROW 3 : Full GitHub Trophy Showcase -->
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-profile-trophy.vercel.app/?username=Karthigaiselvam-R-official&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophy Showcase"/> 
+      <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=Karthigaiselvam-R-official&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophy Showcase"/>
+      </a>
     </td>
   </tr>
+
 </table>
 </div>
 
