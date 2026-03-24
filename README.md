@@ -371,9 +371,8 @@ me.say_hi()
   <tr>
     <!-- LEFT: Full GitHub stats card -->
     <td width="50%" align="center" valign="top">
-      <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Karthigaiselvam-R-official&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d0221&title_color=00fffa&text_color=FEE75C&icon_color=FF2079&rank_icon=github&card_width=400" alt="GitHub Stats" />
-      </div>
+      <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=Karthigaiselvam-R-official&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d0221&title_color=00fffa&text_color=FEE75C&icon_color=FF2079&rank_icon=github&card_width=450&cache_seconds=86400" alt="GitHub Stats" />
       </p>
     </td>
     <!-- RIGHT: Rich Live Profile Analytics Panel -->
@@ -416,7 +415,7 @@ me.say_hi()
       <br/><br/>
       <!-- Mini Trophy Row -->
       <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=Karthigaiselvam-R-official&theme=radical&no-frame=true&no-bg=true&row=1&column=4" alt="GitHub Trophies"/>
+        <img src="https://github-profile-trophy.vercel.app/?username=Karthigaiselvam-R-official&theme=radical&no-frame=true&no-bg=true&row=1&margin-w=4" alt="GitHub Trophies"/>
       </a>
     </td>
   </tr>
@@ -434,8 +433,8 @@ me.say_hi()
   <!-- ROW 3 : Full GitHub Trophy Showcase -->
   <tr>
     <td colspan="2" align="center">
-      <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=Karthigaiselvam-R-official&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophy Showcase"/>
+       <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=Karthigaiselvam-R-official&theme=radical&no-frame=true&no-bg=true&margin-w=4&margin-h=4" alt="GitHub Trophy Showcase"/>
       </a>
     </td>
   </tr>
