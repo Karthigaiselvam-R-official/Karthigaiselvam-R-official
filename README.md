@@ -369,7 +369,7 @@ me.say_hi()
   <!-- ROW 1: PROFILE DETAILS (Wide) -->
   <tr>
     <td colspan="3" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Karthigaiselvam-R-official&show_icons=true&count_private=true&hide_border=true&bg_color=0d0221&title_color=00fffa&text_color=FEE75C&icon_color=FF2079&ring_color=9B59B6&include_all_commits=true" alt="Profile Details" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Karthigaiselvam-R-official&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d0221&title_color=00fffa&text_color=FEE75C&icon_color=FF2079&hide_rank=true&card_width=800" alt="Profile Details" width="100%" />
     </td>
   </tr>
   <!-- ROW 2: DETAILED STATS (3 Columns) -->
