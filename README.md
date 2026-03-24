@@ -37,8 +37,8 @@
   <a href="https://github.com/Karthigaiselvam-R-official?tab=repositories">
      <img src="https://img.shields.io/badge/📦_Public_Repos-Active-39FF14?style=for-the-badge&labelColor=161b22" alt="Public Repos"/>
   </a>
-    &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Karthigaiselvam-R-official&label=Profile%20Views&color=00d4ff&style=for-the-badge" alt="Profile Views"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Profile%20Views-tracking-00d4ff?style=for-the-badge&labelColor=161b22&logo=github&logoColor=white" alt="Profile Views"/>
 </p>
 
 <br/>
