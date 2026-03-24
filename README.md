@@ -372,7 +372,7 @@ me.say_hi()
   <tr>
     <!-- LEFT: Full GitHub stats card -->
     <td width="50%" align="center" valign="top">
-            <img src="https://github-readme-stats.vercel.app/api?username=Karthigaiselvam-R-official&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d0221&title_color=00fffa&text_color=FEE75C&icon_color=FF2079&rank_icon=github&cache_seconds=1800" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Karthigaiselvam-R-official&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d0221&title_color=00fffa&text_color=FEE75C&icon_color=FF2079&rank_icon=github" alt="GitHub Stats" />
     </td>
     <!-- RIGHT: Rich Live Profile Analytics Panel -->
     <td width="50%" align="center" valign="top">
@@ -381,7 +381,7 @@ me.say_hi()
       <br/><br/>
       <!-- 👁️ DYNAMIC VISITOR COUNTER (Today | All-Time) -->
       <a href="https://github.com/Karthigaiselvam-R-official">
-        <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKarthigaiselvam-R-official&count_bg=%23FF2079&title_bg=%230d0221&icon=eye.svg&icon_color=%2300fffa&title=Visitors&edge_flat=false" alt="Live Visitor Counter"/>
+        <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKarthigaiselvam-R-official&count_bg=%23FF2079&title_bg=%230d0221&icon=eye.svg&icon_color=%2300fffa&title=Visitors+Today+%7C+All+Time&edge_flat=false" alt="Live Visitor Counter"/>
       </a>
       <br/><br/>
       <!-- Dynamic GitHub stat badges -->
