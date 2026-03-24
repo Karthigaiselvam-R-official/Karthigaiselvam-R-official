@@ -371,8 +371,9 @@ me.say_hi()
   <tr>
     <!-- LEFT: Full GitHub stats card -->
     <td width="50%" align="center" valign="top">
-      <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Karthigaiselvam-R-official&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d0221&title_color=00fffa&text_color=FEE75C&icon_color=FF2079&rank_icon=github&card_width=450&show=reviews,prs_merged,discussions_started,discussions_answered" alt="GitHub Stats" />
+      <div align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=Karthigaiselvam-R-official&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d0221&title_color=00fffa&text_color=FEE75C&icon_color=FF2079&rank_icon=github&card_width=400" alt="GitHub Stats" />
+      </div>
       </p>
     </td>
     <!-- RIGHT: Rich Live Profile Analytics Panel -->
