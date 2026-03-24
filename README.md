@@ -47,7 +47,7 @@
 <!-- 🔥🔥🔥 CYBERPUNK STREAK STATS 🔥🔥🔥 -->
 <div align="center">
     <img height="160px" width="160px" src="images/wings/Left.svg" alt="Left Wing">
-    <img align="top" src="https://github-readme-streak-stats-eight.vercel.app/?user=Karthigaiselvam-R-official&theme=radical&hide_border=true&background=000000&ring=9B59B6&currStreakLabel=00d4ff" alt="Streak Stats">
+    <img align="top" src="https://streak-stats.demolab.com/?user=Karthigaiselvam-R-official&hide_border=true&background=000000&ring=9B59B6&currStreakLabel=00d4ff&fire=FF2079&sideLabels=00d4ff&dates=ffffff" alt="Streak Stats">
     <img height="160px" width="160px" src="images/wings/Right.svg" alt="Right Wing">
 </div>
 
