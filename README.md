@@ -413,10 +413,6 @@ me.say_hi()
         <img src="https://img.shields.io/badge/GitHub-Karthigaiselvam--R--official-161b22?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
       </a>
       <br/><br/>
-      <!-- Mini Trophy Row -->
-      <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=Karthigaiselvam-R-official&theme=radical&no-frame=true&no-bg=true&row=1&margin-w=4" alt="GitHub Trophies"/>
-      </a>
     </td>
   </tr>
 
@@ -427,15 +423,6 @@ me.say_hi()
     </td>
     <td width="50%" align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthigaiselvam-R-official&count_private=true&hide_border=true&bg_color=0d0221&title_color=00fffa&text_color=FEE75C&layout=compact&langs_count=8" alt="Top Languages"/>
-    </td>
-  </tr>
-
-  <!-- ROW 3 : Full GitHub Trophy Showcase -->
-  <tr>
-    <td colspan="2" align="center">
-       <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=Karthigaiselvam-R-official&theme=radical&no-frame=true&no-bg=true&margin-w=4&margin-h=4" alt="GitHub Trophy Showcase"/>
-      </a>
     </td>
   </tr>
 
