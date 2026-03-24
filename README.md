@@ -47,7 +47,7 @@
 <!-- 🔥🔥🔥 CYBERPUNK STREAK STATS 🔥🔥🔥 -->
 <div align="center">
     <img height="160px" width="160px" src="images/wings/Left.svg" alt="Left Wing">
-    <img align="top" src="https://github-readme-streak-stats-eight.vercel.app/?user=Karthigaiselvam-R-official&theme=radical&hide_border=true&background=000000&ring=9B59B6&currStreakLabel=00d4ff" alt="Streak Stats">
+    <img align="top" src="https://streak-stats.demolab.com/?user=Karthigaiselvam-R-official&hide_border=true&background=000000&ring=9B59B6&currStreakLabel=00d4ff&fire=FF2079&sideLabels=00d4ff&dates=ffffff" alt="Streak Stats">
     <img height="160px" width="160px" src="images/wings/Right.svg" alt="Right Wing">
 </div>
 
@@ -366,22 +366,22 @@ me.say_hi()
 
 <div align="center">
 <table border="0" width="100%">
-  <!-- ROW 1: PROFILE DETAILS (Wide) - 2077 Theme -->
+  <!-- ROW 1: PROFILE DETAILS (Wide) -->
   <tr>
     <td colspan="3" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Karthigaiselvam-R-official&theme=2077" alt="Profile Details" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Karthigaiselvam-R-official&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d0221&title_color=00fffa&text_color=FEE75C&icon_color=FF2079&hide_rank=true&card_width=800" alt="Profile Details" width="100%" />
     </td>
   </tr>
-  <!-- ROW 2: DETAILED STATS (3 Columns) - 2077 Theme -->
+  <!-- ROW 2: DETAILED STATS (3 Columns) -->
   <tr>
     <td width="33%" align="center">
-       <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Karthigaiselvam-R-official&theme=2077" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Karthigaiselvam-R-official&show_icons=true&count_private=true&hide_border=true&bg_color=0d0221&title_color=00fffa&text_color=FEE75C&icon_color=FF2079&rank_icon=github" alt="GitHub Stats" />
     </td>
     <td width="33%" align="center">
-       <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Karthigaiselvam-R-official&theme=2077&utcOffset=5.5" alt="Commits per Hour" />
+      <img src="https://streak-stats.demolab.com/?user=Karthigaiselvam-R-official&hide_border=true&background=0d0221&ring=00fffa&fire=FF2079&currStreakNum=FEE75C&sideNums=FEE75C&currStreakLabel=00fffa&sideLabels=00fffa&dates=FEE75C" alt="Commits per Hour" />
     </td>
     <td width="33%" align="center">
-       <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Karthigaiselvam-R-official&theme=2077" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthigaiselvam-R-official&count_private=true&hide_border=true&bg_color=0d0221&title_color=00fffa&text_color=FEE75C&layout=compact&langs_count=6" alt="Top Languages" />
     </td>
   </tr>
 </table>
