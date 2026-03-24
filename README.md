@@ -38,7 +38,7 @@
      <img src="https://img.shields.io/badge/📦_Public_Repos-Active-39FF14?style=for-the-badge&labelColor=161b22" alt="Public Repos"/>
   </a>
   &nbsp;
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKarthigaiselvam-R-official&count_bg=%2300D4FF&title_bg=%23161b22&icon=eye.svg&icon_color=%23FFFFFF&title=Profile+Views&edge_flat=false" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Karthigaiselvam-R-official&color=00D4FF&labelColor=161b22&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
 </p>
 
 <br/>
