@@ -366,22 +366,22 @@ me.say_hi()
 
 <div align="center">
 <table border="0" width="100%">
-  <!-- ROW 1: PROFILE DETAILS (Wide) - 2077 Theme -->
+  <!-- ROW 1: PROFILE DETAILS (Wide) -->
   <tr>
     <td colspan="3" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Karthigaiselvam-R-official&theme=2077" alt="Profile Details" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Karthigaiselvam-R-official&show_icons=true&count_private=true&hide_border=true&bg_color=0d0221&title_color=00fffa&text_color=FEE75C&icon_color=FF2079&ring_color=9B59B6&include_all_commits=true" alt="Profile Details" width="100%" />
     </td>
   </tr>
-  <!-- ROW 2: DETAILED STATS (3 Columns) - 2077 Theme -->
+  <!-- ROW 2: DETAILED STATS (3 Columns) -->
   <tr>
     <td width="33%" align="center">
-       <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Karthigaiselvam-R-official&theme=2077" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Karthigaiselvam-R-official&show_icons=true&count_private=true&hide_border=true&bg_color=0d0221&title_color=00fffa&text_color=FEE75C&icon_color=FF2079&hide=contribs" alt="GitHub Stats" />
     </td>
     <td width="33%" align="center">
-       <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Karthigaiselvam-R-official&theme=2077&utcOffset=5.5" alt="Commits per Hour" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthigaiselvam-R-official&layout=compact&hide_border=true&bg_color=0d0221&title_color=00fffa&text_color=FEE75C&langs_count=6" alt="Top Languages" />
     </td>
     <td width="33%" align="center">
-       <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Karthigaiselvam-R-official&theme=2077" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthigaiselvam-R-official&layout=donut&hide_border=true&bg_color=0d0221&title_color=00fffa&text_color=FEE75C&langs_count=6" alt="Languages Donut" />
     </td>
   </tr>
 </table>
