@@ -2,12 +2,14 @@ name: Generate Rank Card
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # daily at midnight
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v3
 
@@ -23,8 +25,8 @@ jobs:
 
       - name: Commit & Push
         run: |
-          git config user.email "action@github.com"
-          git config user.name "GitHub Action"
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
           git add rank-card/rank.svg
           git commit -m "Updated rank card" || exit 0
           git push
