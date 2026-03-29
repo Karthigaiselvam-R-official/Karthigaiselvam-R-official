@@ -372,7 +372,9 @@ me.say_hi()
     <!-- LEFT: Full GitHub stats card -->
     <td width="50%" align="center" valign="top">
       <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Karthigaiselvam-R-official&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d0221&title_color=00fffa&text_color=FEE75C&icon_color=FF2079&rank_icon=github&card_width=450&cache_seconds=86400" alt="GitHub Stats" />
+        <!-- Self-host anuradhkumar/github-readme-stats on Vercel with your own PAT (repo + read:user scope)
+             to restore private commit counts and custom hex colors. Replace the URL below with your deployment. -->
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Karthigaiselvam-R-official&theme=2077" alt="GitHub Stats" />
       </p>
     </td>
     <!-- RIGHT: Rich Live Profile Analytics Panel -->
