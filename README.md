@@ -372,7 +372,12 @@ me.say_hi()
     <!-- LEFT: Full GitHub stats card -->
     <td width="50%" align="center" valign="top">
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Karthigaiselvam-R-official&show_icons=true&count_private=true&hide_border=true&bg_color=0d0221&title_color=00fffa&icon_color=FF2079&text_color=FEE75C&ring_color=00fffa" alt="GitHub Stats" />
+    <!-- Try gh-readme-profile first -->
+    <a href="https://github.com/Karthigaiselvam-R-official">
+      <img src="https://gh-readme-profile.vercel.app/api?username=Karthigaiselvam-R-official&theme=dark" 
+           alt="GitHub Stats"
+           onerror="this.src='https://github-readme-stats.vercel.app/api?username=Karthigaiselvam-R-official&show_icons=true&count_private=true&hide_border=true&bg_color=0d0221&title_color=00fffa&icon_color=FF2079&text_color=FEE75C'"/>
+    </a>
   </p>
 </td>
     <!-- RIGHT: Rich Live Profile Analytics Panel -->
