@@ -370,7 +370,7 @@ me.say_hi()
   <!-- ROW 1 : GitHub Stats (left)  +  Rich Live Profile Panel (right) -->
   <tr>
     <!-- LEFT: Full GitHub stats card -->
-    <td width="50%" align="center" valign="top">
+    <td width="50%" align="center" valign="middle">
   <p align="center">
     <!-- Try gh-readme-profile first -->
     <a href="https://github.com/Karthigaiselvam-R-official">
