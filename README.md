@@ -372,7 +372,7 @@ me.say_hi()
     <!-- LEFT: Full GitHub stats card -->
     <td width="50%" align="center" valign="top">
       <p align="center">
-       <img src="https://github-readme-stats.vercel.app/api?username=Karthigaiselvam-R-official&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d0221&title_color=00fffa&text_color=FEE75C&icon_color=FF2079&card_width=450" alt="GitHub Stats" />
+       <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Karthigaiselvam-R-official&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d0221&title_color=00fffa&text_color=FEE75C&icon_color=FF2079&card_width=450" alt="GitHub Stats" />
       </p>
     </td>
     <!-- RIGHT: Rich Live Profile Analytics Panel -->
