@@ -424,9 +424,9 @@ me.say_hi()
   <!-- ROW 2 : 3D Isometric Contribution Graph (full width) -->
 <tr>
   <td colspan="2" align="center">
-    <img src="https://raw.githubusercontent.com/Karthigaiselvam-R-official/Karthigaiselvam-R-official/main/profile-3d-contrib/profile-night-rainbow.svg" 
-         width="100%" 
-         alt="3D Contribution Graph"/>
+    <img src="https://raw.githubusercontent.com/Karthigaiselvam-R-official/Karthigaiselvam-R-official/output/profile-3d-contrib/profile-night-rainbow.svg" 
+     width="100%" 
+     alt="3D Contribution Graph"/>
     <br/><br/>
     <img src="https://raw.githubusercontent.com/Karthigaiselvam-R-official/Karthigaiselvam-R-official/main/rank-card/rank.svg" 
          alt="GitHub Rank" 
