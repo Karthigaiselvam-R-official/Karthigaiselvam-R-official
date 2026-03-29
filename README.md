@@ -421,15 +421,18 @@ me.say_hi()
     </td>
   </tr>
 
-  <!-- ROW 2 : Streak (left)  +  Top Languages (right) -->
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://streak-stats.demolab.com/?user=Karthigaiselvam-R-official&hide_border=true&background=0d0221&ring=00fffa&fire=FF2079&currStreakNum=FEE75C&sideNums=FEE75C&currStreakLabel=00fffa&sideLabels=00fffa&dates=FEE75C" alt="GitHub Streak"/>
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthigaiselvam-R-official&count_private=true&hide_border=true&bg_color=0d0221&title_color=00fffa&text_color=FEE75C&layout=compact&langs_count=8" alt="Top Languages"/>
-    </td>
-  </tr>
+  <!-- ROW 2 : 3D Isometric Contribution Graph (full width) -->
+<tr>
+  <td colspan="2" align="center">
+    <img src="https://raw.githubusercontent.com/Karthigaiselvam-R-official/Karthigaiselvam-R-official/main/profile-3d-contrib/profile-night-rainbow.svg" 
+         width="100%" 
+         alt="3D Contribution Graph"/>
+    <br/><br/>
+    <img src="https://raw.githubusercontent.com/Karthigaiselvam-R-official/Karthigaiselvam-R-official/main/rank-card/rank.svg" 
+         alt="GitHub Rank" 
+         height="120"/>
+  </td>
+</tr>
 
 </table>
 </div>
