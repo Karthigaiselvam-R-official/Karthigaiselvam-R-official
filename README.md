@@ -430,6 +430,7 @@ me.say_hi()
     <br/><br/>
     <img src="https://raw.githubusercontent.com/Karthigaiselvam-R-official/Karthigaiselvam-R-official/main/rank-card/rank.svg" 
          alt="GitHub Rank" 
+         width="100%"
          height="220"/>
   </td>
 </tr>
