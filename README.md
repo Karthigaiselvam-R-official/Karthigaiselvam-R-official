@@ -374,7 +374,7 @@ me.say_hi()
   <p align="center">
     <!-- Try gh-readme-profile first -->
     <a href="https://github.com/Karthigaiselvam-R-official">
-      <img src="https://gh-readme-profile.vercel.app/api?username=Karthigaiselvam-R-official&theme=dark" 
+      <img src="https://gh-readme-profile.vercel.app/api?username=Karthigaiselvam-R-official&theme=dark&height=300" 
            alt="GitHub Stats"
            onerror="this.src='https://github-readme-stats.vercel.app/api?username=Karthigaiselvam-R-official&show_icons=true&count_private=true&hide_border=true&bg_color=0d0221&title_color=00fffa&icon_color=FF2079&text_color=FEE75C'"/>
     </a>
