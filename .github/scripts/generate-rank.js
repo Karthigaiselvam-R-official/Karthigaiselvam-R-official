@@ -88,7 +88,7 @@ async function main() {
 
     const user = res.data.user;
     
-    // Query 2: Fetch ALL-TIME commits (public + private) by iterating through years
+    // Query 2: Fetch ALL-TIME public commits by iterating through years
     const creationYear = new Date(user.createdAt).getFullYear();
     const currentYear = new Date().getFullYear();
 
