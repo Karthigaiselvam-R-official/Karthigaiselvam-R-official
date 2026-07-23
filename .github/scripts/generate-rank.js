@@ -97,7 +97,6 @@ async function main() {
       commitsQuery += `
         year${i}: contributionsCollection(from: "${i}-01-01T00:00:00Z", to: "${i}-12-31T23:59:59Z") {
           totalCommitContributions
-          restrictedContributionsCount
         }
       `;
     }
@@ -114,8 +113,7 @@ async function main() {
     for (let i = creationYear; i <= currentYear; i++) {
       const yearData = commitsRes.data.user[`year${i}`];
       if (yearData) {
-        // Adds both public (totalCommitContributions) and private (restrictedContributionsCount)
-        commits += yearData.totalCommitContributions + yearData.restrictedContributionsCount;
+        commits += yearData.totalCommitContributions;
       }
     }
     
