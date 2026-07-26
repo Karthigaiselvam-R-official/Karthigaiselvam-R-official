@@ -201,61 +201,61 @@ async function main() {
 </svg>`;
 
   // 2. Generate the Custom Total Stats SVG (Replica of gh-readme-profile)
-  const statsSvg = `<svg width="450" height="230" viewBox="0 0 450 230" fill="none" xmlns="http://www.w3.org/2000/svg">
+  const statsSvg = `<svg width="550" height="260" viewBox="0 0 550 260" fill="none" xmlns="http://www.w3.org/2000/svg">
   <style>
-    .title { font-family: 'Segoe UI', Ubuntu, sans-serif; font-weight: bold; font-size: 16px; fill: #00fffa; }
-    .stat-label { font-family: 'Segoe UI', Ubuntu, sans-serif; font-size: 12px; fill: #8b949e; }
-    .stat-value { font-family: 'Segoe UI', Ubuntu, sans-serif; font-weight: bold; font-size: 12px; fill: #FEE75C; }
-    .name { font-family: 'Segoe UI', Ubuntu, sans-serif; font-weight: bold; font-size: 13px; fill: #ffffff; }
+    .title { font-family: 'Segoe UI', Ubuntu, sans-serif; font-weight: bold; font-size: 18px; fill: #00fffa; }
+    .stat-label { font-family: 'Segoe UI', Ubuntu, sans-serif; font-size: 13px; fill: #ffffff; }
+    .stat-value { font-family: 'Segoe UI', Ubuntu, sans-serif; font-weight: bold; font-size: 13px; fill: #FEE75C; }
+    .name { font-family: 'Segoe UI', Ubuntu, sans-serif; font-weight: bold; font-size: 14px; fill: #ffffff; }
     .username { font-family: 'Segoe UI', Ubuntu, sans-serif; font-size: 11px; fill: #8b949e; }
-    .icon { fill: #39FF14; }
+    .icon { fill: #FF2079; }
   </style>
-  <rect width="450" height="230" rx="8" fill="#0d0221" stroke="#30363d" stroke-width="1"/>
+  <rect width="550" height="260" rx="8" fill="#0d0221"/>
   
-  <g transform="translate(25, 45)">
+  <g transform="translate(0, 50)">
     <clipPath id="avatarClip">
-      <circle cx="45" cy="45" r="45"/>
+      <circle cx="85" cy="45" r="45"/>
     </clipPath>
-    ${avatarBase64 ? `<image href="${avatarBase64}" width="90" height="90" clip-path="url(#avatarClip)"/>` : `<circle cx="45" cy="45" r="45" fill="#30363d"/>`}
-    <text x="45" y="115" text-anchor="middle" class="name">@${USERNAME}</text>
-    <text x="45" y="132" text-anchor="middle" class="username">${stats.followers} Followers · ${stats.following} Following</text>
+    ${avatarBase64 ? `<image href="${avatarBase64}" width="90" height="90" x="40" y="0" clip-path="url(#avatarClip)"/>` : `<circle cx="85" cy="45" r="45" fill="#30363d"/>`}
+    <text x="85" y="115" text-anchor="middle" class="name">@${USERNAME}</text>
+    <text x="85" y="132" text-anchor="middle" class="username">${stats.followers} Followers · ${stats.following} Following</text>
   </g>
 
   <g transform="translate(180, 25)">
     <text x="0" y="0" class="title">${stats.name}'s GitHub Stats</text>
     
     <g transform="translate(0, 25)">
-      <text x="25" y="10" class="stat-label">Total Repository:</text>
-      <text x="240" y="10" class="stat-value" text-anchor="end">${stats.totalRepos}</text>
-      <text x="0" y="10" class="icon" font-size="12">📦</text>
+      <svg x="0" y="0" viewBox="0 0 16 16" width="16" height="16"><path class="icon" fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/></svg>
+      <text x="25" y="12" class="stat-label">Total Repository (Public + Private):</text>
+      <text x="330" y="12" class="stat-value" text-anchor="end">${stats.totalRepos}</text>
       
-      <text x="25" y="32" class="stat-label">Star's Count:</text>
-      <text x="240" y="32" class="stat-value" text-anchor="end">${stats.totalStars}</text>
-      <text x="0" y="32" class="icon" font-size="12">⭐</text>
+      <svg x="0" y="24" viewBox="0 0 16 16" width="16" height="16"><path class="icon" fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/></svg>
+      <text x="25" y="36" class="stat-label">Total Star's Count (Public + Private):</text>
+      <text x="330" y="36" class="stat-value" text-anchor="end">${stats.totalStars}</text>
       
-      <text x="25" y="54" class="stat-label">Fork's Count:</text>
-      <text x="240" y="54" class="stat-value" text-anchor="end">${stats.totalForks}</text>
-      <text x="0" y="54" class="icon" font-size="12">🍴</text>
+      <svg x="0" y="48" viewBox="0 0 16 16" width="16" height="16"><path class="icon" fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 11-1.5 0 .75.75 0 011.5 0z"/></svg>
+      <text x="25" y="60" class="stat-label">Fork's Count:</text>
+      <text x="330" y="60" class="stat-value" text-anchor="end">${stats.totalForks}</text>
       
-      <text x="25" y="76" class="stat-label">Commit's Count:</text>
-      <text x="240" y="76" class="stat-value" text-anchor="end">${formatK(commits)}</text>
-      <text x="0" y="76" class="icon" font-size="12">⏱️</text>
+      <svg x="0" y="72" viewBox="0 0 16 16" width="16" height="16"><path class="icon" fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"/></svg>
+      <text x="25" y="84" class="stat-label">Commit's Count:</text>
+      <text x="330" y="84" class="stat-value" text-anchor="end">${formatK(commits)}</text>
       
-      <text x="25" y="98" class="stat-label">Total PRs:</text>
-      <text x="240" y="98" class="stat-value" text-anchor="end">${stats.prs}</text>
-      <text x="0" y="98" class="icon" font-size="12">🔀</text>
+      <svg x="0" y="96" viewBox="0 0 16 16" width="16" height="16"><path class="icon" fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/></svg>
+      <text x="25" y="108" class="stat-label">Total PRs:</text>
+      <text x="330" y="108" class="stat-value" text-anchor="end">${stats.prs}</text>
       
-      <text x="25" y="120" class="stat-label">Total PRs Merged:</text>
-      <text x="240" y="120" class="stat-value" text-anchor="end">${stats.mergedPRs}</text>
-      <text x="0" y="120" class="icon" font-size="12">✅</text>
+      <svg x="0" y="120" viewBox="0 0 16 16" width="16" height="16"><path class="icon" fill-rule="evenodd" d="M5.45 5.154A4.25 4.25 0 0 0 9.25 7.5h1.378a2.251 2.251 0 1 1 0 1.5H9.25A5.734 5.734 0 0 1 5 7.123v3.505a2.25 2.25 0 1 1-1.5 0V5.372a2.25 2.25 0 1 1 1.95-.218ZM4.25 13.5a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm8.5-4.5a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5ZM5 3.25a.75.75 0 1 0 0 .005V3.25Z"/></svg>
+      <text x="25" y="132" class="stat-label">Total PRs Merged:</text>
+      <text x="330" y="132" class="stat-value" text-anchor="end">${stats.mergedPRs}</text>
       
-      <text x="25" y="142" class="stat-label">Total Issues:</text>
-      <text x="240" y="142" class="stat-value" text-anchor="end">${stats.issues}</text>
-      <text x="0" y="142" class="icon" font-size="12">❗</text>
+      <svg x="0" y="144" viewBox="0 0 16 16" width="16" height="16"><path class="icon" fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm9 3a1 1 0 11-2 0 1 1 0 012 0zm-.25-6.25a.75.75 0 00-1.5 0v3.5a.75.75 0 001.5 0v-3.5z"/></svg>
+      <text x="25" y="156" class="stat-label">Total Issues:</text>
+      <text x="330" y="156" class="stat-value" text-anchor="end">${stats.issues}</text>
       
-      <text x="25" y="164" class="stat-label">Contributed to (last year):</text>
-      <text x="240" y="164" class="stat-value" text-anchor="end">${stats.contributedTo}</text>
-      <text x="0" y="164" class="icon" font-size="12">🤝</text>
+      <svg x="0" y="168" viewBox="0 0 16 16" width="16" height="16"><path class="icon" fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/></svg>
+      <text x="25" y="180" class="stat-label">Contributed to (last year):</text>
+      <text x="330" y="180" class="stat-value" text-anchor="end">${stats.contributedTo}</text>
     </g>
   </g>
 </svg>`;
