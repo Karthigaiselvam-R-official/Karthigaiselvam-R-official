@@ -83,7 +83,9 @@ Hey there! I'm a passionate **Security Researcher** and **Software Developer** f
 <td width="45%" valign="top">
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&duration=2000&pause=1500&color=00D4FF&center=true&vCenter=true&width=350&lines=%3E_+.%2Fdecrypt_avatar.sh;%5B%E2%9C%93%5D+BIOMETRICS_VERIFIED" alt="Decrypting Avatar" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=20&duration=2000&pause=1000&color=39FF14&center=true&vCenter=true&width=450&lines=%5B+SYSTEM_OVERRIDE_INITIATED+%5D;%5B+DECRYPTING_BIOMETRIC_DATA...+%5D;%5B+EXTRACTING_NEURAL_PATTERN...+%5D;%5B+RECONSTRUCTING_DIGITAL_TWIN...+%5D;%5B+SYNCING_WITH_THE_MATRIX...+%5D;%5B+IDENTITY_MATRIX_ONLINE+%5D" alt="Epic Avatar Sequence" />
+  </a>
 </p>
 <div align="center">
   <img src="images/animated-profile-ascii.gif" alt="Animated ASCII Profile" width="95%" style="border-radius: 15px; border: 2px solid #00d4ff; box-shadow: 0 0 15px #00d4ff;">
