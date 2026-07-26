@@ -82,8 +82,11 @@ async function fetchPublicStats() {
   const res = await graphql(`{
     user(login: "${USERNAME}") {
       followers { totalCount }
-      repositories(ownerAffiliations: [OWNER, COLLABORATOR], first: 100, orderBy: {field: STARGAZERS, direction: DESC}) {
+      repositories(ownerAffiliations: OWNER, privacy: PUBLIC, first: 100, orderBy: {field: STARGAZERS, direction: DESC}) {
         nodes { stargazers { totalCount } }
+      }
+      publicRepos: repositories(privacy: PUBLIC, ownerAffiliations: OWNER) {
+        totalCount
       }
       pullRequests(first: 1) { totalCount }
       issues(first: 1)      { totalCount }
@@ -103,6 +106,7 @@ async function fetchPublicStats() {
     prs:       u.pullRequests.totalCount,
     issues:    u.issues.totalCount,
     followers: u.followers.totalCount,
+    publicRepos: u.publicRepos.totalCount,
   };
 }
 
@@ -157,7 +161,7 @@ async function fetchCommits() {
 async function main() {
   console.log(`Generating rank card for: ${USERNAME}`);
 
-  const { stars, prs, issues, followers } = await fetchPublicStats();
+  const { stars, prs, issues, followers, publicRepos } = await fetchPublicStats();
   console.log(`Public stats → prs:${prs} issues:${issues} stars:${stars} followers:${followers}`);
 
   const commits = await fetchCommits();
@@ -183,7 +187,7 @@ async function main() {
 
   fs.mkdirSync("rank-card", { recursive: true });
   fs.writeFileSync("rank-card/rank.svg", svg);
-  fs.writeFileSync("rank-card/stats.json", JSON.stringify({ stars, commits, prs, issues, followers }));
+  fs.writeFileSync("rank-card/stats.json", JSON.stringify({ stars, commits, prs, issues, followers, publicRepos }));
   console.log(`✓ rank-card/rank.svg and stats.json written. Rank: ${level} | Top ${percentile}%`);
 }
 

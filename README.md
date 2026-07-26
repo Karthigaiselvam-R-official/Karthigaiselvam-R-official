@@ -402,7 +402,7 @@ me.say_hi()
       <br/>
       <!-- Public repos count -->
       <a href="https://github.com/Karthigaiselvam-R-official?tab=repositories">
-        <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FKarthigaiselvam-R-official&query=%24.public_repos&label=Public+Repos&style=for-the-badge&color=00fffa&labelColor=0d0221&logo=github" alt="Public Repos"/>
+        <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FKarthigaiselvam-R-official%2FKarthigaiselvam-R-official%2Fmain%2Frank-card%2Fstats.json&query=%24.publicRepos&label=Public+Repos&style=for-the-badge&color=00fffa&labelColor=0d0221&logo=github" alt="Public Repos"/>
       </a>
       <br/><br/>
       <!-- Contact / Social -->
