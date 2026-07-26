@@ -374,7 +374,7 @@ me.say_hi()
   <p align="center">
     <!-- Try gh-readme-profile first -->
     <a href="https://github.com/Karthigaiselvam-R-official">
-      <img src="https://raw.githubusercontent.com/Karthigaiselvam-R-official/Karthigaiselvam-R-official/main/rank-card/github-stats.svg" 
+      <img src="./rank-card/github-stats.svg" 
            alt="GitHub Stats"/>
     </a>
   </p>
@@ -423,11 +423,11 @@ me.say_hi()
   <!-- ROW 2 : 3D Isometric Contribution Graph (full width) -->
 <tr>
   <td colspan="2" align="center">
-    <img src="https://raw.githubusercontent.com/Karthigaiselvam-R-official/Karthigaiselvam-R-official/main/profile-3d-contrib/profile-night-rainbow.svg" 
+    <img src="./profile-3d-contrib/profile-night-rainbow.svg" 
      width="100%" 
      alt="3D Contribution Graph"/>
     <br/><br/>
-    <img src="https://raw.githubusercontent.com/Karthigaiselvam-R-official/Karthigaiselvam-R-official/main/rank-card/rank.svg" 
+    <img src="./rank-card/rank.svg" 
          alt="GitHub Rank" 
          width="200%"
          height="300"/>
