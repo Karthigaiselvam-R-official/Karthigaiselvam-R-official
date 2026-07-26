@@ -104,6 +104,7 @@ async function fetchAllStats() {
       mergedPRs: pullRequests(states: MERGED, first: 1) { totalCount }
       issues(first: 1) { totalCount }
       repositoriesContributedTo(first: 1) { totalCount }
+      gists(first: 1) { totalCount }
     }
   }`);
 
@@ -128,7 +129,8 @@ async function fetchAllStats() {
     prs: u.pullRequests.totalCount,
     mergedPRs: u.mergedPRs.totalCount,
     issues: u.issues.totalCount,
-    contributedTo: u.repositoriesContributedTo.totalCount
+    contributedTo: u.repositoriesContributedTo.totalCount,
+    gists: u.gists.totalCount
   };
 }
 
