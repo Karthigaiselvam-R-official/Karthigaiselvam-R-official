@@ -82,7 +82,7 @@ async function fetchPublicStats() {
   const res = await graphql(`{
     user(login: "${USERNAME}") {
       followers { totalCount }
-      repositories(ownerAffiliations: OWNER, isFork: false, first: 100) {
+      repositories(ownerAffiliations: [OWNER, COLLABORATOR], first: 100, orderBy: {field: STARGAZERS, direction: DESC}) {
         nodes { stargazers { totalCount } }
       }
       pullRequests(first: 1) { totalCount }
@@ -173,12 +173,12 @@ async function main() {
   };
   const color = colors[level] || "#888780";
 
-  const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="220" height="120" viewBox="0 0 220 120">
-  <rect width="220" height="120" rx="12" fill="#0d0221"/>
-  <rect width="218" height="118" x="1" y="1" rx="11" fill="none" stroke="${color}" stroke-width="1.5"/>
-  <text x="110" y="28" text-anchor="middle" font-family="monospace" font-size="13" fill="#00fffa">GitHub Rank</text>
-  <text x="110" y="78" text-anchor="middle" font-family="monospace" font-size="52" font-weight="bold" fill="${color}">${level}</text>
-  <text x="110" y="108" text-anchor="middle" font-family="monospace" font-size="12" fill="#FEE75C">Top ${percentile}%  •  ${commits} commits  •  ⭐ ${stars}</text>
+  const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="320" height="120" viewBox="0 0 320 120">
+  <rect width="320" height="120" rx="12" fill="#0d0221"/>
+  <rect width="318" height="118" x="1" y="1" rx="11" fill="none" stroke="${color}" stroke-width="1.5"/>
+  <text x="160" y="28" text-anchor="middle" font-family="monospace" font-size="13" fill="#00fffa">GitHub Rank</text>
+  <text x="160" y="78" text-anchor="middle" font-family="monospace" font-size="52" font-weight="bold" fill="${color}">${level}</text>
+  <text x="160" y="108" text-anchor="middle" font-family="monospace" font-size="12" fill="#FEE75C">Top ${percentile}%  •  ${commits} commits  •  ⭐ ${stars}</text>
 </svg>`;
 
   fs.mkdirSync("rank-card", { recursive: true });
