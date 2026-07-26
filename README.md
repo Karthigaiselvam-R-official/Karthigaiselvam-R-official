@@ -82,9 +82,9 @@ Hey there! I'm a passionate **Security Researcher** and **Software Developer** f
 </td>
 <td width="45%" valign="top">
 
-<p align="center"><b>🎨 My Profile in Animated ASCII</b></p>
+<p align="center"><b>⚡ SYSTEM_IDENTITY // ASCII_RENDER</b></p>
 <div align="center">
-  <img src="images/animated-profile-ascii.gif" alt="Animated ASCII Profile" width="80%" style="border-radius: 15px; border: 2px solid #00d4ff; box-shadow: 0 0 15px #00d4ff;">
+  <img src="images/animated-profile-ascii.gif" alt="Animated ASCII Profile" width="95%" style="border-radius: 15px; border: 2px solid #00d4ff; box-shadow: 0 0 15px #00d4ff;">
 </div>
 
 </td>
