@@ -2,7 +2,7 @@ const https = require("https");
 const fs = require("fs");
 
 const USERNAME = process.env.GITHUB_USERNAME || "Karthigaiselvam-R-official";
-const TOKEN = process.env.GITHUB_TOKEN;
+const TOKEN = process.env.GH_TOKEN || process.env.GITHUB_TOKEN;
 
 // ─── Rank Algorithm ─────────────────────────────────────────────────────────
 function exponential_cdf(x) { return 1 - Math.pow(2, -x); }

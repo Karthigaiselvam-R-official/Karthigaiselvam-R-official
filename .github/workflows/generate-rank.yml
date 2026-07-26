@@ -22,6 +22,11 @@ jobs:
 
       - name: Generate Rank SVG
         env:
+          # Use GH_TOKEN (PAT with read:user) if set, else fall back to GITHUB_TOKEN.
+          # With GITHUB_TOKEN: commit counts are unavailable (integration restriction),
+          # but the rank card still generates using stars/PRs/issues/followers.
+          # To enable full commit counts: add a PAT with read:user scope as secret GH_TOKEN.
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: node .github/scripts/generate-rank.js
 
