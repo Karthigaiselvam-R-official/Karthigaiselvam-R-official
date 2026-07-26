@@ -23,7 +23,7 @@
   </a>
   &nbsp;
   <a href="https://github.com/Karthigaiselvam-R-official?tab=stars">
-    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FKarthigaiselvam-R-official%2FKarthigaiselvam-R-official%2Fmain%2Frank-card%2Fstats.json&query=%24.stars&label=Stars&style=for-the-badge&logo=github&color=FF9900&labelColor=161b22" alt="Stars"/>
+    <img src="https://img.shields.io/github/stars/Karthigaiselvam-R-official?style=for-the-badge&logo=github&color=FF9900&labelColor=161b22" alt="Stars"/>
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/karthigaiselvam-r-7b9197258/">
@@ -395,14 +395,14 @@ me.say_hi()
         <img src="https://img.shields.io/github/followers/Karthigaiselvam-R-official?style=for-the-badge&logo=github&color=9B59B6&labelColor=0d0221&label=Followers" alt="Followers"/>
       </a>
       &nbsp;
-      <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FKarthigaiselvam-R-official%2FKarthigaiselvam-R-official%2Fmain%2Frank-card%2Fstats.json&query=%24.stars&label=Total+Stars&style=for-the-badge&color=FF9900&labelColor=0d0221&logo=github" alt="Total Stars"/>
+      <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2FKarthigaiselvam-R-official&query=%24.stars&label=Total+Stars&style=for-the-badge&color=FF9900&labelColor=0d0221&logo=github" alt="Total Stars"/>
       <br/>
       <!-- Contributions 2026 -->
       <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-contributions-api.jogruber.de%2Fv4%2FKarthigaiselvam-R-official&query=%24.total.2026&label=Contributions+2026&style=for-the-badge&color=39FF14&labelColor=0d0221&logo=github" alt="Contributions 2026"/>
       <br/>
       <!-- Public repos count -->
       <a href="https://github.com/Karthigaiselvam-R-official?tab=repositories">
-        <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FKarthigaiselvam-R-official%2FKarthigaiselvam-R-official%2Fmain%2Frank-card%2Fstats.json&query=%24.publicRepos&label=Public+Repos&style=for-the-badge&color=00fffa&labelColor=0d0221&logo=github" alt="Public Repos"/>
+        <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FKarthigaiselvam-R-official&query=%24.public_repos&label=Public+Repos&style=for-the-badge&color=00fffa&labelColor=0d0221&logo=github" alt="Public Repos"/>
       </a>
       <br/><br/>
       <!-- Contact / Social -->
