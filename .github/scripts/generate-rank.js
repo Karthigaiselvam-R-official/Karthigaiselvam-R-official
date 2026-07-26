@@ -272,7 +272,7 @@ async function main() {
     publicRepos: stats.publicRepos,
     totalStars: stats.totalStars,
     totalRepos: stats.totalRepos,
-    commits, prs: stats.prs, issues: stats.issues, followers: stats.followers 
+    commits, prs: stats.prs, issues: stats.issues, followers: stats.followers, gists: stats.gists
   }));
   
   console.log(`✓ Generated rank.svg, github-stats.svg, and stats.json successfully.`);
