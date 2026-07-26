@@ -34,6 +34,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add rank-card/rank.svg
-          git diff --cached --quiet && echo "No changes." || git commit -m "chore: update rank card [skip ci]"
+          git add rank-card/rank.svg rank-card/stats.json
+          git diff --cached --quiet && echo "No changes." || git commit -m "chore: update rank card and stats [skip ci]"
           git push

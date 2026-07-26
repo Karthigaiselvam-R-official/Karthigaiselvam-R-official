@@ -82,7 +82,7 @@ async function fetchPublicStats() {
   const res = await graphql(`{
     user(login: "${USERNAME}") {
       followers { totalCount }
-      repositories(ownerAffiliations: OWNER, first: 100, orderBy: {field: STARGAZERS, direction: DESC}) {
+      repositories(ownerAffiliations: [OWNER, COLLABORATOR], first: 100, orderBy: {field: STARGAZERS, direction: DESC}) {
         nodes { stargazers { totalCount } }
       }
       pullRequests(first: 1) { totalCount }
@@ -183,7 +183,8 @@ async function main() {
 
   fs.mkdirSync("rank-card", { recursive: true });
   fs.writeFileSync("rank-card/rank.svg", svg);
-  console.log(`✓ rank-card/rank.svg written. Rank: ${level} | Top ${percentile}%`);
+  fs.writeFileSync("rank-card/stats.json", JSON.stringify({ stars, commits, prs, issues, followers }));
+  console.log(`✓ rank-card/rank.svg and stats.json written. Rank: ${level} | Top ${percentile}%`);
 }
 
 main().catch((err) => {
