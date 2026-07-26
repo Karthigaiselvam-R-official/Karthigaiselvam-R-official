@@ -23,7 +23,7 @@
   </a>
   &nbsp;
   <a href="https://github.com/Karthigaiselvam-R-official?tab=stars">
-    <img src="https://img.shields.io/github/stars/Karthigaiselvam-R-official?style=for-the-badge&logo=github&color=FF9900&labelColor=161b22" alt="Stars"/>
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FKarthigaiselvam-R-official%2FKarthigaiselvam-R-official%2Fmain%2Frank-card%2Fstats.json&query=%24.stars&label=Public+Repo+Stars&style=for-the-badge&color=FF9900&labelColor=161b22&logo=github" alt="Public Repo Stars"/>
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/karthigaiselvam-r-7b9197258/">
@@ -35,7 +35,7 @@
   </a>
   &nbsp;
   <a href="https://github.com/Karthigaiselvam-R-official?tab=repositories">
-     <img src="https://img.shields.io/badge/📦_Public_Repos-Active-39FF14?style=for-the-badge&labelColor=161b22" alt="Public Repos"/>
+     <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FKarthigaiselvam-R-official%2FKarthigaiselvam-R-official%2Fmain%2Frank-card%2Fstats.json&query=%24.publicRepos&label=📦+Public+Repos&style=for-the-badge&color=39FF14&labelColor=161b22" alt="Public Repos"/>
   </a>
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=Karthigaiselvam-R-official&color=00D4FF&labelColor=161b22&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
