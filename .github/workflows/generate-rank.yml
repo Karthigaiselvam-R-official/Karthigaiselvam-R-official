@@ -2,21 +2,23 @@ name: Generate Rank Card
 
 on:
   schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+    - cron: "0 0 * * *"   # daily at midnight UTC
+  workflow_dispatch:        # allow manual trigger from Actions tab
 
 jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write
+      contents: write       # required to push rank-card/rank.svg back to repo
+
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout
+        uses: actions/checkout@v4
 
       - name: Setup Node
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v4
         with:
-          node-version: 18
+          node-version: 20
 
       - name: Generate Rank SVG
         env:
@@ -28,5 +30,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add rank-card/rank.svg
-          git commit -m "Updated rank card" || exit 0
+          git diff --cached --quiet && echo "No changes." || git commit -m "chore: update rank card [skip ci]"
           git push
