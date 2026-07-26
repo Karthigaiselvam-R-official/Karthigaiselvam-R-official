@@ -394,7 +394,7 @@ me.say_hi()
         <img src="https://img.shields.io/github/followers/Karthigaiselvam-R-official?style=for-the-badge&logo=github&color=9B59B6&labelColor=0d0221&label=Followers" alt="Followers"/>
       </a>
       &nbsp;
-      <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2FKarthigaiselvam-R-official&query=%24.stars&label=Total+Stars&style=for-the-badge&color=FF9900&labelColor=0d0221&logo=github" alt="Total Stars"/>
+      <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FKarthigaiselvam-R-official%2FKarthigaiselvam-R-official%2Fmain%2Frank-card%2Fstats.json&query=%24.stars&label=Public+Repo+Stars&style=for-the-badge&color=FF9900&labelColor=0d0221&logo=github" alt="Public Repo Stars"/>
       <br/>
       <!-- Contributions 2026 -->
       <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-contributions-api.jogruber.de%2Fv4%2FKarthigaiselvam-R-official&query=%24.total.2026&label=Contributions+2026&style=for-the-badge&color=39FF14&labelColor=0d0221&logo=github" alt="Contributions 2026"/>
