@@ -181,7 +181,7 @@ async function main() {
     commits, 
     prs: stats.prs, 
     issues: stats.issues, 
-    stars: stats.publicStars, 
+    stars: stats.totalStars, 
     followers: stats.followers 
   });
   
@@ -197,7 +197,7 @@ async function main() {
   <rect width="318" height="118" x="1" y="1" rx="11" fill="none" stroke="${color}" stroke-width="1.5"/>
   <text x="160" y="28" text-anchor="middle" font-family="monospace" font-size="13" fill="#00fffa">GitHub Rank</text>
   <text x="160" y="78" text-anchor="middle" font-family="monospace" font-size="52" font-weight="bold" fill="${color}">${level}</text>
-  <text x="160" y="108" text-anchor="middle" font-family="monospace" font-size="12" fill="#FEE75C">Top ${percentile}%  •  ${formatK(commits)} commits  •  ⭐ ${stats.publicStars}</text>
+  <text x="160" y="108" text-anchor="middle" font-family="monospace" font-size="12" fill="#FEE75C">Top ${percentile}%  •  ${formatK(commits)} commits  •  ⭐ ${stats.totalStars}</text>
 </svg>`;
 
   // 2. Generate the Custom Total Stats SVG (Replica of gh-readme-profile)
