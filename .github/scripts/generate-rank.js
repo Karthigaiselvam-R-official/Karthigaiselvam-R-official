@@ -201,7 +201,7 @@ async function main() {
 </svg>`;
 
   // 2. Generate the Custom Total Stats SVG (Replica of gh-readme-profile)
-  const statsSvg = `<svg width="550" height="260" viewBox="0 0 550 260" fill="none" xmlns="http://www.w3.org/2000/svg">
+  const statsSvg = `<svg width="580" height="260" viewBox="0 0 580 260" fill="none" xmlns="http://www.w3.org/2000/svg">
   <style>
     .title { font-family: 'Segoe UI', Ubuntu, sans-serif; font-weight: bold; font-size: 18px; fill: #00fffa; }
     .stat-label { font-family: 'Segoe UI', Ubuntu, sans-serif; font-size: 13px; fill: #ffffff; }
@@ -210,18 +210,18 @@ async function main() {
     .username { font-family: 'Segoe UI', Ubuntu, sans-serif; font-size: 11px; fill: #8b949e; }
     .icon { fill: #FF2079; }
   </style>
-  <rect width="550" height="260" rx="8" fill="#0d0221"/>
+  <rect width="580" height="260" rx="8" fill="#000000"/>
   
-  <g transform="translate(0, 50)">
+  <g transform="translate(0, 40)">
     <clipPath id="avatarClip">
-      <circle cx="85" cy="45" r="45"/>
+      <circle cx="100" cy="60" r="60"/>
     </clipPath>
-    ${avatarBase64 ? `<image href="${avatarBase64}" width="90" height="90" x="40" y="0" clip-path="url(#avatarClip)"/>` : `<circle cx="85" cy="45" r="45" fill="#30363d"/>`}
-    <text x="85" y="115" text-anchor="middle" class="name">@${USERNAME}</text>
-    <text x="85" y="132" text-anchor="middle" class="username">${stats.followers} Followers · ${stats.following} Following</text>
+    ${avatarBase64 ? `<image href="${avatarBase64}" width="120" height="120" x="40" y="0" clip-path="url(#avatarClip)"/>` : `<circle cx="100" cy="60" r="60" fill="#30363d"/>`}
+    <text x="100" y="145" text-anchor="middle" class="name">${USERNAME}</text>
+    <text x="100" y="165" text-anchor="middle" class="username">${stats.followers} Followers · ${stats.following} Following</text>
   </g>
 
-  <g transform="translate(180, 25)">
+  <g transform="translate(210, 25)">
     <text x="0" y="0" class="title">${stats.name}'s GitHub Stats</text>
     
     <g transform="translate(0, 25)">
