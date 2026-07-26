@@ -82,7 +82,7 @@ async function fetchPublicStats() {
   const res = await graphql(`{
     user(login: "${USERNAME}") {
       followers { totalCount }
-      repositories(ownerAffiliations: [OWNER, COLLABORATOR], first: 100, orderBy: {field: STARGAZERS, direction: DESC}) {
+      repositories(ownerAffiliations: OWNER, first: 100, orderBy: {field: STARGAZERS, direction: DESC}) {
         nodes { stargazers { totalCount } }
       }
       pullRequests(first: 1) { totalCount }
