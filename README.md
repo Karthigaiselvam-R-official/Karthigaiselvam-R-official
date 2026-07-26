@@ -504,7 +504,7 @@ MODULE: CONTRIBUTION TRACKING
   </a>
   &nbsp;
   <a href="https://github.com/Karthigaiselvam-R-official?tab=repositories&type=source">
-     <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FKarthigaiselvam-R-official%2FKarthigaiselvam-R-official%2Fmain%2Frank-card%2Fstats.json%3Fv%3D1&query=%24.gists&label=Author%27s+Scratch+Works&style=for-the-badge&color=8B5CF6&labelColor=161b22&logo=github" alt="Author's Scratch Works"/>
+     <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FKarthigaiselvam-R-official%2FKarthigaiselvam-R-official%2Fmain%2Frank-card%2Fstats.json%3Fv%3D2&query=%24.scratchWorks&label=Author%27s+Scratch+Works&style=for-the-badge&color=8B5CF6&labelColor=161b22&logo=github" alt="Author's Scratch Works"/>
   </a>
 </p>
 

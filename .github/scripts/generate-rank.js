@@ -92,7 +92,7 @@ async function fetchAllStats() {
       
       totalRepos: repositories(ownerAffiliations: [OWNER, COLLABORATOR], first: 100, orderBy: {field: STARGAZERS, direction: DESC}) {
         totalCount
-        nodes { stargazers { totalCount } forkCount }
+        nodes { stargazers { totalCount } forkCount isFork }
       }
       
       publicRepos: repositories(ownerAffiliations: OWNER, privacy: PUBLIC, first: 100, orderBy: {field: STARGAZERS, direction: DESC}) {
@@ -115,6 +115,7 @@ async function fetchAllStats() {
   const totalStars = u.totalRepos.nodes.reduce((s, r) => s + r.stargazers.totalCount, 0);
   const totalForks = u.totalRepos.nodes.reduce((s, r) => s + r.forkCount, 0);
   const publicStars = u.publicRepos.nodes.reduce((s, r) => s + r.stargazers.totalCount, 0);
+  const scratchWorks = u.totalRepos.nodes.filter(r => !r.isFork).length;
 
   return {
     name: u.name || USERNAME,
@@ -130,7 +131,8 @@ async function fetchAllStats() {
     mergedPRs: u.mergedPRs.totalCount,
     issues: u.issues.totalCount,
     contributedTo: u.repositoriesContributedTo.totalCount,
-    gists: u.gists.totalCount
+    gists: u.gists.totalCount,
+    scratchWorks
   };
 }
 
@@ -272,7 +274,7 @@ async function main() {
     publicRepos: stats.publicRepos,
     totalStars: stats.totalStars,
     totalRepos: stats.totalRepos,
-    commits, prs: stats.prs, issues: stats.issues, followers: stats.followers, gists: stats.gists
+    commits, prs: stats.prs, issues: stats.issues, followers: stats.followers, gists: stats.gists, scratchWorks: stats.scratchWorks
   }));
   
   console.log(`✓ Generated rank.svg, github-stats.svg, and stats.json successfully.`);
