@@ -82,7 +82,9 @@ Hey there! I'm a passionate **Security Researcher** and **Software Developer** f
 </td>
 <td width="45%" valign="top">
 
-<p align="center"><b>⚡ SYSTEM_IDENTITY // ASCII_RENDER</b></p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&duration=2000&pause=1500&color=00D4FF&center=true&vCenter=true&width=350&lines=%3E_+.%2Fdecrypt_avatar.sh;%5B%E2%9C%93%5D+BIOMETRICS_VERIFIED" alt="Decrypting Avatar" />
+</p>
 <div align="center">
   <img src="images/animated-profile-ascii.gif" alt="Animated ASCII Profile" width="95%" style="border-radius: 15px; border: 2px solid #00d4ff; box-shadow: 0 0 15px #00d4ff;">
 </div>
