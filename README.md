@@ -82,34 +82,10 @@ Hey there! I'm a passionate **Security Researcher** and **Software Developer** f
 </td>
 <td width="45%" valign="top">
 
-```python
-class SecurityResearcher:
-    def __init__(self):
-        self.name = "Karthigaiselvam R"
-        self.role = "Security Researcher"
-        self.language_spoken = ["ta_IN", "en_US"]
-        
-    def say_hi(self):
-        print("Thanks for dropping by!")
-        print("Let's connect and hack stuff!")
-
-    def get_skills(self):
-        return {
-            "security": [
-                "Penetration Testing",
-                "Web App Security",
-                "Network Security",
-                "Digital Forensics"
-            ],
-            "development": [
-                "Python", "C++", "JavaScript",
-                "Desktop Apps", "System Tools"
-            ]
-        }
-
-me = SecurityResearcher()
-me.say_hi()
-```
+<p align="center"><b>🎨 My Profile in Animated ASCII</b></p>
+<div align="center">
+  <img src="images/animated-profile-ascii.gif" alt="Animated ASCII Profile" width="80%" style="border-radius: 15px; border: 2px solid #00d4ff; box-shadow: 0 0 15px #00d4ff;">
+</div>
 
 </td>
 </tr>
