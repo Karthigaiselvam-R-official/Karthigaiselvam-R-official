@@ -35,7 +35,7 @@
   </a>
   &nbsp;
   <a href="https://github.com/Karthigaiselvam-R-official?tab=repositories">
-     <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FKarthigaiselvam-R-official%2FKarthigaiselvam-R-official%2Fmain%2Frank-card%2Fstats.json&query=%24.publicRepos&label=%F0%9F%93%A6+Public+Repos&style=for-the-badge&color=39FF14&labelColor=161b22" alt="Public Repos"/>
+     <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FKarthigaiselvam-R-official%2FKarthigaiselvam-R-official%2Fmain%2Frank-card%2Fstats.json&query=%24.publicRepos&label=Public+Repos&style=for-the-badge&color=39FF14&labelColor=161b22&logo=github" alt="Public Repos"/>
   </a>
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=Karthigaiselvam-R-official&color=00D4FF&labelColor=161b22&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
