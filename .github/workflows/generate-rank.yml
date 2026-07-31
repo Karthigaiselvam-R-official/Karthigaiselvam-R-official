@@ -2,7 +2,7 @@ name: Generate Rank Card
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # daily at midnight UTC
+    - cron: "0 */2 * * *"   # runs every 2 hours
   workflow_dispatch:        # allow manual trigger from Actions tab
 
 jobs:
