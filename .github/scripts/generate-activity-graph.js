@@ -93,7 +93,13 @@ function calcYScale(maxVal) {
   else if (norm < 7.5) step = 5 * mag;
   else step = 10 * mag;
   
-  const niceMax = Math.ceil(maxVal / step) * step;
+  let niceMax = Math.ceil(maxVal / step) * step;
+  
+  // Add a small buffer so the peak doesn't touch the absolute ceiling
+  if (niceMax - maxVal < step * 0.2) {
+    niceMax += step;
+  }
+  
   const sections = Math.round(niceMax / step);
   return { max: niceMax, sections, step };
 }
