@@ -84,7 +84,7 @@ Hey there! I'm a passionate **Security Researcher** and **Software Developer** f
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=20&duration=2000&pause=1000&color=39FF14&center=true&vCenter=true&width=450&lines=%5B+SYSTEM%20OVERRIDE%20INITIATED+%5D;%5B+DECRYPTING%20BIOMETRIC%20DATA...+%5D;%5B+EXTRACTING%20NEURAL%20PATTERN...+%5D;%5B+RECONSTRUCTING%20DIGITAL%20TWIN...+%5D;%5B+SYNCING%20WITH%20THE%20MATRIX...+%5D;%5B+IDENTITY%20MATRIX%20ONLINE+%5D" alt="Epic Avatar Sequence" />
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=20&duration=2000&pause=1000&color=39FF14&center=true&vCenter=true&width=450&lines=SYSTEM%20OVERRIDE%20INITIATED;DECRYPTING%20BIOMETRIC%20DATA...;EXTRACTING%20NEURAL%20PATTERN...;RECONSTRUCTING%20DIGITAL%20TWIN...;SYNCING%20WITH%20THE%20MATRIX...;IDENTITY%20MATRIX%20ONLINE" alt="Epic Avatar Sequence" />
   </a>
 </p>
 <div align="center">
