@@ -15,7 +15,7 @@ const options = {
     pointColor: "FEE75C",
     areaColor: "00fffa"
   },
-  padding: { top: 80, right: 50, bottom: 40, left: 50 }
+  padding: { top: 80, right: 50, bottom: 80, left: 50 }
 };
 
 function graphql(q, variables) {
