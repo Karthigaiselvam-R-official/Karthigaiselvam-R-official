@@ -20,7 +20,7 @@ jobs:
         with:
           node-version: 20
 
-      - name: Generate Rank SVG
+      - name: Generate Rank and Activity Graph
         env:
           # Use GH_TOKEN (PAT with read:user) if set, else fall back to GITHUB_TOKEN.
           # With GITHUB_TOKEN: commit counts are unavailable (integration restriction),
@@ -28,12 +28,14 @@ jobs:
           # To enable full commit counts: add a PAT with read:user scope as secret GH_TOKEN.
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: node .github/scripts/generate-rank.js
+        run: |
+          node .github/scripts/generate-rank.js
+          node .github/scripts/generate-activity-graph.js
 
       - name: Commit & Push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add rank-card/rank.svg rank-card/stats.json rank-card/github-stats.svg
-          git diff --cached --quiet && echo "No changes." || git commit -m "chore: update rank card and stats [skip ci]"
+          git add rank-card/rank.svg rank-card/stats.json rank-card/github-stats.svg rank-card/activity-graph.svg
+          git diff --cached --quiet && echo "No changes." || git commit -m "chore: update rank card, stats, and activity graph [skip ci]"
           git push

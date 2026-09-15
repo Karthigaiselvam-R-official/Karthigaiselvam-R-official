@@ -419,7 +419,7 @@ Hey there! I'm a passionate **Security Researcher** and **Software Developer** f
 
 <!-- Activity Graph - 2077 Cyberpunk Colors (Yellow/Cyan) -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Karthigaiselvam-R-official&bg_color=000000&color=FEE75C&line=00fffa&point=FEE75C&area_color=00fffa&area=true&hide_border=true" alt="Activity Graph"/>
+  <img src="./rank-card/activity-graph.svg" alt="Activity Graph"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
