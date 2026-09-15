@@ -158,10 +158,19 @@ async function main() {
     const yPos = options.padding.top + h - (days[i].contributionCount / maxCount) * h;
     points.push({ x: xPos, y: yPos });
     
-    // X Label (date day number)
-    const dayStr = parseInt(days[i].date.split('-')[2], 10).toString();
-    xLabels += `<text x="${xPos}" y="${options.padding.top + h + 20}" class="ct-label ct-horizontal ct-end">${dayStr}</text>\n`;
+    // X Label (Month + Day)
+    const dateParts = days[i].date.split('-');
+    const dateObj = new Date(dateParts[0], dateParts[1] - 1, dateParts[2]);
+    const monthStr = dateObj.toLocaleString('en-US', { month: 'short' });
+    const dayStr = parseInt(dateParts[2], 10).toString();
+    const labelStr = `${monthStr} ${dayStr}`;
+    
+    // Rotate text by -45 degrees for better spacing
+    xLabels += `<text x="${xPos}" y="${options.padding.top + h + 25}" class="ct-label" transform="rotate(-45, ${xPos}, ${options.padding.top + h + 25})" style="font-size: 12px; text-anchor: end;">${labelStr}</text>\n`;
   }
+  
+  // Y-axis title
+  const yAxisTitle = `<text x="15" y="${options.padding.top + h / 2}" class="ct-label" transform="rotate(-90, 15, ${options.padding.top + h / 2})" style="font-size: 16px; font-weight: bold;">Contributions</text>`;
   
   // Generate curve path
   const curvePath = getCurvePath(points);
@@ -226,6 +235,7 @@ async function main() {
   <!-- Grid -->
   ${gridLines}
   ${yLabels}
+  ${yAxisTitle}
   ${xLabels}
 
   <!-- Data graph -->
