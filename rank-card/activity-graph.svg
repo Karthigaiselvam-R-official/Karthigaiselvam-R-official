@@ -61,42 +61,43 @@
 <text x="40" y="144" class="ct-label ct-vertical ct-start">48</text>
 <text x="40" y="84" class="ct-label ct-vertical ct-start">60</text>
 
-  <text x="50" y="400" class="ct-label ct-horizontal ct-end">17</text>
-<text x="86.66666666666666" y="400" class="ct-label ct-horizontal ct-end">18</text>
-<text x="123.33333333333333" y="400" class="ct-label ct-horizontal ct-end">19</text>
-<text x="160" y="400" class="ct-label ct-horizontal ct-end">20</text>
-<text x="196.66666666666666" y="400" class="ct-label ct-horizontal ct-end">21</text>
-<text x="233.33333333333331" y="400" class="ct-label ct-horizontal ct-end">22</text>
-<text x="270" y="400" class="ct-label ct-horizontal ct-end">23</text>
-<text x="306.66666666666663" y="400" class="ct-label ct-horizontal ct-end">24</text>
-<text x="343.3333333333333" y="400" class="ct-label ct-horizontal ct-end">25</text>
-<text x="380" y="400" class="ct-label ct-horizontal ct-end">26</text>
-<text x="416.66666666666663" y="400" class="ct-label ct-horizontal ct-end">27</text>
-<text x="453.3333333333333" y="400" class="ct-label ct-horizontal ct-end">28</text>
-<text x="490" y="400" class="ct-label ct-horizontal ct-end">29</text>
-<text x="526.6666666666666" y="400" class="ct-label ct-horizontal ct-end">30</text>
-<text x="563.3333333333333" y="400" class="ct-label ct-horizontal ct-end">31</text>
-<text x="600" y="400" class="ct-label ct-horizontal ct-end">1</text>
-<text x="636.6666666666666" y="400" class="ct-label ct-horizontal ct-end">2</text>
-<text x="673.3333333333333" y="400" class="ct-label ct-horizontal ct-end">3</text>
-<text x="710" y="400" class="ct-label ct-horizontal ct-end">4</text>
-<text x="746.6666666666666" y="400" class="ct-label ct-horizontal ct-end">5</text>
-<text x="783.3333333333333" y="400" class="ct-label ct-horizontal ct-end">6</text>
-<text x="820" y="400" class="ct-label ct-horizontal ct-end">7</text>
-<text x="856.6666666666666" y="400" class="ct-label ct-horizontal ct-end">8</text>
-<text x="893.3333333333333" y="400" class="ct-label ct-horizontal ct-end">9</text>
-<text x="930" y="400" class="ct-label ct-horizontal ct-end">10</text>
-<text x="966.6666666666666" y="400" class="ct-label ct-horizontal ct-end">11</text>
-<text x="1003.3333333333333" y="400" class="ct-label ct-horizontal ct-end">12</text>
-<text x="1040" y="400" class="ct-label ct-horizontal ct-end">13</text>
-<text x="1076.6666666666665" y="400" class="ct-label ct-horizontal ct-end">14</text>
-<text x="1113.3333333333333" y="400" class="ct-label ct-horizontal ct-end">15</text>
-<text x="1150" y="400" class="ct-label ct-horizontal ct-end">16</text>
+  <text x="15" y="230" class="ct-label" transform="rotate(-90, 15, 230)" style="font-size: 16px; font-weight: bold;">Contributions</text>
+  <text x="50" y="405" class="ct-label" transform="rotate(-45, 50, 405)" style="font-size: 12px; text-anchor: end;">Aug 17</text>
+<text x="86.66666666666666" y="405" class="ct-label" transform="rotate(-45, 86.66666666666666, 405)" style="font-size: 12px; text-anchor: end;">Aug 18</text>
+<text x="123.33333333333333" y="405" class="ct-label" transform="rotate(-45, 123.33333333333333, 405)" style="font-size: 12px; text-anchor: end;">Aug 19</text>
+<text x="160" y="405" class="ct-label" transform="rotate(-45, 160, 405)" style="font-size: 12px; text-anchor: end;">Aug 20</text>
+<text x="196.66666666666666" y="405" class="ct-label" transform="rotate(-45, 196.66666666666666, 405)" style="font-size: 12px; text-anchor: end;">Aug 21</text>
+<text x="233.33333333333331" y="405" class="ct-label" transform="rotate(-45, 233.33333333333331, 405)" style="font-size: 12px; text-anchor: end;">Aug 22</text>
+<text x="270" y="405" class="ct-label" transform="rotate(-45, 270, 405)" style="font-size: 12px; text-anchor: end;">Aug 23</text>
+<text x="306.66666666666663" y="405" class="ct-label" transform="rotate(-45, 306.66666666666663, 405)" style="font-size: 12px; text-anchor: end;">Aug 24</text>
+<text x="343.3333333333333" y="405" class="ct-label" transform="rotate(-45, 343.3333333333333, 405)" style="font-size: 12px; text-anchor: end;">Aug 25</text>
+<text x="380" y="405" class="ct-label" transform="rotate(-45, 380, 405)" style="font-size: 12px; text-anchor: end;">Aug 26</text>
+<text x="416.66666666666663" y="405" class="ct-label" transform="rotate(-45, 416.66666666666663, 405)" style="font-size: 12px; text-anchor: end;">Aug 27</text>
+<text x="453.3333333333333" y="405" class="ct-label" transform="rotate(-45, 453.3333333333333, 405)" style="font-size: 12px; text-anchor: end;">Aug 28</text>
+<text x="490" y="405" class="ct-label" transform="rotate(-45, 490, 405)" style="font-size: 12px; text-anchor: end;">Aug 29</text>
+<text x="526.6666666666666" y="405" class="ct-label" transform="rotate(-45, 526.6666666666666, 405)" style="font-size: 12px; text-anchor: end;">Aug 30</text>
+<text x="563.3333333333333" y="405" class="ct-label" transform="rotate(-45, 563.3333333333333, 405)" style="font-size: 12px; text-anchor: end;">Aug 31</text>
+<text x="600" y="405" class="ct-label" transform="rotate(-45, 600, 405)" style="font-size: 12px; text-anchor: end;">Sep 1</text>
+<text x="636.6666666666666" y="405" class="ct-label" transform="rotate(-45, 636.6666666666666, 405)" style="font-size: 12px; text-anchor: end;">Sep 2</text>
+<text x="673.3333333333333" y="405" class="ct-label" transform="rotate(-45, 673.3333333333333, 405)" style="font-size: 12px; text-anchor: end;">Sep 3</text>
+<text x="710" y="405" class="ct-label" transform="rotate(-45, 710, 405)" style="font-size: 12px; text-anchor: end;">Sep 4</text>
+<text x="746.6666666666666" y="405" class="ct-label" transform="rotate(-45, 746.6666666666666, 405)" style="font-size: 12px; text-anchor: end;">Sep 5</text>
+<text x="783.3333333333333" y="405" class="ct-label" transform="rotate(-45, 783.3333333333333, 405)" style="font-size: 12px; text-anchor: end;">Sep 6</text>
+<text x="820" y="405" class="ct-label" transform="rotate(-45, 820, 405)" style="font-size: 12px; text-anchor: end;">Sep 7</text>
+<text x="856.6666666666666" y="405" class="ct-label" transform="rotate(-45, 856.6666666666666, 405)" style="font-size: 12px; text-anchor: end;">Sep 8</text>
+<text x="893.3333333333333" y="405" class="ct-label" transform="rotate(-45, 893.3333333333333, 405)" style="font-size: 12px; text-anchor: end;">Sep 9</text>
+<text x="930" y="405" class="ct-label" transform="rotate(-45, 930, 405)" style="font-size: 12px; text-anchor: end;">Sep 10</text>
+<text x="966.6666666666666" y="405" class="ct-label" transform="rotate(-45, 966.6666666666666, 405)" style="font-size: 12px; text-anchor: end;">Sep 11</text>
+<text x="1003.3333333333333" y="405" class="ct-label" transform="rotate(-45, 1003.3333333333333, 405)" style="font-size: 12px; text-anchor: end;">Sep 12</text>
+<text x="1040" y="405" class="ct-label" transform="rotate(-45, 1040, 405)" style="font-size: 12px; text-anchor: end;">Sep 13</text>
+<text x="1076.6666666666665" y="405" class="ct-label" transform="rotate(-45, 1076.6666666666665, 405)" style="font-size: 12px; text-anchor: end;">Sep 14</text>
+<text x="1113.3333333333333" y="405" class="ct-label" transform="rotate(-45, 1113.3333333333333, 405)" style="font-size: 12px; text-anchor: end;">Sep 15</text>
+<text x="1150" y="405" class="ct-label" transform="rotate(-45, 1150, 405)" style="font-size: 12px; text-anchor: end;">Sep 16</text>
 
 
   <!-- Data graph -->
-  <path class="ct-area" d="M 50,265 C 56.11,283.33 74.44,358.33 86.67,375.00 C 98.89,391.67 111.11,367.50 123.33,365.00 C 135.56,362.50 147.78,358.33 160.00,360.00 C 172.22,361.67 184.44,373.33 196.67,375.00 C 208.89,376.67 221.11,375.00 233.33,370.00 C 245.56,365.00 257.78,345.00 270.00,345.00 C 282.22,345.00 294.44,373.33 306.67,370.00 C 318.89,366.67 331.11,324.17 343.33,325.00 C 355.56,325.83 367.78,366.67 380.00,375.00 C 392.22,383.33 404.44,375.83 416.67,375.00 C 428.89,374.17 441.11,419.17 453.33,370.00 C 465.56,320.83 477.78,80.00 490.00,80.00 C 502.22,80.00 514.44,320.83 526.67,370.00 C 538.89,419.17 551.11,374.17 563.33,375.00 C 575.56,375.83 587.78,375.83 600.00,375.00 C 612.22,374.17 624.44,373.33 636.67,370.00 C 648.89,366.67 661.11,354.17 673.33,355.00 C 685.56,355.83 697.78,371.67 710.00,375.00 C 722.22,378.33 734.44,375.00 746.67,375.00 C 758.89,375.00 771.11,375.00 783.33,375.00 C 795.56,375.00 807.78,375.00 820.00,375.00 C 832.22,375.00 844.44,374.17 856.67,375.00 C 868.89,375.83 881.11,380.00 893.33,380.00 C 905.56,380.00 917.78,375.83 930.00,375.00 C 942.22,374.17 954.44,374.17 966.67,375.00 C 978.89,375.83 991.11,380.00 1003.33,380.00 C 1015.56,380.00 1027.78,375.00 1040.00,375.00 C 1052.22,375.00 1064.44,391.67 1076.67,380.00 C 1088.89,368.33 1101.11,309.17 1113.33,305.00 C 1125.56,300.83 1143.89,346.67 1150.00,355.00 L 1150,380 L 50,380 Z" />
-  <path class="ct-line" d="M 50,265 C 56.11,283.33 74.44,358.33 86.67,375.00 C 98.89,391.67 111.11,367.50 123.33,365.00 C 135.56,362.50 147.78,358.33 160.00,360.00 C 172.22,361.67 184.44,373.33 196.67,375.00 C 208.89,376.67 221.11,375.00 233.33,370.00 C 245.56,365.00 257.78,345.00 270.00,345.00 C 282.22,345.00 294.44,373.33 306.67,370.00 C 318.89,366.67 331.11,324.17 343.33,325.00 C 355.56,325.83 367.78,366.67 380.00,375.00 C 392.22,383.33 404.44,375.83 416.67,375.00 C 428.89,374.17 441.11,419.17 453.33,370.00 C 465.56,320.83 477.78,80.00 490.00,80.00 C 502.22,80.00 514.44,320.83 526.67,370.00 C 538.89,419.17 551.11,374.17 563.33,375.00 C 575.56,375.83 587.78,375.83 600.00,375.00 C 612.22,374.17 624.44,373.33 636.67,370.00 C 648.89,366.67 661.11,354.17 673.33,355.00 C 685.56,355.83 697.78,371.67 710.00,375.00 C 722.22,378.33 734.44,375.00 746.67,375.00 C 758.89,375.00 771.11,375.00 783.33,375.00 C 795.56,375.00 807.78,375.00 820.00,375.00 C 832.22,375.00 844.44,374.17 856.67,375.00 C 868.89,375.83 881.11,380.00 893.33,380.00 C 905.56,380.00 917.78,375.83 930.00,375.00 C 942.22,374.17 954.44,374.17 966.67,375.00 C 978.89,375.83 991.11,380.00 1003.33,380.00 C 1015.56,380.00 1027.78,375.00 1040.00,375.00 C 1052.22,375.00 1064.44,391.67 1076.67,380.00 C 1088.89,368.33 1101.11,309.17 1113.33,305.00 C 1125.56,300.83 1143.89,346.67 1150.00,355.00" />
+  <path class="ct-area" d="M 50,265 C 56.11,283.33 74.44,358.33 86.67,375.00 C 98.89,391.67 111.11,367.50 123.33,365.00 C 135.56,362.50 147.78,358.33 160.00,360.00 C 172.22,361.67 184.44,373.33 196.67,375.00 C 208.89,376.67 221.11,375.00 233.33,370.00 C 245.56,365.00 257.78,345.00 270.00,345.00 C 282.22,345.00 294.44,373.33 306.67,370.00 C 318.89,366.67 331.11,324.17 343.33,325.00 C 355.56,325.83 367.78,366.67 380.00,375.00 C 392.22,383.33 404.44,375.83 416.67,375.00 C 428.89,374.17 441.11,419.17 453.33,370.00 C 465.56,320.83 477.78,80.00 490.00,80.00 C 502.22,80.00 514.44,320.83 526.67,370.00 C 538.89,419.17 551.11,374.17 563.33,375.00 C 575.56,375.83 587.78,375.83 600.00,375.00 C 612.22,374.17 624.44,373.33 636.67,370.00 C 648.89,366.67 661.11,354.17 673.33,355.00 C 685.56,355.83 697.78,371.67 710.00,375.00 C 722.22,378.33 734.44,375.00 746.67,375.00 C 758.89,375.00 771.11,375.00 783.33,375.00 C 795.56,375.00 807.78,375.00 820.00,375.00 C 832.22,375.00 844.44,374.17 856.67,375.00 C 868.89,375.83 881.11,380.00 893.33,380.00 C 905.56,380.00 917.78,375.83 930.00,375.00 C 942.22,374.17 954.44,374.17 966.67,375.00 C 978.89,375.83 991.11,380.00 1003.33,380.00 C 1015.56,380.00 1027.78,375.00 1040.00,375.00 C 1052.22,375.00 1064.44,391.67 1076.67,380.00 C 1088.89,368.33 1101.11,310.00 1113.33,305.00 C 1125.56,300.00 1143.89,342.50 1150.00,350.00 L 1150,380 L 50,380 Z" />
+  <path class="ct-line" d="M 50,265 C 56.11,283.33 74.44,358.33 86.67,375.00 C 98.89,391.67 111.11,367.50 123.33,365.00 C 135.56,362.50 147.78,358.33 160.00,360.00 C 172.22,361.67 184.44,373.33 196.67,375.00 C 208.89,376.67 221.11,375.00 233.33,370.00 C 245.56,365.00 257.78,345.00 270.00,345.00 C 282.22,345.00 294.44,373.33 306.67,370.00 C 318.89,366.67 331.11,324.17 343.33,325.00 C 355.56,325.83 367.78,366.67 380.00,375.00 C 392.22,383.33 404.44,375.83 416.67,375.00 C 428.89,374.17 441.11,419.17 453.33,370.00 C 465.56,320.83 477.78,80.00 490.00,80.00 C 502.22,80.00 514.44,320.83 526.67,370.00 C 538.89,419.17 551.11,374.17 563.33,375.00 C 575.56,375.83 587.78,375.83 600.00,375.00 C 612.22,374.17 624.44,373.33 636.67,370.00 C 648.89,366.67 661.11,354.17 673.33,355.00 C 685.56,355.83 697.78,371.67 710.00,375.00 C 722.22,378.33 734.44,375.00 746.67,375.00 C 758.89,375.00 771.11,375.00 783.33,375.00 C 795.56,375.00 807.78,375.00 820.00,375.00 C 832.22,375.00 844.44,374.17 856.67,375.00 C 868.89,375.83 881.11,380.00 893.33,380.00 C 905.56,380.00 917.78,375.83 930.00,375.00 C 942.22,374.17 954.44,374.17 966.67,375.00 C 978.89,375.83 991.11,380.00 1003.33,380.00 C 1015.56,380.00 1027.78,375.00 1040.00,375.00 C 1052.22,375.00 1064.44,391.67 1076.67,380.00 C 1088.89,368.33 1101.11,310.00 1113.33,305.00 C 1125.56,300.00 1143.89,342.50 1150.00,350.00" />
   <line x1="50" y1="265" x2="50.01" y2="265" class="ct-point"></line>
 <line x1="86.66666666666666" y1="375" x2="86.67666666666666" y2="375" class="ct-point"></line>
 <line x1="123.33333333333333" y1="365" x2="123.34333333333333" y2="365" class="ct-point"></line>
@@ -127,7 +128,7 @@
 <line x1="1040" y1="375" x2="1040.01" y2="375" class="ct-point"></line>
 <line x1="1076.6666666666665" y1="380" x2="1076.6766666666665" y2="380" class="ct-point"></line>
 <line x1="1113.3333333333333" y1="305" x2="1113.3433333333332" y2="305" class="ct-point"></line>
-<line x1="1150" y1="355" x2="1150.01" y2="355" class="ct-point"></line>
+<line x1="1150" y1="350" x2="1150.01" y2="350" class="ct-point"></line>
 
 
 </svg>
