@@ -7,7 +7,7 @@ const TOKEN = process.env.GH_TOKEN || process.env.GITHUB_TOKEN;
 // Options for exactly replicating the graph style
 const options = {
   width: 1200,
-  height: 420,
+  height: 460, // Increased height to give plenty of room for rotated labels
   colors: {
     bgColor: "000000",
     color: "FEE75C", // Text and title color
@@ -15,7 +15,8 @@ const options = {
     pointColor: "FEE75C",
     areaColor: "00fffa"
   },
-  padding: { top: 80, right: 50, bottom: 80, left: 50 }
+  padding: { top: 80, right: 50, bottom: 80, left: 50 },
+  radius: 15 // Curved edges
 };
 
 function graphql(q, variables) {
@@ -79,6 +80,24 @@ function getCurvePath(points) {
   return path;
 }
 
+// Dynamically calculates clean axis steps (e.g., jumps of 10, 20, 50, 100)
+function calcYScale(maxVal) {
+  if (maxVal === 0) return { max: 5, sections: 5, step: 1 };
+  const roughStep = maxVal / 5;
+  const mag = Math.pow(10, Math.floor(Math.log10(roughStep || 1)));
+  const norm = roughStep / mag; 
+  
+  let step;
+  if (norm < 1.5) step = 1 * mag;
+  else if (norm < 3.5) step = 2 * mag;
+  else if (norm < 7.5) step = 5 * mag;
+  else step = 10 * mag;
+  
+  const niceMax = Math.ceil(maxVal / step) * step;
+  const sections = Math.round(niceMax / step);
+  return { max: niceMax, sections, step };
+}
+
 async function main() {
   console.log(`Generating activity graph for: ${USERNAME}`);
   
@@ -130,18 +149,18 @@ async function main() {
   const h = options.height - options.padding.top - options.padding.bottom;
   
   // Max contributions for Y scaling
-  let maxCount = Math.max(...days.map(d => d.contributionCount));
-  if (maxCount === 0) maxCount = 1; // avoid div by zero
+  let actualMax = Math.max(...days.map(d => d.contributionCount));
+  const yScale = calcYScale(actualMax);
+  const maxCount = yScale.max;
 
   // Build grid lines and labels
   let gridLines = '';
   let yLabels = '';
   
-  // Y-axis grid (5 sections usually)
-  const ySections = 5;
-  for (let i = 0; i <= ySections; i++) {
-    const yVal = Math.round((maxCount / ySections) * i);
-    const yPos = options.padding.top + h - (h / ySections) * i;
+  // Y-axis grid 
+  for (let i = 0; i <= yScale.sections; i++) {
+    const yVal = yScale.step * i;
+    const yPos = options.padding.top + h - (h / yScale.sections) * i;
     
     // Grid horizontal line
     gridLines += `<line x1="${options.padding.left}" y1="${yPos}" x2="${options.padding.left + w}" y2="${yPos}" class="ct-grid" />\n`;
@@ -166,7 +185,7 @@ async function main() {
     const labelStr = `${monthStr} ${dayStr}`;
     
     // Rotate text by -45 degrees for better spacing
-    xLabels += `<text x="${xPos}" y="${options.padding.top + h + 25}" class="ct-label" transform="rotate(-45, ${xPos}, ${options.padding.top + h + 25})" style="font-size: 12px; text-anchor: end;">${labelStr}</text>\n`;
+    xLabels += `<text x="${xPos}" y="${options.padding.top + h + 25}" class="ct-label" transform="rotate(-45, ${xPos}, ${options.padding.top + h + 25})" style="font-size: 13px; text-anchor: end;">${labelStr}</text>\n`;
   }
   
   // Y-axis title
@@ -185,7 +204,7 @@ async function main() {
   }
 
   const svg = `<svg width="${options.width}" height="${options.height}" viewBox="0 0 ${options.width} ${options.height}" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect x="0" y="0" width="100%" height="100%" rx="0" fill="#${options.colors.bgColor}" stroke="none"/>
+  <rect x="0" y="0" width="100%" height="100%" rx="${options.radius}" fill="#${options.colors.bgColor}" stroke="none"/>
   <style>
     body { font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; }
     .header { font: 600 20px 'Segoe UI', Ubuntu, Sans-Serif; text-align: center; color: #${options.colors.color}; margin-top: 20px; }
